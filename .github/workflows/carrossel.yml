@@ -1,0 +1,32 @@
+name: Carrossel GreenGold
+
+on:
+  schedule:
+    - cron: '17 * * * *'   # de hora em hora (minuto 17)
+  workflow_dispatch: {}     # permite rodar manual pelo botao
+
+permissions:
+  contents: write           # pra commitar os slides e o estado
+
+concurrency:
+  group: carrossel
+  cancel-in-progress: false
+
+jobs:
+  rodar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Gerar e postar carrossel
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+          POST_ENABLED: ${{ vars.POST_ENABLED }}
+        run: python carrossel.py
