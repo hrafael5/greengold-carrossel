@@ -26,7 +26,19 @@ IG_USER    = os.environ.get("IG_USER_ID", "")
 REPO       = os.environ.get("REPO", "hrafael5/greengold-carrossel")
 BRANCH     = os.environ.get("BRANCH", "main")
 POST       = os.environ.get("POST_ENABLED", "0") == "1"
-BLOG_API   = "https://greengoldengenharia.com.br/wp-json/wp/v2/posts?per_page=1&_embed=wp:featuredmedia"
+BLOG_API   = "https://greengoldengenharia.com.br/wp-json/wp/v2/posts?per_page=1"
+
+# fotos limpas vetadas (Unsplash, sem chave). A IA escolhe o tema; cai no default se nao reconhecer.
+FOTOS = {
+    "projeto":    "1503387762-592deb58ef4e",   # engenheiro desenhando plantas
+    "tecnico":    "1581092160562-40aa08e78837", # desenho tecnico na prancheta
+    "obra":       "1565008447742-97f6f38c985c", # canteiro / torres em obra
+    "construcao": "1504307651254-35680f356dfd", # trabalhadores na obra
+    "predial":    "1487958449943-2429e8be8625", # predio moderno
+}
+def foto_url(tema):
+    pid = FOTOS.get((tema or "").strip().lower(), FOTOS["projeto"])
+    return "https://images.unsplash.com/photo-%s?w=1280&q=80" % pid
 
 # ===================== DESIGN (padrao aprovado, IBM Plex) =====================
 BG, GOLD, WHITE, OFF, DIM = (12,36,16), (201,169,110), (255,255,255), (228,224,212), (150,168,150)
@@ -74,25 +86,31 @@ def save(img, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     img.save(path, quality=92)
 
-def cover(data, path, banner=None):
+def cover(data, path, photo=None):
     img, d = base(); x = MX
-    used_banner = False
-    if banner and os.path.exists(banner):
+    used = False
+    if photo and os.path.exists(photo):
         try:
-            bn = Image.open(banner).convert("RGB")
-            bw = W - 56; bh = int(bn.height * bw / bn.width)
-            bn = bn.resize((bw, bh), Image.LANCZOS)
-            img.paste(bn, (28, 30))                                # banner do artigo no topo
-            d.rectangle([28, 30+bh, W-28, 30+bh+4], fill=GOLD)     # regua dourada separando
-            d.rectangle([28, 28, W-28, H-28], outline=GOLD, width=2)  # moldura por cima
-            y = 30 + bh + 70
-            tracked(d, x, y, str(data["capa_kicker"]).upper(), F_KICKER, GOLD, 3)
+            ph = Image.open(photo).convert("RGB")                  # foto limpa (sem texto)
+            sc = max(W/ph.width, H/ph.height)
+            ph = ph.resize((int(ph.width*sc), int(ph.height*sc)), Image.LANCZOS)
+            l = (ph.width-W)//2; t = (ph.height-H)//2
+            base_ph = ph.crop((l, t, l+W, t+H)).convert("RGBA")
+            ov = Image.new("RGBA", (W, H), (0,0,0,0)); od = ImageDraw.Draw(ov)
+            for yy in range(H):                                    # degrade: leve no topo, forte embaixo
+                a = 105 if yy < 680 else int(105 + (245-105)*((yy-680)/(H-680)))
+                od.line([(0, yy), (W, yy)], fill=(12, 36, 16, a))
+            comp = Image.alpha_composite(base_ph, ov).convert("RGB")
+            img.paste(comp, (0, 0)); d = ImageDraw.Draw(img)
+            d.rectangle([28, 28, W-28, H-28], outline=GOLD, width=2)
+            y = 780                                                # UM texto, embaixo
+            tracked(d, x, y, str(data["capa_kicker"]).upper(), F_KICKER, GOLD, 4)
             d.rectangle([x, y+50, x+80, y+54], fill=GOLD); y += 100
             block(d, x, y, data["capa_titulo"], F_HBIG, WHITE, CW, 78)
-            used_banner = True
+            used = True
         except Exception:
-            used_banner = False
-    if not used_banner:                                           # fallback: fundo verde liso
+            used = False
+    if not used:                                                  # fallback: fundo verde liso
         y = 250
         tracked(d, x, y, str(data["capa_kicker"]).upper(), F_KICKER, GOLD, 4)
         d.rectangle([x, y+50, x+80, y+54], fill=GOLD); y += 110
@@ -122,8 +140,8 @@ def cta(data, path):
     d.text((x+32, y+18), "Link na bio", font=F_PILL, fill=BG)
     footer(img, d, 7); save(img, path)
 
-def render(data, outdir, banner=None):
-    cover(data, os.path.join(outdir, "slide-1.jpg"), banner)
+def render(data, outdir, photo=None):
+    cover(data, os.path.join(outdir, "slide-1.jpg"), photo)
     for i, s in enumerate(data["slides"][:5]):
         content("%02d" % (i+1), s["titulo"], s["corpo"], i+2, os.path.join(outdir, "slide-%d.jpg" % (i+2)))
     cta(data, os.path.join(outdir, "slide-7.jpg"))
@@ -159,8 +177,9 @@ Regras:
 - Os titulos dos slides NAO comecam com numero (o slide ja tem o numero).
 - Exatamente 5 slides de conteudo. Capa com gancho forte, CTA no final.
 - Tecnicamente correto, cite a NBR quando fizer sentido.
+- Escolha tema_foto pela cara do artigo, UM de: projeto, tecnico, obra, construcao, predial.
 Responda APENAS JSON:
-{"formato":"...","capa_kicker":"CATEGORIA CURTA EM CAIXA ALTA","capa_titulo":"...","capa_subtitulo":"...","slides":[{"titulo":"...","corpo":"..."}],"cta_titulo":"...","cta_corpo":"...","legenda":"2 a 3 frases + 8 hashtags sem localizacao"}
+{"formato":"...","tema_foto":"projeto","capa_kicker":"a NOTICIA/assunto especifico do artigo, bem curto (a materia, ex: Construi Mais Brasil, NBR 13714, AVCB)","capa_titulo":"o gancho que engaja, curto","capa_subtitulo":"...","slides":[{"titulo":"...","corpo":"..."}],"cta_titulo":"...","cta_corpo":"...","legenda":"2 a 3 frases + 8 hashtags sem localizacao"}
 ARTIGO:
 Titulo: %s
 Conteudo: %s"""
@@ -231,15 +250,14 @@ def main():
     print("Formato escolhido pela IA:", data.get("formato"))
     outdir = os.path.join(SLIDES, str(art["id"]))
     os.makedirs(outdir, exist_ok=True)
-    banner = None
-    if art.get("img"):
-        try:
-            banner = os.path.join(outdir, "banner.jpg")
-            open(banner, "wb").write(http(art["img"]))
-            print("Banner do artigo baixado (capa estilo revista)")
-        except Exception as e:
-            print("Banner falhou, usando fundo liso:", e); banner = None
-    render(data, outdir, banner)
+    photo = None
+    try:
+        photo = os.path.join(outdir, "cover-photo.jpg")
+        open(photo, "wb").write(http(foto_url(data.get("tema_foto"))))
+        print("Foto limpa da capa baixada (tema: %s)" % data.get("tema_foto"))
+    except Exception as e:
+        print("Foto falhou, usando fundo verde:", e); photo = None
+    render(data, outdir, photo)
     print("7 slides renderizados em", outdir)
     json.dump(data, open(os.path.join(outdir, "carrossel.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
