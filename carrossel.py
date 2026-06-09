@@ -26,7 +26,7 @@ IG_USER    = os.environ.get("IG_USER_ID", "")
 REPO       = os.environ.get("REPO", "hrafael5/greengold-carrossel")
 BRANCH     = os.environ.get("BRANCH", "main")
 POST       = os.environ.get("POST_ENABLED", "0") == "1"
-BLOG_API   = "https://greengoldengenharia.com.br/wp-json/wp/v2/posts?per_page=1"
+BLOG_API   = "https://greengoldengenharia.com.br/wp-json/wp/v2/posts?per_page=1&_embed=wp:featuredmedia"
 
 # ===================== DESIGN (padrao aprovado, IBM Plex) =====================
 BG, GOLD, WHITE, OFF, DIM = (12,36,16), (201,169,110), (255,255,255), (228,224,212), (150,168,150)
@@ -74,12 +74,30 @@ def save(img, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     img.save(path, quality=92)
 
-def cover(data, path):
-    img, d = base(); x, y = MX, 250
-    tracked(d, x, y, str(data["capa_kicker"]).upper(), F_KICKER, GOLD, 4)
-    d.rectangle([x, y+50, x+80, y+54], fill=GOLD); y += 110
-    y = block(d, x, y, data["capa_titulo"], F_HBIG, WHITE, CW, 78); y += 26
-    block(d, x, y, data["capa_subtitulo"], F_SUB, GOLD, CW, 48)
+def cover(data, path, banner=None):
+    img, d = base(); x = MX
+    used_banner = False
+    if banner and os.path.exists(banner):
+        try:
+            bn = Image.open(banner).convert("RGB")
+            bw = W - 56; bh = int(bn.height * bw / bn.width)
+            bn = bn.resize((bw, bh), Image.LANCZOS)
+            img.paste(bn, (28, 30))                                # banner do artigo no topo
+            d.rectangle([28, 30+bh, W-28, 30+bh+4], fill=GOLD)     # regua dourada separando
+            d.rectangle([28, 28, W-28, H-28], outline=GOLD, width=2)  # moldura por cima
+            y = 30 + bh + 70
+            tracked(d, x, y, str(data["capa_kicker"]).upper(), F_KICKER, GOLD, 3)
+            d.rectangle([x, y+50, x+80, y+54], fill=GOLD); y += 100
+            block(d, x, y, data["capa_titulo"], F_HBIG, WHITE, CW, 78)
+            used_banner = True
+        except Exception:
+            used_banner = False
+    if not used_banner:                                           # fallback: fundo verde liso
+        y = 250
+        tracked(d, x, y, str(data["capa_kicker"]).upper(), F_KICKER, GOLD, 4)
+        d.rectangle([x, y+50, x+80, y+54], fill=GOLD); y += 110
+        y = block(d, x, y, data["capa_titulo"], F_HBIG, WHITE, CW, 78); y += 26
+        block(d, x, y, data["capa_subtitulo"], F_SUB, GOLD, CW, 48)
     arr = "arraste  →"
     d.text((W - MX - d.textlength(arr, font=F_SUB), H - 185), arr, font=F_SUB, fill=OFF)
     footer(img, d, 1); save(img, path)
@@ -104,8 +122,8 @@ def cta(data, path):
     d.text((x+32, y+18), "Link na bio", font=F_PILL, fill=BG)
     footer(img, d, 7); save(img, path)
 
-def render(data, outdir):
-    cover(data, os.path.join(outdir, "slide-1.jpg"))
+def render(data, outdir, banner=None):
+    cover(data, os.path.join(outdir, "slide-1.jpg"), banner)
     for i, s in enumerate(data["slides"][:5]):
         content("%02d" % (i+1), s["titulo"], s["corpo"], i+2, os.path.join(outdir, "slide-%d.jpg" % (i+2)))
     cta(data, os.path.join(outdir, "slide-7.jpg"))
@@ -123,7 +141,12 @@ def latest_article():
     title = re.sub(r"<[^>]+>", "", p["title"]["rendered"])
     body = re.sub(r"<[^>]+>", " ", p["content"]["rendered"])
     body = re.sub(r"\s+", " ", body).strip()[:4000]
-    return {"id": p["id"], "title": title, "content": body, "link": p["link"]}
+    img = None
+    try:
+        img = p["_embedded"]["wp:featuredmedia"][0]["source_url"]
+    except Exception:
+        pass
+    return {"id": p["id"], "title": title, "content": body, "link": p["link"], "img": img}
 
 PROMPT = """Voce e redator de redes sociais da GreenGold Engenharia Multidisciplinar (instalacoes prediais, BIM, eletrico, hidrossanitario, SPDA, PPCI, com ART no CREA).
 A partir do artigo, crie um CARROSSEL de Instagram que ENGAJA e as pessoas COMPARTILHAM.
@@ -207,7 +230,16 @@ def main():
     data = gerar_ia(art)
     print("Formato escolhido pela IA:", data.get("formato"))
     outdir = os.path.join(SLIDES, str(art["id"]))
-    render(data, outdir)
+    os.makedirs(outdir, exist_ok=True)
+    banner = None
+    if art.get("img"):
+        try:
+            banner = os.path.join(outdir, "banner.jpg")
+            open(banner, "wb").write(http(art["img"]))
+            print("Banner do artigo baixado (capa estilo revista)")
+        except Exception as e:
+            print("Banner falhou, usando fundo liso:", e); banner = None
+    render(data, outdir, banner)
     print("7 slides renderizados em", outdir)
     json.dump(data, open(os.path.join(outdir, "carrossel.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
