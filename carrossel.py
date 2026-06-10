@@ -261,14 +261,19 @@ def main():
     print("7 slides renderizados em", outdir)
     json.dump(data, open(os.path.join(outdir, "carrossel.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
-    # commita os slides sempre (versiona + deixa visivel pra revisao), best-effort
+    # commita os slides sempre (versiona + deixa visivel pra revisao)
+    git_ok = True
     try:
         git("add", "slides"); git("commit", "-m", "render artigo %s" % art["id"]); git("push")
     except Exception as e:
-        print("git pulado (rodando local?):", e)
+        git_ok = False
+        print("git falhou (rodando local?):", e)
 
     if not POST:
         print("POST_ENABLED desligado: renderizei e commitei pra revisao, sem postar."); return
+    if not git_ok:
+        # sem commit os slides nao existem no raw.githubusercontent: postar daria 404 na Meta
+        raise RuntimeError("commit/push dos slides falhou; abortando o post pra nao mandar URL 404 pra Meta")
 
     urls = ["https://raw.githubusercontent.com/%s/%s/slides/%s/slide-%d.jpg" % (REPO, BRANCH, art["id"], i) for i in range(1, 8)]
     aguarda_urls(urls)
