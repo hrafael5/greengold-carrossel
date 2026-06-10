@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "Nova NR-10: Portaria MTE 737/2026",
+ "capa_titulo": "Sua Edificação Está Segura?",
+ "capa_subtitulo": "Descubra os 5 erros que você não pode cometer com a nova NR-10.",
+ "slides": [
+  {
+   "titulo": "Risco Elétrico Isolado?",
+   "corpo": "A nova NR-10 integra o risco elétrico ao Gerenciamento de Riscos Ocupacionais (GRO) da NR-01. Tratá-lo à parte é um erro grave."
+  },
+  {
+   "titulo": "Prioridade Invertida?",
+   "corpo": "A desenergização é a prioridade explícita sobre EPI. Usar EPI sem antes eliminar o perigo é uma falha na hierarquia de proteção."
+  },
+  {
+   "titulo": "Arco Elétrico Subestimado?",
+   "corpo": "O arco elétrico é um risco que exige avaliação específica. Ignorar sua análise pode levar a acidentes graves e explosões."
+  },
+  {
+   "titulo": "Prontuário Desatualizado?",
+   "corpo": "Prontuários incompletos ou 'parados no tempo' não refletem ampliações de carga. Eles são um sintoma de não conformidade."
+  },
+  {
+   "titulo": "Projeto Elétrico Obsoleto?",
+   "corpo": "Diagramas unifilares e projetos elétricos divergentes da instalação real são um risco. Quadros sem DR/DPS (previstos em projeto) indicam falha."
+  }
+ ],
+ "cta_titulo": "Adeque-se à Nova NR-10!",
+ "cta_corpo": "Evite riscos legais, técnicos e financeiros. A GreenGold Engenharia oferece soluções completas para sua edificação.",
+ "legenda": "A nova NR-10 já está em vigor, com prazo de adequação até junho de 2027. Sua edificação precisa estar em conformidade para garantir a segurança e evitar penalidades. Conte com a GreenGold Engenharia para um projeto elétrico atualizado e a adequação completa. #NR10 #SegurancaEletrica #EngenhariaEletrica #InstalacoesPrediais #BIM #SPDA #PPCI #GreenGoldEngenharia"
+}
