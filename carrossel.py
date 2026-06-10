@@ -173,7 +173,8 @@ Regras:
 - PT-BR formal, 100 por cento acentuado.
 - PROIBIDO travessao. Use virgula, ponto ou parenteses.
 - NAO citar estados (MG, SP, RJ, ES).
-- 1 ideia por slide, frases curtas.
+- PRIORIDADE DE GANCHO: se o artigo trata de norma NOVA, revisao de norma, portaria, decreto, lei ou nova obrigacao, a capa DEVE liderar com isso (ex: Nova NR-10 publicada, BIM vai ser obrigatorio, A norma mudou). Mudanca de regra e obrigacao engajam mais que o tema em si. Nesse caso capa_kicker = nome da norma ou portaria e capa_titulo = o impacto da mudanca (o que muda, quem e afetado ou prazo).
+- 1 ideia por slide, mas corpo DENSO: 2 a 4 frases (entre 250 e 420 caracteres) RETIRADAS DO CONTEUDO DO ARTIGO, com dados concretos (numeros, prazos, datas de vigencia, percentuais, itens da norma). Nada de generalidade que serviria pra qualquer artigo.
 - Os titulos dos slides NAO comecam com numero (o slide ja tem o numero).
 - Exatamente 5 slides de conteudo. Capa com gancho forte, CTA no final.
 - Tecnicamente correto, cite a NBR quando fizer sentido.
