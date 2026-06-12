@@ -28,13 +28,13 @@ BRANCH     = os.environ.get("BRANCH", "main")
 POST       = os.environ.get("POST_ENABLED", "0") == "1"
 BLOG_API   = "https://greengoldengenharia.com.br/wp-json/wp/v2/posts?per_page=1"
 
-# fotos limpas vetadas (Unsplash, sem chave). A IA escolhe o tema; cai no default se nao reconhecer.
+# fotos limpas SEM PESSOAS (Unsplash, sem chave). A IA escolhe o tema; cai no default se nao reconhecer.
 FOTOS = {
-    "projeto":    "1503387762-592deb58ef4e",   # engenheiro desenhando plantas
-    "tecnico":    "1581092160562-40aa08e78837", # desenho tecnico na prancheta
-    "obra":       "1565008447742-97f6f38c985c", # canteiro / torres em obra
-    "construcao": "1504307651254-35680f356dfd", # trabalhadores na obra
-    "predial":    "1487958449943-2429e8be8625", # predio moderno
+    "projeto":    "1721244654394-36a7bc2da288", # planta / projeto de edificio
+    "tecnico":    "1542621334-a254cf47733d",    # desenho tecnico na prancheta
+    "obra":       "1609867271967-a82f85c48531", # canteiro com guindaste
+    "construcao": "1527335988388-b40ee248d80c", # estrutura metalica em construcao
+    "predial":    "1602757115429-b4190ae087be", # edificio moderno em concreto
 }
 def foto_url(tema):
     pid = FOTOS.get((tema or "").strip().lower(), FOTOS["projeto"])
