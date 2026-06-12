@@ -1,0 +1,32 @@
+{
+ "formato": "Checklist",
+ "tema_foto": "projeto",
+ "capa_kicker": "NBR 5419:2026 Publicada",
+ "capa_titulo": "O que muda no projeto de SPDA?",
+ "capa_subtitulo": "Nova análise de risco e aumento do Ng redefinem a proteção das edificações.",
+ "slides": [
+  {
+   "titulo": "A Nova NBR 5419:2026",
+   "corpo": "A ABNT publicou em 10 de março de 2026 a nova edição da NBR 5419, substituindo integralmente a versão de 2015. Esta revisão alinha o texto brasileiro à norma internacional IEC 62305 (2024), alterando pontos centrais do projeto de SPDA e impactando diretamente laudos, projetos e inspeções."
+  },
+  {
+   "titulo": "Análise de Risco Atualizada",
+   "corpo": "A parte 2 da norma agora aborda \"análise de risco\" com a introdução do conceito de Frequência de Danos (F). Projetistas devem estimar quantas paradas anuais uma descarga atmosférica pode causar em equipamentos críticos e não críticos, um indicador essencial para a operação de condomínios, indústrias e edifícios comerciais."
+  },
+  {
+   "titulo": "Aumento da Densidade de Descargas (Ng)",
+   "corpo": "Os valores de Ng, a densidade de descargas atmosféricas para o solo por km² por ano, foram significativamente atualizados para cima em grande parte do país. Edificações que em 2015 dispensavam proteção podem, com os novos cálculos, passar a exigir um SPDA completo, aumentando a necessidade de revisão."
+  },
+  {
+   "titulo": "Mudanças em Materiais e Componentes",
+   "corpo": "As tabelas de materiais foram atualizadas. A seção de cabos de aço cobreado foi equiparada à dos cabos de cobre, e condutores de cobre embutidos no concreto passaram a ser admitidos. Contudo, o aço zincado a quente foi proibido na transição entre concreto e solo, exigindo atenção na especificação."
+  },
+  {
+   "titulo": "Sinais de Inadequação do seu SPDA",
+   "corpo": "Seu projeto ou laudo de SPDA cita a edição de 2015 e nunca foi reavaliado após março de 2026? A análise de risco original concluiu \"proteção dispensada\" com valores antigos de Ng? Estes são indícios de que sua edificação pode estar em desacordo com a edição vigente da NBR 5419:2026."
+  }
+ ],
+ "cta_titulo": "Seu SPDA está em dia?",
+ "cta_corpo": "Garanta a segurança e conformidade da sua edificação. A GreenGold Engenharia realiza a análise e adequação do seu projeto de SPDA conforme a NBR 5419:2026. Entre em contato para uma avaliação!",
+ "legenda": "A NBR 5419:2026 já está em vigor e traz mudanças cruciais para a proteção contra descargas atmosféricas. Não deixe a segurança da sua edificação para depois: verifique se seu SPDA está atualizado e em conformidade com as novas exigências normativas. Proteja vidas, equipamentos e o patrimônio.\n#SPDA #NBR5419 #EngenhariaEletrica #ProtecaoContraRaios #SegurancaPredial #GreenGoldEngenharia #ProjetosDeEngenharia #NormaTecnica"
+}
