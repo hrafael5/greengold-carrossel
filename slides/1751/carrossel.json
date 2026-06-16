@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "NBR 17076",
+ "capa_titulo": "Fim da Fossa Séptica Isolada!",
+ "capa_subtitulo": "A nova NBR 17076 mudou as regras. Evite estes 5 erros comuns e garanta a conformidade do seu sistema de esgoto.",
+ "slides": [
+  {
+   "titulo": "Erro 1: Desconhecer a NBR 17076",
+   "corpo": "A NBR 17076, publicada pela ABNT em 2024, unificou e substituiu as antigas NBR 7229:1993 e NBR 13969:1997. Ela é a única referência para projeto, execução e manutenção de sistemas de tratamento de esgoto descentralizado, cobrindo vazões de até 12.000 litros/dia."
+  },
+  {
+   "titulo": "Erro 2: Usar apenas tanque séptico",
+   "corpo": "A principal mudança conceitual é clara: o tanque séptico isolado foi revogado como solução completa. A NBR 17076 exige uma sequência de etapas encadeadas, com unidades específicas para tratamento preliminar, primário e disposição final do efluente, garantindo maior eficácia."
+  },
+  {
+   "titulo": "Erro 3: Ignorar os prazos de adequação",
+   "corpo": "Desde 2026, municípios e órgãos ambientais cobrarão conformidade para licenciar obras e ligações. Projetar uma fossa fora do padrão NBR 17076 se tornou um risco jurídico e ambiental concreto, podendo gerar multas, embargos e processos por contaminação."
+  },
+  {
+   "titulo": "Erro 4: Não reconhecer os sinais de falha",
+   "corpo": "Mau cheiro, refluxo de esgoto, solo encharcado, contaminação de poços, e dificuldade de aprovar a edificação são alertas. Fossa \"negra\", tanque séptico sem tratamento complementar, ausência de ART e projeto subdimensionado são falhas comuns que exigem atenção imediata."
+  },
+  {
+   "titulo": "Erro 5: Dispensar um profissional habilitado",
+   "corpo": "A NBR 17076 padroniza o tratamento de esgoto descentralizado para edificações sem rede pública. Um projeto adequado, assinado por engenheiro habilitado com ART no CREA, é fundamental para garantir a conformidade técnica e legal, evitando problemas futuros."
+  }
+ ],
+ "cta_titulo": "Garanta a conformidade do seu sistema de esgoto!",
+ "cta_corpo": "Fale com a GreenGold Engenharia para um projeto de esgoto descentralizado dentro da NBR 17076. Evite problemas e proteja o meio ambiente com soluções completas e seguras.",
+ "legenda": "Sua edificação não tem rede pública de esgoto? Atenção! A NBR 17076, publicada em 2024, mudou as regras para sistemas de tratamento descentralizado, substituindo as antigas NBR 7229 e NBR 13969. Garanta a conformidade do seu projeto com a GreenGold Engenharia, evitando riscos jurídicos e ambientais. #EngenhariaCivil #NBR17076 #TratamentoDeEsgoto #SaneamentoBásico #ART #GreenGoldEngenharia #InstalacoesPrediais #Sustentabilidade"
+}
