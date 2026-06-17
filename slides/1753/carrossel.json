@@ -1,0 +1,32 @@
+{
+ "formato": "Erros comuns",
+ "tema_foto": "projeto",
+ "capa_kicker": "Novas regras em 2026",
+ "capa_titulo": "Ar-condicionado na fachada: agora exige projeto e ART!",
+ "capa_subtitulo": "Evite multas e problemas: entenda as mudanças para condomínios.",
+ "slides": [
+  {
+   "titulo": "Instalação de ar-condicionado é alteração de fachada",
+   "corpo": "A fixação de um aparelho na fachada do edifício, incluindo furos e tubulações aparentes, é considerada alteração da edificação. O Código Civil, artigo 1.336, inciso III, proíbe essa modificação sem autorização da assembleia."
+  },
+  {
+   "titulo": "O risco de não ter projeto e ART",
+   "corpo": "Sem projeto técnico e autorização da assembleia, o condômino se expõe a multas previstas em convenção e a ações de remoção do equipamento. Há também responsabilidade por danos elétricos, estruturais ou de infiltração."
+  },
+  {
+   "titulo": "Problemas elétricos comuns",
+   "corpo": "Disjuntor desarmando, tomadas esquentando ou fiação ligada em circuitos compartilhados com outros eletrodomésticos são sinais de irregularidade. A NBR 5410, norma das instalações elétricas, recomenda circuito exclusivo para o ar-condicionado."
+  },
+  {
+   "titulo": "Drenagem e fixação inadequadas",
+   "corpo": "Água do dreno escorrendo pela fachada, pingando no vizinho ou causando infiltração, além de condensadora mal fixada ou enferrujada, indicam falhas. A tubulação do dreno deve ter caimento contínuo para descarte adequado."
+  },
+  {
+   "titulo": "Como regularizar a instalação",
+   "corpo": "A regularização exige um serviço projetado, contemplando as disciplinas elétrica, hidráulica e estrutural da fachada. Um engenheiro qualificado deve assinar o projeto e a Anotação de Responsabilidade Técnica (ART) do serviço."
+  }
+ ],
+ "cta_titulo": "Evite problemas e garanta a segurança!",
+ "cta_corpo": "Invista em um projeto de engenharia para a instalação do seu ar-condicionado. Fale com a GreenGold e tenha um serviço com ART e dentro das normas.",
+ "legenda": "A instalação de ar-condicionado na fachada do seu condomínio não é mais uma decisão simples. Novas interpretações jurídicas e normas exigem projeto e ART para garantir a segurança e conformidade. Proteja seu patrimônio e evite dores de cabeça com a GreenGold Engenharia. #EngenhariaCivil #InstalacoesPrediais #Condominio #ArCondicionado #ART #NBR5410 #ManutencaoPredial #SegurancaPredial"
+}
