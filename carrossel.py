@@ -26,7 +26,7 @@ IG_USER    = os.environ.get("IG_USER_ID", "")
 REPO       = os.environ.get("REPO", "hrafael5/greengold-carrossel")
 BRANCH     = os.environ.get("BRANCH", "main")
 POST       = os.environ.get("POST_ENABLED", "0") == "1"
-BLOG_API   = "https://greengoldengenharia.com.br/wp-json/wp/v2/posts?per_page=1"
+BLOG_API   = "https://greengoldengenharia.com.br/wp-json/wp/v2/posts?per_page=1&_embed"
 
 # fotos limpas SEM PESSOAS (Unsplash, sem chave). A IA escolhe o tema; cai no default se nao reconhecer.
 FOTOS = {
