@@ -252,12 +252,23 @@ def main():
     outdir = os.path.join(SLIDES, str(art["id"]))
     os.makedirs(outdir, exist_ok=True)
     photo = None
-    try:
-        photo = os.path.join(outdir, "cover-photo.jpg")
-        open(photo, "wb").write(http(foto_url(data.get("tema_foto"))))
-        print("Foto limpa da capa baixada (tema: %s)" % data.get("tema_foto"))
-    except Exception as e:
-        print("Foto falhou, usando fundo verde:", e); photo = None
+    cover_path = os.path.join(outdir, "cover-photo.jpg")
+    # 1) PRIORIDADE: a imagem destacada do PROPRIO artigo (featured image do post)
+    if art.get("img"):
+        try:
+            open(cover_path, "wb").write(http(art["img"]))
+            photo = cover_path
+            print("Foto da capa = imagem do artigo:", art["img"])
+        except Exception as e:
+            print("Imagem do artigo falhou, caindo pro tema:", e); photo = None
+    # 2) FALLBACK: foto limpa do tema (sem pessoas) so se o artigo nao tiver imagem
+    if not photo:
+        try:
+            open(cover_path, "wb").write(http(foto_url(data.get("tema_foto"))))
+            photo = cover_path
+            print("Fallback: foto limpa do tema (%s)" % data.get("tema_foto"))
+        except Exception as e:
+            print("Foto falhou, usando fundo verde:", e); photo = None
     render(data, outdir, photo)
     print("7 slides renderizados em", outdir)
     json.dump(data, open(os.path.join(outdir, "carrossel.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
