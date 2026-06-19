@@ -1,0 +1,32 @@
+{
+ "formato": "passo a passo",
+ "tema_foto": "projeto",
+ "capa_kicker": "Fio B, Lei 15.269/2025 e ANEEL",
+ "capa_titulo": "Geração Distribuída: Seu Projeto Fotovoltaico Mudou!",
+ "capa_subtitulo": "Entenda as novas regras de 2026 e como adaptar seu sistema solar.",
+ "slides": [
+  {
+   "titulo": "Entenda as Novas Regras do Fio B",
+   "corpo": "Em 2026, a cobrança do Fio B para sistemas homologados alcançou 60% sobre a energia exportada, conforme a regra de transição da Lei 14.300/2022. Essa parcela da tarifa remunera o uso da rede de distribuição, impactando diretamente o retorno financeiro de muitos projetos."
+  },
+  {
+   "titulo": "Aproveite a Tecnologia de Baterias (BESS)",
+   "corpo": "A Lei 15.269/2025 legalizou sistemas de armazenamento em baterias (BESS) e zerou o Imposto de Importação até 2030, barateando soluções que permitem guardar energia. Isso abre novas possibilidades para otimizar o consumo e reduzir a dependência da rede."
+  },
+  {
+   "titulo": "Monitore a Consulta Pública da ANEEL",
+   "corpo": "Aberta em 22 de abril de 2026, a consulta pública da ANEEL discute a cobrança pelo uso da rede, bloqueio de conexões em áreas saturadas e punições para ampliações irregulares. Este cenário exige um projeto elétrico reavaliado para evitar riscos futuros."
+  },
+  {
+   "titulo": "Priorize o Autoconsumo Instantâneo",
+   "corpo": "O projeto precisa ser repensado do zero, deslocando o foco da injeção de excedente para o autoconsumo instantâneo, o 'casamento de carga'. A energia consumida no momento da geração não sofre incidência do Fio B, otimizando seu investimento."
+  },
+  {
+   "titulo": "Revise Seu Projeto com Especialistas",
+   "corpo": "Se o retorno financeiro prometido não fecha, o parecer de acesso da distribuidora atrasa ou é negado, ou a conta de luz permanece alta, seu projeto pode precisar de revisão. Um dimensionamento sem estudo do Fio B ou sem prever BESS são indícios claros."
+  }
+ ],
+ "cta_titulo": "Seu Projeto Solar Está Atualizado?",
+ "cta_corpo": "Evite riscos legais, técnicos e financeiros. Conte com a GreenGold Engenharia para um projeto elétrico que se adequa às novas regras da Geração Distribuída. Fale conosco!",
+ "legenda": "As recentes mudanças nas regras da Geração Distribuída, com o Fio B a 60% e novas leis, exigem uma revisão completa do seu projeto elétrico. Garanta a eficiência e a conformidade do seu sistema solar com a GreenGold Engenharia, especialista em instalações prediais e soluções fotovoltaicas. Invista com segurança e maximize seu retorno.\n#GeraçãoDistribuída #EnergiaSolar #ProjetoElétrico #BIM #Engenharia #Sustentabilidade #Fotovoltaico #GreenGoldEngenharia"
+}
