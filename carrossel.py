@@ -86,10 +86,25 @@ def save(img, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     img.save(path, quality=92)
 
-def cover(data, path, photo=None):
+def cover(data, path, photo=None, article=False):
     img, d = base(); x = MX
     used = False
-    if photo and os.path.exists(photo):
+    if photo and os.path.exists(photo) and article:               # imagem do PROPRIO artigo (banner ja com texto): contida no topo, gancho no verde abaixo (sem sobrepor)
+        try:
+            ph = Image.open(photo).convert("RGB")
+            sc = min((W-56)/ph.width, 640/ph.height)
+            nw = int(ph.width*sc); nh = int(ph.height*sc)
+            ph = ph.resize((nw, nh), Image.LANCZOS)
+            img.paste(ph, ((W-nw)//2, 70))
+            d = ImageDraw.Draw(img); d.rectangle([28, 28, W-28, H-28], outline=GOLD, width=2)
+            y = 70 + nh + 54
+            tracked(d, x, y, str(data["capa_kicker"]).upper(), F_KICKER, GOLD, 4)
+            d.rectangle([x, y+50, x+80, y+54], fill=GOLD); y += 100
+            block(d, x, y, data["capa_titulo"], F_HBIG, WHITE, CW, 78)
+            used = True
+        except Exception:
+            used = False
+    elif photo and os.path.exists(photo):
         try:
             ph = Image.open(photo).convert("RGB")                  # foto limpa (sem texto)
             sc = max(W/ph.width, H/ph.height)
@@ -140,8 +155,8 @@ def cta(data, path):
     d.text((x+32, y+18), "Link na bio", font=F_PILL, fill=BG)
     footer(img, d, 7); save(img, path)
 
-def render(data, outdir, photo=None):
-    cover(data, os.path.join(outdir, "slide-1.jpg"), photo)
+def render(data, outdir, photo=None, article=False):
+    cover(data, os.path.join(outdir, "slide-1.jpg"), photo, article)
     for i, s in enumerate(data["slides"][:5]):
         content("%02d" % (i+1), s["titulo"], s["corpo"], i+2, os.path.join(outdir, "slide-%d.jpg" % (i+2)))
     cta(data, os.path.join(outdir, "slide-7.jpg"))
@@ -251,13 +266,13 @@ def main():
     print("Formato escolhido pela IA:", data.get("formato"))
     outdir = os.path.join(SLIDES, str(art["id"]))
     os.makedirs(outdir, exist_ok=True)
-    photo = None
+    photo = None; is_article = False
     cover_path = os.path.join(outdir, "cover-photo.jpg")
     # 1) PRIORIDADE: a imagem destacada do PROPRIO artigo (featured image do post)
     if art.get("img"):
         try:
             open(cover_path, "wb").write(http(art["img"]))
-            photo = cover_path
+            photo = cover_path; is_article = True
             print("Foto da capa = imagem do artigo:", art["img"])
         except Exception as e:
             print("Imagem do artigo falhou, caindo pro tema:", e); photo = None
@@ -265,11 +280,11 @@ def main():
     if not photo:
         try:
             open(cover_path, "wb").write(http(foto_url(data.get("tema_foto"))))
-            photo = cover_path
+            photo = cover_path; is_article = False
             print("Fallback: foto limpa do tema (%s)" % data.get("tema_foto"))
         except Exception as e:
             print("Foto falhou, usando fundo verde:", e); photo = None
-    render(data, outdir, photo)
+    render(data, outdir, photo, is_article)
     print("7 slides renderizados em", outdir)
     json.dump(data, open(os.path.join(outdir, "carrossel.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
