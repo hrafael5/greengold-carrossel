@@ -1,0 +1,32 @@
+{
+ "formato": "passo a passo",
+ "tema_foto": "projeto",
+ "capa_kicker": "Revisão da NBR 5410",
+ "capa_titulo": "Sua instalação elétrica vai mudar!",
+ "capa_subtitulo": "A norma mais usada em projetos elétricos prediais está sendo reescrita. Prepare-se para 2026!",
+ "slides": [
+  {
+   "titulo": "Entenda a NBR 5410",
+   "corpo": "A NBR 5410 é a norma técnica brasileira que estabelece os requisitos mínimos para instalações elétricas de baixa tensão, até 1.000 volts em corrente alternada. Ela garante a segurança contra choques elétricos, incêndios e sobrecargas, regendo desde residências até lojas. Sua edição vigente é de 2004 e está em revisão."
+  },
+  {
+   "titulo": "O Caminho da Nova Norma",
+   "corpo": "A NBR 5410, em vigor desde 2004, passa pela revisão mais extensa de sua história. A primeira consulta nacional, entre 28 de novembro de 2023 e 29 de fevereiro de 2024, gerou mais de mil sugestões. A ABNT projeta concluir o processo e publicar o texto final até o fim de 2026, impactando todos os projetos."
+  },
+  {
+   "titulo": "Dimensionamento Mais Preciso",
+   "corpo": "Uma das principais mudanças é a atualização da base normativa dos componentes elétricos, focando nos condutores. Haverá revisão das tabelas de correntes admissíveis e novos métodos de referência alinhados à IEC 60364-5-52. Isso tornará o dimensionamento de cabos mais preciso e seguro, refletindo as tecnologias atuais."
+  },
+  {
+   "titulo": "Novidades no Escopo da Norma",
+   "corpo": "A revisão harmoniza a NBR 5410 com a NBR 5419, de SPDA, eliminando contradições. O escopo também será ampliado para cobrir instalações de baixa tensão em vias públicas (iluminação, semáforos, radares) e pontos de recarga de veículos elétricos. Essa atualização reflete a evolução tecnológica e as novas necessidades urbanas."
+  },
+  {
+   "titulo": "Evite Problemas Futuros",
+   "corpo": "Projetos desalinhados com a revisão podem gerar passivos, como cabos subdimensionados ou ausência de infraestrutura para recarga veicular. Esses problemas não impedem a obra, mas surgirão em vistorias, vendas ou ampliações de carga. Antecipar as mudanças, projetando com margem técnica, é crucial para evitar retrabalho e custos futuros."
+  }
+ ],
+ "cta_titulo": "Não deixe seu projeto defasado!",
+ "cta_corpo": "A GreenGold Engenharia, com ART no CREA, projeta instalações elétricas alinhadas às futuras exigências da NBR 5410. Garanta segurança e conformidade para sua edificação. Fale com nossos especialistas!",
+ "legenda": "A NBR 5410 está em revisão e grandes mudanças estão a caminho para os projetos elétricos de baixa tensão! Fique por dentro das atualizações e garanta que suas instalações estejam sempre seguras e em conformidade. Não espere 2026 para se adaptar, projete com visão de futuro.\n#NBR5410 #EngenhariaEletrica #InstalacoesEletricas #ProjetoEletrico #BIM #SPDA #PPCI #GreenGoldEngenharia"
+}
