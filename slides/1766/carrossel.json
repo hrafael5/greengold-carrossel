@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "NR 12/2025 da ANA",
+ "capa_titulo": "Drenagem Pluvial: Sua edificação em risco com a nova norma?",
+ "capa_subtitulo": "Entenda as exigências da Resolução nº 245/2025 e evite problemas no seu projeto.",
+ "slides": [
+  {
+   "titulo": "O que é Drenagem Pluvial?",
+   "corpo": "Drenagem pluvial é o conjunto de instalações que capta a água da chuva sobre telhados, lajes e áreas pavimentadas, conduzindo-a com segurança para um destino adequado. Isso inclui rede pública, sistema de infiltração ou reservatório, essencial para o manejo urbano."
+  },
+  {
+   "titulo": "A Nova Realidade da Drenagem",
+   "corpo": "A Resolução nº 245/2025 da ANA, com a NR nº 12/2025, elevou a drenagem pluvial a serviço de saneamento básico, ao lado de água, esgoto e resíduos. Esta mudança reforça a exigência de que cada edificação retenha a água da chuva que produz, em vez de lançá-la diretamente na rua."
+  },
+  {
+   "titulo": "Erro Comum: Água escorrendo sem controle",
+   "corpo": "Um sinal claro de não conformidade é a água da chuva escorrendo direto do telhado para a calçada ou terreno vizinho, sem condução por calhas e condutores dimensionados. Essa prática gera problemas de escoamento e pode levar a penalidades."
+  },
+  {
+   "titulo": "Erro Comum: Sistema Subdimensionado ou Inexistente",
+   "corpo": "Empoçamento recorrente após chuvas de média intensidade, ou ralos, calhas e condutores transbordando, são evidências de dimensionamento incorreto ou ausente. Além disso, lançar água pluvial na rede pública sem reservatório de retardo, contraria exigências de licenciamento local, como em leis que cobram retenção em lotes acima de 500 m²."
+  },
+  {
+   "titulo": "O Risco de Projetos Desatualizados",
+   "corpo": "Um projeto de drenagem inexistente ou desatualizado, sem ART (Anotação de Responsabilidade Técnica) registrada, é um risco legal, técnico e financeiro. Além disso, infiltrações em fundações, recalques e manchas de umidade podem estar diretamente ligados a um sistema de drenagem inadequado."
+  }
+ ],
+ "cta_titulo": "Garanta a Conformidade do seu Projeto!",
+ "cta_corpo": "Evite multas e problemas estruturais. A GreenGold Engenharia, com ART no CREA, projeta e adequa seu sistema de drenagem às novas exigências da ANA e legislações locais, utilizando soluções baseadas na natureza (SbNs).",
+ "legenda": "A nova NR 12/2025 da ANA transformou a drenagem pluvial em um serviço de saneamento básico regulado, trazendo novas exigências para edificações. Não deixe seu projeto em risco! Conte com a GreenGold Engenharia para um sistema de drenagem pluvial eficiente e em conformidade. #DrenagemPluvial #EngenhariaCivil #SaneamentoBásico #NR12ANA #ProjetoDeDrenagem #SolucoesSustentaveis #GreenGoldEngenharia #ARTnoCREA"
+}
