@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "Lei 14.546 e NBRs 16782/16783",
+ "capa_titulo": "Reúso de Água: De Diferencial a Requisito Legal!",
+ "capa_subtitulo": "A Lei 14.546/2023 e as NBRs 16782/16783 transformam o projeto hidráulico.",
+ "slides": [
+  {
+   "titulo": "A Nova Realidade Legal para Edificações",
+   "corpo": "A Lei Federal 14.546/2023 e um conjunto de leis estaduais/municipais já em vigor determinam o estímulo ao aproveitamento de águas pluviais e águas cinzas. Essas regulamentações, somadas às ABNT NBR 16782 e NBR 16783, elevam o reúso de água de diferencial de marketing a requisito de projeto hidráulico. Quem vai construir, reformar ou aprovar um empreendimento em 2026 precisa se adequar."
+  },
+  {
+   "titulo": "Fontes Alternativas e Suas Aplicações",
+   "corpo": "Reúso de água é o aproveitamento planejado de água já utilizada ou de fontes não potáveis para usos específicos. Isso inclui o aproveitamento de água de chuva (captação de precipitação) e o reúso de águas cinzas (recuperação de água de chuveiros e lavatórios). A ABNT NBR 16783 lista chuva, água pluvial, água de rebaixamento de lençol, água cinza e esgoto sanitário tratado como fontes alternativas."
+  },
+  {
+   "titulo": "Onde a Água Alternativa Pode Ser Usada",
+   "corpo": "A água tratada proveniente de fontes alternativas pode ser destinada a descargas de bacias sanitárias, irrigação de jardins, lavagem de pisos/garagens, sistemas de climatização e reserva técnica de incêndio. Esses pontos representam uma fatia expressiva do consumo de um edifício, o que explica a redução visível na fatura de água quando há aproveitamento de chuva e reúso."
+  },
+  {
+   "titulo": "Sinais de Alerta para Projetos Inadequados",
+   "corpo": "Um projeto inadequado se manifesta quando há edificação nova sem reservatório separado para água não potável em município que exige por lei, ou reservatório de água de chuva ligado à mesma tubulação da água potável sem separação física e sinalização. A ausência de tratamento mínimo (gradeamento, filtragem, desinfecção) antes da acumulação também é um sinal."
+  },
+  {
+   "titulo": "Projeto Hidráulico: Mais do que uma Cisterna e Bomba",
+   "corpo": "O aproveitamento de chuva e o reúso não se resolvem com a simples compra de equipamentos. É preciso um encadeamento técnico no projeto hidráulico, integrado às instalações de água fria, esgoto e drenagem. A falta de ART específica cobrindo o sistema de captação e reúso é um risco, pois o alvará pode condicionar a aprovação à previsão do subsistema."
+  }
+ ],
+ "cta_titulo": "Seu Projeto Hidráulico Está Atualizado?",
+ "cta_corpo": "Garanta conformidade legal e economia hídrica. Conte com a GreenGold Engenharia para projetos de reúso e aproveitamento de chuva com ART e expertise técnica.",
+ "legenda": "A sustentabilidade e a economia se encontram na engenharia! Com a Lei 14.546/2023 e as NBRs 16782/16783, o reúso de água e o aproveitamento de chuva são mais do que um diferencial, são requisitos essenciais para seu empreendimento. Evite riscos e garanta um projeto hidráulico moderno e conforme às normas. #ReusoDeAgua #EngenhariaSustentavel #ProjetoHidraulico #NBR16782 #NBR16783 #SustentabilidadePredial #GreenGoldEngenharia #ARTNoCREA"
+}
