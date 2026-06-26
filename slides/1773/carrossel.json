@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "IT 22/2025 e NBR 13714",
+ "capa_titulo": "AVCB: Projeto e ART agora são obrigatórios!",
+ "capa_subtitulo": "Entenda o impacto das revisões nas instruções técnicas e na NBR 13714 para o sistema de hidrantes do seu imóvel.",
+ "slides": [
+  {
+   "titulo": "Sistema de hidrantes: mais que um abrigo vermelho",
+   "corpo": "O sistema de hidrantes é a rede hidráulica fixa de combate a incêndio de uma edificação, incluindo reservatório, bomba, tubulação e pontos de tomada de água. Não se confunda: o abrigo na parede é apenas a ponta visível, escondendo um dimensionamento complexo. A exigência abrange praticamente toda edificação que não seja residência unifamiliar de pequeno porte, como prédios residenciais, comerciais, escolas e hospitais. O enquadramento depende da área construída, número de pavimentos e risco da ocupação, classificando edificações em tipos de sistema."
+  },
+  {
+   "titulo": "Dimensionamento: a base da segurança",
+   "corpo": "Por trás da mangueira, há um dimensionamento crucial que define vazão mínima, pressão, diâmetro da tubulação, volume de reserva técnica de incêndio e curva da bomba. Se qualquer elemento estiver subdimensionado, o sistema falha quando mais necessário. A ABNT NBR 13714 e as instruções técnicas dos Corpos de Bombeiros tratam a rede como um conjunto calculado, não como peças avulsas. Esta norma fixa requisitos mínimos de dimensionamento, instalação, manutenção e aceitação da rede em todo o território nacional, garantindo a eficácia do sistema."
+  },
+  {
+   "titulo": "Sinais de alerta para irregularidades",
+   "corpo": "Se o AVCB da edificação está vencido, nunca foi emitido, ou não há projeto técnico e ART arquivada, seu sistema pode estar irregular. A reserva técnica de incêndio deve ser calculada, não estimada, e a bomba de incêndio precisa de fonte de energia de emergência e testes de vazão/pressão. Reformas, ampliações ou mudanças de uso exigem reavaliação do sistema. A ausência de projeto aprovado ou memorial de cálculo são indícios críticos. Qualquer um desses sinais indica necessidade de regularização por profissional habilitado, pois a diferença entre um sistema calculado e uma improvisação é medida em vidas."
+  },
+  {
+   "titulo": "Projeto assinado e ART: agora é obrigatório",
+   "corpo": "Ao longo de 2025, várias instruções técnicas estaduais foram revisadas, como a IT 22/2025 e o regulamento técnico RTCBMRS-17. O recado é claro em todo o país: a rede de combate a incêndio exige projeto assinado, cálculo hidráulico e ART de engenheiro habilitado para obter o AVCB. Um prédio sem sistema funcionando não passa na vistoria do Corpo de Bombeiros e não libera o uso da edificação. Deixar a regularização para a véspera da vistoria pode resultar em custos elevados e atrasos significativos, comprometendo a segurança e a legalidade do imóvel."
+  },
+  {
+   "titulo": "Consequências da irregularidade",
+   "corpo": "A falta de um sistema de hidrantes conforme as normas resulta na não emissão ou renovação do AVCB, impedindo o uso legal da edificação e expondo proprietários a multas e responsabilidades civis e criminais. Em uma emergência real, a falha de um sistema subdimensionado ou irregular pode ter consequências desastrosas, incluindo perda de vidas e danos materiais irrecuperáveis. A GreenGold Engenharia oferece projetos hidráulicos de incêndio completos, garantindo a conformidade com a NBR 13714 e as instruções técnicas estaduais, assegurando a segurança e a legalidade do seu empreendimento."
+  }
+ ],
+ "cta_titulo": "Garanta a segurança e a legalidade do seu imóvel!",
+ "cta_corpo": "Fale com a GreenGold Engenharia e regularize seu sistema de hidrantes conforme as novas exigências da IT 22/2025 e NBR 13714. Evite multas, atrasos e riscos. Nossa equipe de engenheiros habilitados está pronta para atender você.",
+ "legenda": "As normas para sistemas de hidrantes mudaram, e a conformidade agora exige projeto e ART de engenheiro habilitado para a liberação do AVCB. Não coloque a segurança do seu patrimônio e das pessoas em risco, nem arrisque multas e impedimentos de uso. Conte com a GreenGold Engenharia para um projeto hidráulico de incêndio completo e dentro de todas as exigências.\n#GreenGoldEngenharia #SistemaDeHidrantes #AVCB #NBR13714 #EngenhariaContraIncendio #ProjetosPrediais #SegurancaContraIncendio #ART"
+}
