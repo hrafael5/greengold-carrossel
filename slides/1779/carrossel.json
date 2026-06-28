@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "NBR 6118:2026",
+ "capa_titulo": "Avaliação Técnica de Projeto (ATP) agora é obrigatória!",
+ "capa_subtitulo": "Entenda o que mudou na NBR 6118 e como isso impacta seus projetos estruturais.",
+ "slides": [
+  {
+   "titulo": "A Nova Exigência da NBR 6118",
+   "corpo": "A Emenda 1/2026 da NBR 6118, em vigor desde 11 de março de 2026, tornou a Avaliação Técnica de Projeto (ATP) um requisito obrigatório. Isso significa que todo projeto estrutural deve ser conferido por um engenheiro independente do autor, com parecer registrado em ART. A norma de estruturas de concreto agora exige essa verificação externa."
+  },
+  {
+   "titulo": "O Que é a Avaliação Técnica de Projeto (ATP)",
+   "corpo": "A ATP é uma auditoria independente do projeto, realizada por um engenheiro habilitado distinto do autor. Seu objetivo é verificar a conformidade da solução com as normas técnicas e de segurança antes do início da obra. O resultado é um parecer formal com Anotação de Responsabilidade Técnica (ART), integrando o dossiê do projeto."
+  },
+  {
+   "titulo": "A Importância da Independência na Revisão",
+   "corpo": "O ponto central da nova exigência é a independência do revisor. A NBR 6118:2026 demanda um olhar externo e imparcial, de alguém que não participou da concepção do projeto. Quem está imerso no próprio raciocínio tende a não enxergar as próprias falhas, e a ATP garante essa visão crítica."
+  },
+  {
+   "titulo": "Sinais de Alerta de Projetos Sem ATP",
+   "corpo": "Falhas em projetos sem revisão independente podem resultar em cargas esquecidas, elementos subdimensionados ou incompatibilidades entre desenhos. Os sintomas de não conformidade, como divergências entre projeto e obra ou retrabalho de instalações, costumam aparecer tarde e gerar custos elevados."
+  },
+  {
+   "titulo": "Como a ATP Previne Falhas",
+   "corpo": "A revisão independente segue etapas de concepção, modelagem e verificação de Estados Limites de Serviço (ELS). Ela avalia a adequação do sistema ao uso, conferindo cargas permanentes e variáveis (NBR 6120) e ações de vento (NBR 6123), além de deformações e fissuração (limite de flecha de L/250 em vigas)."
+  }
+ ],
+ "cta_titulo": "Seu projeto está em dia com a NBR 6118:2026?",
+ "cta_corpo": "Garanta a conformidade e segurança dos seus projetos com a Avaliação Técnica de Projeto da GreenGold Engenharia. Fale conosco!",
+ "legenda": "A NBR 6118:2026 trouxe uma mudança crucial para a engenharia estrutural, tornando a Avaliação Técnica de Projeto (ATP) obrigatória. Não arrisque a segurança e o orçamento da sua obra, garanta a conformidade e a qualidade desde o projeto. Conte com a expertise da GreenGold Engenharia para uma revisão independente e segura.\n#EngenhariaEstrutural #NBR6118 #ATP #RevisaoDeProjetos #ConstrucaoCivil #SegurancaEstrutural #ProjetosDeEngenharia #GreenGoldEngenharia"
+}
