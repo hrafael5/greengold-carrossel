@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "IT 19/2025 e NBR 17240",
+ "capa_titulo": "Alerta: As novas exigências para detecção e alarme de incêndio",
+ "capa_subtitulo": "Novas regras de Corpos de Bombeiros e revisão da norma técnica elevam a complexidade e a obrigatoriedade de projetos com ART.",
+ "slides": [
+  {
+   "titulo": "A Nova Realidade da Detecção e Alarme de Incêndio",
+   "corpo": "A IT 19/2025, em vigor desde 20 de março, e a revisão da NBR 17240, com nova edição prevista para 2026, tornam o projeto de detecção e alarme de incêndio uma exigência técnica com responsável legal. A norma NBR 17240 rege projeto, instalação, comissionamento e manutenção desses sistemas, e passará a uma abordagem baseada em desempenho."
+  },
+  {
+   "titulo": "O Que é e Quando é Exigido o Sistema de Detecção",
+   "corpo": "O sistema de detecção e alarme é um conjunto de detectores, acionadores manuais e avisadores que identificam um princípio de incêndio e comunicam a presença de fogo ou fumaça, antecipando a evacuação. É exigido em praticamente toda edificação que precisa de Auto de Vistoria do Corpo de Bombeiros (AVCB), como prédios comerciais, hospitais e condomínios acima de determinada altura ou área."
+  },
+  {
+   "titulo": "Erro Comum: Projetos Inexistentes ou Desatualizados",
+   "corpo": "Muitos empreendimentos só descobrem falhas na vistoria ou renovação do AVCB. Um erro crítico é a ausência de um projeto de detecção e alarme de incêndio, ou um projeto desatualizado e sem a devida ART (Anotação de Responsabilidade Técnica) vinculada. A NBR 17240 organiza o ciclo completo do sistema, desde o projeto até a manutenção."
+  },
+  {
+   "titulo": "Erro Crítico: Falhas na Manutenção e Comissionamento",
+   "corpo": "Central de alarme com avarias, bateria descarregada, detectores vencidos, cobertos de poeira ou ausentes são sinais de não conformidade. Além disso, sistemas que nunca passaram por comissionamento ou manutenção periódica registrada comprometem a segurança e podem reprovar a edificação na vistoria."
+  },
+  {
+   "titulo": "Erro Grave: Reforma sem Revisão do Projeto",
+   "corpo": "Qualquer reforma ou mudança de layout em uma edificação sem a revisão do projeto de detecção e alarme de incêndio é um erro grave. Essa negligência pode invalidar a conformidade do sistema e, em uma emergência real, comprometer a resposta, colocando vidas e patrimônio em risco. O projeto precisa nascer de uma análise técnica e não de improviso."
+  }
+ ],
+ "cta_titulo": "Sua edificação está em conformidade?",
+ "cta_corpo": "Evite riscos legais, técnicos e financeiros. Garanta a segurança do seu patrimônio e das pessoas com um projeto de detecção e alarme de incêndio adequado às novas normas. Fale com nossos especialistas.",
+ "legenda": "A segurança contra incêndio é uma prioridade que se tornou ainda mais técnica e regulamentada. Com as novas exigências da IT 19/2025 e a revisão da NBR 17240, ter um projeto de detecção e alarme de incêndio com ART é fundamental. Não espere a vistoria para descobrir falhas. Invista em conformidade e proteção. #EngenhariaContraIncendio #SegurancaPredial #NBR17240 #IT19 #ProjetosDeIncendio #AVCB #GreenGoldEngenharia #ART"
+}
