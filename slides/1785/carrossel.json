@@ -1,0 +1,32 @@
+{
+ "formato": "checklist",
+ "tema_foto": "projeto",
+ "capa_kicker": "Estratégia BIM BR",
+ "capa_titulo": "BIM é exigência: sua obra está pronta?",
+ "capa_subtitulo": "O Decreto nº 11.888/2024 reinstitui a política BIM BR. Entenda as fases de obrigatoriedade e os riscos de não se adaptar.",
+ "slides": [
+  {
+   "titulo": "Verifique a nova Estratégia BIM BR",
+   "corpo": "A Estratégia BIM BR é a política nacional que organiza a adoção do BIM no Brasil, reinstituída pelo Decreto nº 11.888/2024. Com governança reforçada e um plano de ações para 2025 a 2027, seu objetivo é tornar o uso do modelo digital padrão em projetos e obras de engenharia e arquitetura."
+  },
+  {
+   "titulo": "Entenda a obrigatoriedade escalonada",
+   "corpo": "A fase 1, iniciada em 2021, exigiu o modelo BIM em projetos de obras públicas, cobrindo estrutura e instalações. A fase 2, desde 2024, estendeu a exigência à execução de novas construções, reformas e ampliações. Em 2026, a política prioriza programas habitacionais de interesse social."
+  },
+  {
+   "titulo": "Avalie o impacto nas instalações prediais",
+   "corpo": "Para incorporadoras e investidores, projetar instalações elétricas, hidráulicas, de esgoto e drenagem fora do ambiente BIM fica mais caro e arriscado. A nova Estratégia BIM BR avança para programas como o Minha Casa, Minha Vida e o PAC, exigindo conformidade."
+  },
+  {
+   "titulo": "Identifique os sintomas de projetos sem BIM",
+   "corpo": "Eletrocalhas e tubulações que se cruzam, exigindo furos improvisados na obra, são um sintoma. Quantitativos de materiais estimados manualmente geram sobras ou faltas. Pranchas de diferentes disciplinas que não conversam causam compatibilização tardia, atrasando a obra."
+  },
+  {
+   "titulo": "Conheça os riscos de não conformidade",
+   "corpo": "A dificuldade de provar conformidade e rastreabilidade em auditorias, financiamentos ou licitações que já pedem entrega em modelo BIM é um risco crescente. A fase 3, prevista para 2028, alcançará também a gestão e a manutenção do empreendimento depois de pronto."
+  }
+ ],
+ "cta_titulo": "Sua obra está preparada para o BIM?",
+ "cta_corpo": "A GreenGold Engenharia oferece projetos de instalações prediais em BIM, com ART no CREA, garantindo conformidade e eficiência. Fale com nossa equipe técnica e modernize seus projetos.",
+ "legenda": "A metodologia BIM deixou de ser um diferencial e se tornou uma exigência formal nos projetos de edificação. Com a nova Estratégia BIM BR, é crucial adaptar-se para evitar riscos e garantir a eficiência da sua obra. A GreenGold Engenharia está pronta para te ajudar nessa transição.\n#BIM #EngenhariaBIM #InstalacoesPrediais #DecretoBIM #ConstrucaoCivil #ProjetoBIM #GreenGoldEngenharia #ARTnoCREA"
+}
