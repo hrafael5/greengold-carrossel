@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "NBR 5419:2026",
+ "capa_titulo": "Seu SPDA está fora da nova norma?",
+ "capa_subtitulo": "A ABNT atualizou a norma de proteção contra raios. Entenda as mudanças e evite riscos.",
+ "slides": [
+  {
+   "titulo": "O novo mapa de raios do Brasil",
+   "corpo": "A NBR 5419:2026, publicada em 10 de março de 2026, atualiza o mapa de incidência de raios no Brasil. Dados de satélite e sensores de solo de alta precisão revelaram que, em muitas cidades, a densidade de descargas atmosféricas (Ng) é maior que o suposto. Isso eleva o nível de proteção exigido e pode tornar malhas de captação antigas insuficientes."
+  },
+  {
+   "titulo": "Adeus à \"Classe\", Olá ao \"Nível de Proteção\"",
+   "corpo": "A nova NBR 5419 abandona o termo \"classe de SPDA\" e adota \"nível de proteção\" (NP). Embora a correspondência seja direta (Classe I vira NP I, por exemplo), o vocabulário técnico dos projetos muda. Memoriais antigos podem soar defasados diante da fiscalização e do Corpo de Bombeiros, exigindo uma atualização documental."
+  },
+  {
+   "titulo": "Proteção contra surtos (DPS) agora é obrigatória",
+   "corpo": "A mudança de maior impacto no dia a dia é a obrigatoriedade das Medidas de Proteção contra Surtos (MPS). Dispositivos de Proteção contra Surtos (DPS) tornam-se exigência de norma para equipamentos não críticos de prédios residenciais, comerciais e industriais. Isso ocorre sempre que a frequência de dano calculada ultrapassar os valores de referência."
+  },
+  {
+   "titulo": "Sinais de que seu SPDA está desatualizado",
+   "corpo": "Projetos e laudos de para-raios anteriores a 2026, calculados com a antiga tabela de Ng, ou memoriais que ainda falam em \"classe de SPDA\", são indícios de não conformidade. A ausência de Dispositivos de Proteção contra Surtos (DPS) no quadro elétrico, bem como equipamentos eletrônicos queimando após tempestades, também são alertas importantes."
+  },
+  {
+   "titulo": "Riscos e consequências da não conformidade",
+   "corpo": "A não adequação à NBR 5419:2026 pode gerar riscos legais, técnicos e financeiros para sua edificação. Problemas costumam surgir na renovação do AVCB (Auto de Vistoria do Corpo de Bombeiros), que exige laudo atualizado, ou após uma descarga atmosférica, quando o seguro pede comprovação da proteção em dia. A conta chega junto com a exigência técnica."
+  }
+ ],
+ "cta_titulo": "Evite riscos e garanta a segurança!",
+ "cta_corpo": "Sua edificação está em conformidade com a NBR 5419:2026? A GreenGold Engenharia oferece projetos e inspeções de SPDA com ART, garantindo a proteção de pessoas, estrutura e equipamentos. Fale com nossos especialistas!",
+ "legenda": "A nova NBR 5419:2026 já está em vigor, trazendo mudanças significativas para o Sistema de Proteção contra Descargas Atmosféricas (SPDA). Não deixe seu projeto defasado e sua edificação vulnerável. Garanta a segurança e a conformidade com as normas atualizadas. #SPDA #NBR5419 #EngenhariaEletrica #ProtecaoContraRaios #SegurancaPredial #EngenhariaMultidisciplinar #GreenGoldEngenharia #AtualizacaoNormativa"
+}
