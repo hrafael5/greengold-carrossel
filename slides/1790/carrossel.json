@@ -1,0 +1,32 @@
+{
+ "formato": "Erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "NBR 15526 e IT 28/2025",
+ "capa_titulo": "Novas exigências para instalações de gás",
+ "capa_subtitulo": "O que muda para ligar o medidor e aprovar o AVCB da sua edificação.",
+ "slides": [
+  {
+   "titulo": "A era do improviso acabou",
+   "corpo": "Ligar o fogão ou aquecer a água com gás agora é, na prática, uma questão de projeto de engenharia. Corpos de bombeiros e concessionárias apertaram a exigência: a rede interna precisa de dimensionamento técnico para aprovar o AVCB e ligar o medidor."
+  },
+  {
+   "titulo": "Projeto sem ART e memorial de cálculo",
+   "corpo": "A ABNT NBR 15526:2016 (que substituiu a edição de 2012) rege o dimensionamento, execução e ensaio de redes de gás. Ela exige memorial de cálculo e a devida ART para instalações com pressões de operação de até 150 kPa, cobrindo GN e GLP."
+  },
+  {
+   "titulo": "Tubulações e centrais fora de norma",
+   "corpo": "Erros comuns incluem tubulação de gás embutida em parede sem tubo-luva, passando por locais proibidos como poços de elevador ou dormitórios. Centrais de GLP sem afastamento mínimo de segurança, ventilação permanente ou proteção por extintores também são reprovadas."
+  },
+  {
+   "titulo": "Falta de teste de estanqueidade",
+   "corpo": "A ausência de um teste de estanqueidade documentado antes de liberar o gás é um erro grave. Este ensaio é crucial para garantir a segurança da rede, evitando vazamentos perigosos que podem levar a intoxicações por monóxido de carbono ou explosões."
+  },
+  {
+   "titulo": "Consequências da não conformidade",
+   "corpo": "Deixar a regularização para depois custa caro. A não conformidade é descoberta na vistoria do Corpo de Bombeiros ou na recusa da concessionária em ligar o medidor, gerando retrabalho e riscos legais, técnicos e financeiros para a edificação."
+  }
+ ],
+ "cta_titulo": "Sua instalação de gás está em dia?",
+ "cta_corpo": "Garanta a segurança e a conformidade da sua edificação. Fale com a GreenGold Engenharia para um projeto de gás completo e com ART.",
+ "legenda": "A segurança da sua edificação começa com um projeto de gás em conformidade. As novas exigências da NBR 15526 e da IT 28/2025 tornam indispensável o projeto de engenharia, teste de estanqueidade e ART para ligar o medidor e obter o AVCB. Não corra riscos, invista na segurança e evite problemas futuros. Fale com nossos especialistas. #EngenhariaDeGas #NBR15526 #SegurancaPredial #InstalacoesPrediais #BIM #ARTnoCREA #GreenGoldEngenharia #ProjetoDeEngenharia"
+}
