@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "Lei 13.312 e NBR 5626",
+ "capa_titulo": "Prédio novo pode ficar sem o Habite-se!",
+ "capa_subtitulo": "Desde 2021, novas edificações precisam de hidrômetro individual. Em 2026, a fiscalização apertou.",
+ "slides": [
+  {
+   "titulo": "Entenda a Medição Individualizada",
+   "corpo": "Em muitos prédios antigos existe um único hidrômetro na entrada. A conta da concessionária chega uma só, e o condomínio rateia o valor entre os moradores, normalmente por fração ideal ou por número de unidades. A medição individualizada inverte essa lógica: cada apartamento recebe seu próprio hidrômetro, mede o que consome e paga exatamente por isso."
+  },
+  {
+   "titulo": "A Lei e a Norma por Trás da Mudança",
+   "corpo": "O sistema de medição individualizada de água é orientado pela ABNT NBR 5626:2020 e exigido, para novas edificações, pela Lei Federal 13.312/2016. O tema voltou ao noticiário em 2026 porque o prazo de adequação previsto na legislação foi se esgotando e órgãos de saneamento passaram a cobrar a individualização em novos empreendimentos."
+  },
+  {
+   "titulo": "O Perigo de Ignorar a Individualização",
+   "corpo": "Quem projeta ou reforma um edifício sem prever ramais e pontos de hidrômetro por unidade corre o risco de retrabalho caro e de atraso na entrega. Prédios recém-construídos empacam na aprovação porque o projeto hidráulico não previu pontos de medição por apartamento, podendo perder o 'habite-se'."
+  },
+  {
+   "titulo": "Identifique Falhas no Projeto Hidráulico",
+   "corpo": "Empreendimento novo com uma única entrada e um único hidrômetro geral ou prumadas de água misturando unidades privativas e áreas comuns no mesmo ramal são sinais. A ausência de espaço técnico (shaft ou quadro) para abrigar os hidrômetros também indica necessidade de revisão urgente no projeto."
+  },
+  {
+   "titulo": "A Solução no Projeto Hidráulico",
+   "corpo": "A individualização nasce da concepção da rede hidráulica. A NBR 5626:2020 recomenda expressamente dispositivos de medição individual e sistemas de controle que favoreçam o consumo consciente. Para isso, a rede precisa ser desenhada com ramais independentes por unidade, com um único ponto para o medidor."
+  }
+ ],
+ "cta_titulo": "Evite Problemas Legais e Financeiros!",
+ "cta_corpo": "Nossa equipe de engenheiros está pronta para elaborar ou revisar seu projeto hidráulico, garantindo a medição individualizada conforme a Lei 13.312/2016 e a NBR 5626:2020. Fale com a GreenGold Engenharia.",
+ "legenda": "A medição individualizada de água é mais que uma tendência, é uma exigência legal que impacta diretamente a aprovação e o valor do seu empreendimento. Garanta a conformidade e evite dores de cabeça com um projeto hidráulico bem executado. Conte com a expertise da GreenGold Engenharia para planejar e executar soluções eficientes e dentro das normas.\n#EngenhariaCivil #ProjetoHidraulico #NBR5626 #Lei13312 #Condominios #IndividualizacaoDeAgua #HabiteSe #GreenGoldEngenharia"
+}
