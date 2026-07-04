@@ -1,32 +1,32 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "ABNT NBR 8160 (2020)",
- "capa_titulo": "Multas e mau cheiro: a NBR 8160 (2020) está em vigor!",
- "capa_subtitulo": "Entenda por que misturar esgoto e água da chuva é um erro grave e como um projeto com ART resolve.",
+ "capa_kicker": "ABNT NBR 8160:2020",
+ "capa_titulo": "Multa e mau cheiro: Sua instalação de esgoto está em risco?",
+ "capa_subtitulo": "Descubra os 5 erros mais comuns que levam a problemas graves e como um projeto de esgoto sanitário resolve.",
  "slides": [
   {
-   "titulo": "O Erro Mais Comum nas Instalações",
-   "corpo": "O sistema separador absoluto, modelo adotado no Brasil, exige que esgoto sanitário e águas pluviais corram em redes totalmente independentes. A interligação das duas tubulações é o erro de instalação mais frequente e a principal causa de notificações de concessionárias."
+   "titulo": "Separação Absoluta Ignorada",
+   "corpo": "O sistema separador absoluto, exigido pela ABNT NBR 8160, determina que esgoto sanitário e águas pluviais corram em redes completamente independentes, do lote à via pública. A interligação dessas redes é o erro mais comum e a principal causa de notificações e multas das concessionárias."
   },
   {
-   "titulo": "A Norma Essencial: NBR 8160 (2020)",
-   "corpo": "A ABNT NBR 8160, em sua edição de 2020, estabelece exigências cruciais para projeto, execução, ensaio e manutenção das instalações prediais de esgoto sanitário. Ela detalha o dimensionamento, declividades mínimas, caixas de inspeção e gordura, e ventilação, com foco na separação obrigatória entre esgoto e águas pluviais."
+   "titulo": "Falta de Ventilação Adequada",
+   "corpo": "Sem projeto e ventilação adequada, o escoamento dos efluentes pode sugar a água dos fechos hídricos (sifões), abrindo caminho para o mau cheiro nos ambientes. A NBR 8160 detalha as exigências para o dimensionamento e posicionamento dos dispositivos de ventilação, essenciais para o bom funcionamento do sistema."
   },
   {
-   "titulo": "Sinais de Problemas na Instalação",
-   "corpo": "Cheiro de esgoto subindo por ralos, refluxo para dentro do imóvel em chuvas fortes, caixas de gordura transbordando e ruídos de sucção (o \"glub-glub\") são sintomas clássicos. Notificações da concessionária e umidade/infiltração também indicam que a instalação não segue a NBR 8160."
+   "titulo": "Dimensionamento Incorreto",
+   "corpo": "Caixas de gordura transbordando ou entupindo com frequência, além de ruídos de sucção (\"glub-glub\"), são sintomas de dimensionamento incorreto. A norma ABNT NBR 8160, em sua edição de 2020, estabelece critérios precisos para tubulações, caixas de inspeção e gordura, garantindo a capacidade e o fluxo correto."
   },
   {
-   "titulo": "Riscos Legais, Técnicos e Financeiros",
-   "corpo": "Uma instalação fora de conformidade gera multas da concessionária, custos elevados com obras de correção e riscos à saúde devido à circulação indevida de esgoto. Esses problemas transformam um simples incômodo em um passivo caro e perigoso para o patrimônio."
+   "titulo": "Vazamentos e Infiltrações",
+   "corpo": "Instalações mal vedadas ou com caimento invertido geram umidade e infiltração em paredes e forros, comprometendo a estrutura e a saúde. O projeto de esgoto sanitário, em conformidade com a NBR 8160, assegura a correta declividade e vedação, prevenindo esses danos e garantindo a segurança predial."
   },
   {
-   "titulo": "A Solução: Projeto com ART",
-   "corpo": "Evitar ou resolver esses problemas começa com um projeto que traduza a NBR 8160 em desenho e memorial de cálculo, garantindo o escoamento por gravidade e ventilação adequada. Um engenheiro habilitado com Anotação de Responsabilidade Técnica (ART) assegura a instalação segura e em conformidade."
+   "titulo": "Ausência de Projeto e ART",
+   "corpo": "A ausência de um projeto de esgoto sanitário com ART (Anotação de Responsabilidade Técnica) é a raiz da maioria dos problemas, resultando em multas e obras de correção. Um engenheiro habilitado traduz a NBR 8160 em um sistema seguro, evitando passivos caros e garantindo a conformidade legal."
   }
  ],
- "cta_titulo": "Sua instalação está em dia?",
- "cta_corpo": "Não espere os problemas aparecerem! Garanta a conformidade do seu sistema de esgoto sanitário com um projeto profissional. Fale com a GreenGold Engenharia e evite multas e transtornos futuros.",
- "legenda": "Instalações de esgoto com problemas? O mau cheiro e as multas podem ser evitados! A ABNT NBR 8160 (2020) é clara sobre a separação entre esgoto e água da chuva. Invista em um projeto com ART e garanta a segurança e conformidade da sua edificação. #EngenhariaCivil #NBR8160 #EsgotoSanitario #InstalacoesPrediais #BIM #SPDA #PPCI #GreenGoldEngenharia"
+ "cta_titulo": "Evite Multas e Problemas de Esgoto!",
+ "cta_corpo": "Invista em um projeto de esgoto sanitário que siga a ABNT NBR 8160 e garanta a segurança e conformidade da sua edificação. Fale com nossos engenheiros e assegure a ART.",
+ "legenda": "Cheiro de esgoto, refluxo e multas são sinais claros de que a instalação predial de esgoto sanitário pode estar fora de conformidade com a NBR 8160. Não espere os problemas aparecerem para agir! Um projeto bem elaborado é a chave para evitar dores de cabeça e garantir a segurança e funcionalidade do seu imóvel.\n#EngenhariaCivil #NBR8160 #EsgotoSanitario #InstalacoesPrediais #BIM #ARTnoCREA #GreenGoldEngenharia #ProjetoDeEsgoto"
 }
