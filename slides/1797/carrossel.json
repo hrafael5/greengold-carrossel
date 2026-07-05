@@ -1,32 +1,32 @@
 {
- "formato": "mitos x verdades",
+ "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "NBR 8160:2020",
- "capa_titulo": "Multa por esgoto na rede pluvial?",
- "capa_subtitulo": "Entenda a NBR 8160 e evite problemas na sua edificação.",
+ "capa_kicker": "NBR 8160 (Edição 2020)",
+ "capa_titulo": "Esgoto em águas pluviais? Veja por que isso GERA MULTA!",
+ "capa_subtitulo": "Entenda a exigência do sistema separador absoluto e evite problemas na sua edificação.",
  "slides": [
   {
-   "titulo": "O Sistema Separador Absoluto",
-   "corpo": "O sistema separador absoluto é o modelo adotado no Brasil. Ele exige que as redes de esgoto sanitário e de águas pluviais sejam completamente independentes, desde o lote até a via pública. A tubulação de esgoto do prédio jamais pode ser interligada à de chuva, e vice-versa, conforme a ABNT NBR 8160."
+   "titulo": "O que é o Sistema Separador Absoluto?",
+   "corpo": "É o modelo nacional que exige redes completamente independentes para esgoto sanitário e águas pluviais, do lote à via pública. A tubulação de esgoto do prédio nunca pode ser interligada à de chuva, e vice-versa. Esta separação é um requisito central da ABNT NBR 8160, em sua edição de 2020, que rege as instalações prediais de esgoto sanitário."
   },
   {
-   "titulo": "A NBR 8160 e Suas Exigências",
-   "corpo": "A ABNT NBR 8160, em sua edição de 2020, estabelece exigências para projeto, execução, ensaio e manutenção das instalações prediais de esgoto sanitário. Ela detalha o dimensionamento de tubulações, declividades mínimas, caixas de inspeção e gordura, ventilação das colunas e, crucialmente, a obrigatoriedade de separar esgoto e águas pluviais."
+   "titulo": "Consequências da Interligação Indevida",
+   "corpo": "Interligar as redes de esgoto e águas pluviais é um erro comum que gera sérios problemas. O resultado aparece meses depois, manifestando-se como mau cheiro, refluxo de esgoto, multas da concessionária e a necessidade de obras de correção caras. Este desrespeito à norma causa transtornos significativos e prejuízos financeiros."
   },
   {
-   "titulo": "Sintomas de Instalação Irregular",
-   "corpo": "Instalações fora da NBR 8160 geram cheiro de esgoto em ralos, refluxo durante chuvas fortes, caixas de gordura que transbordam e ruídos de sucção (o 'glub-glub'). O sinal mais grave é a notificação da concessionária, apontando o lançamento de esgoto na galeria pluvial, o que acarreta multas."
+   "titulo": "Sinais de uma Instalação Fora de Conformidade",
+   "corpo": "Observe cheiro de esgoto subindo por ralos, pias ou vasos, um sinal de ventilação inadequada. Refluxo de esgoto durante chuvas fortes indica interligação das redes. Caixas de gordura transbordando frequentemente ou o ruído de sucção (o “glub-glub”) nos ralos também são alertas de problemas na instalação."
   },
   {
-   "titulo": "Riscos e Multas por Desconformidade",
-   "corpo": "A interligação indevida das redes de esgoto e pluvial gera não apenas mau cheiro e refluxo, mas também riscos à saúde, danos ao patrimônio e, principalmente, multas das concessionárias. A correção desses problemas costuma exigir obras complexas e onerosas, que poderiam ser evitadas com um projeto adequado."
+   "titulo": "Riscos à Saúde e ao Patrimônio",
+   "corpo": "Além dos incômodos, uma instalação de esgoto fora da NBR 8160 acarreta riscos sérios. Notificações da concessionária por lançamento indevido e umidade com infiltrações em paredes e forros por vazamentos são comuns. Quando o esgoto circula por onde não deveria, torna-se um perigo à saúde dos ocupantes e causa danos estruturais significativos ao imóvel."
   },
   {
-   "titulo": "A Solução: Projeto e ART",
-   "corpo": "A solução para evitar ou corrigir problemas de esgoto sanitário é um projeto detalhado, que traduza a NBR 8160 em desenho e memorial de cálculo. A Anotação de Responsabilidade Técnica (ART) de um engenheiro habilitado garante a conformidade, a segurança e a funcionalidade do sistema, protegendo seu imóvel de passivos caros."
+   "titulo": "A Importância do Projeto com ART",
+   "corpo": "Evitar ou resolver esses problemas começa com um projeto que traduza a NBR 8160 em desenho e memorial de cálculo. A instalação predial de esgoto sanitário exige ventilação adequada e separação absoluta entre esgoto e chuva. A Anotação de Responsabilidade Técnica (ART) de um engenheiro habilitado é essencial para garantir uma instalação segura e evitar um passivo caro."
   }
  ],
- "cta_titulo": "Evite multas e problemas!",
- "cta_corpo": "Garanta a conformidade do seu sistema de esgoto sanitário com um projeto GreenGold. Fale com nossos engenheiros e obtenha um projeto com ART.",
- "legenda": "Sua edificação está em conformidade com a NBR 8160? Ligar esgoto na rede de águas pluviais é um erro comum que gera multas e sérios problemas. Invista em um projeto de esgoto sanitário com ART e garanta a segurança e funcionalidade de suas instalações. Conte com a GreenGold Engenharia para soluções eficientes e dentro da norma.\n#EngenhariaCivil #NBR8160 #EsgotoSanitario #InstalacoesPrediais #BIM #ART #GreenGoldEngenharia #Sustentabilidade"
+ "cta_titulo": "Evite multas e problemas com esgoto!",
+ "cta_corpo": "Garanta a conformidade da sua edificação com um projeto de esgoto sanitário conforme a NBR 8160. Fale com nossos especialistas e obtenha uma solução segura, eficiente e com ART.",
+ "legenda": "Interligar esgoto e águas pluviais é um erro que gera multas e sérios problemas em edificações. A NBR 8160 exige o sistema separador absoluto para a segurança e funcionalidade da sua instalação. Invista em um projeto de esgoto sanitário com ART e garanta a conformidade da sua obra, evitando dores de cabeça futuras.\n#EngenhariaCivil #NBR8160 #EsgotoSanitario #AguasPluviais #ProjetoHidrossanitario #ART #ConstrucaoCivil #GreenGoldEngenharia"
 }
