@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "NBR 17193",
+ "capa_titulo": "Sua instalação fotovoltaica está segura?",
+ "capa_subtitulo": "A nova norma de 2025 exige desligamento rápido e projeto de segurança contra incêndio em todo sistema.",
+ "slides": [
+  {
+   "titulo": "O problema do fotovoltaico em incêndios",
+   "corpo": "Um sistema fotovoltaico mal projetado pode virar um foco de incêndio no telhado, e o bombeiro não consegue desligá-lo. Módulos solares produzem tensão sempre que há luz, mantendo cabos CC energizados a centenas de volts, mesmo com a chave geral desligada. Isso gera risco de choque para equipes de resgate."
+  },
+  {
+   "titulo": "Descumprimento da NBR 17193",
+   "corpo": "Desde fevereiro de 2025, a NBR 17193 exige dispositivos de desligamento rápido, proteção contra arco elétrico e afastamentos entre painéis em toda instalação solar sobre edificações. Sem conformidade, os Corpos de Bombeiros já citam a norma como condição para liberar o AVCB."
+  },
+  {
+   "titulo": "Sinais de risco na sua instalação",
+   "corpo": "Verifique se sua instalação possui dispositivo de desligamento rápido, que reduz rapidamente a tensão dos cabos CC no telhado em caso de emergência. A ausência de proteção contra arco (AFCI) em sistemas acima de 120 Vcc e 20 A é outro ponto crítico de não conformidade."
+  },
+  {
+   "titulo": "Painéis em bloco e afastamentos",
+   "corpo": "Painéis instalados em bloco único, cobrindo toda a laje ou telhado sem afastamentos nem barreiras corta-fogo, são um erro que aumenta o risco. A norma pede afastamentos mínimos, da ordem de 2 metros a cada 16 metros lineares, para evitar a propagação contínua de fogo."
+  },
+  {
+   "titulo": "A importância do projeto com ART",
+   "corpo": "A conformidade com a NBR 17193 não se resolve com um equipamento avulso, exigindo decisões de projeto técnico assinado. A ausência de um projeto com Anotação de Responsabilidade Técnica (ART) e análise de risco de incêndio documentada indica não conformidade e sério risco."
+  }
+ ],
+ "cta_titulo": "Garanta a segurança do seu sistema!",
+ "cta_corpo": "A GreenGold Engenharia elabora projetos elétricos e de segurança contra incêndio em instalações fotovoltaicas, garantindo conformidade com a NBR 17193 e o AVCB. Fale conosco.",
+ "legenda": "A segurança da sua instalação fotovoltaica é inegociável, especialmente com a nova NBR 17193 em vigor desde fevereiro de 2025. Evite riscos de incêndio e garanta a conformidade do seu sistema. Proteja seu investimento e sua edificação.\n#EngenhariaEletrica #EnergiaSolar #Fotovoltaico #NBR17193 #SegurancaContraIncendio #ProjetoEletrico #ART #AVCB"
+}
