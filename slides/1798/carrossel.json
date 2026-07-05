@@ -2,31 +2,31 @@
  "formato": "checklist",
  "tema_foto": "projeto",
  "capa_kicker": "NBR 17193",
- "capa_titulo": "OBRIGATÓRIA em 2025: Sua energia solar está SEGURA?",
- "capa_subtitulo": "Entenda a nova norma que exige desligamento rápido e projeto de segurança contra incêndio em instalações fotovoltaicas.",
+ "capa_titulo": "A norma mudou! O que você precisa saber sobre segurança fotovoltaica.",
+ "capa_subtitulo": "Desde fevereiro de 2025, novas exigências para instalações solares em edificações!",
  "slides": [
   {
-   "titulo": "O Essencial da NBR 17193",
-   "corpo": "Publicada pela ABNT em 4 de fevereiro de 2025, a NBR 17193 preenche uma lacuna em segurança contra incêndios em instalações fotovoltaicas. Ela exige que sistemas solares sobre edificações possam ser desligados rapidamente, na corrente contínua e alternada. O objetivo é evitar que se tornem risco de incêndio e armadilhas para equipes de combate ao fogo, protegendo vidas e patrimônios."
+   "titulo": "O que mudou com a NBR 17193?",
+   "corpo": "Publicada em 4 de fevereiro de 2025, a NBR 17193 preenche uma lacuna, regulando a segurança contra incêndios em instalações fotovoltaicas sobre edificações. A norma exige que todo sistema possa ser desligado em segundos (CC e CA) e que os painéis não formem um \"tapete\" contínuo de fogo no telhado."
   },
   {
-   "titulo": "Riscos Inerentes da Geração Solar",
-   "corpo": "Um módulo solar produz tensão sempre que há luz, dificultando o desligamento total da energia. Cabos de corrente contínua entre painéis e inversor podem permanecer energizados a centenas de volts, mesmo com o disjuntor da casa desligado. Isso gera dois perigos: o sistema pode iniciar fogo por arco elétrico e as equipes de resgate hesitam em subir no telhado por risco de choque. A NBR 17193 nasce para eliminar essas situações."
+   "titulo": "Por que a nova norma é crucial?",
+   "corpo": "Módulos solares produzem tensão sempre que há luz, mantendo cabos CC energizados a centenas de volts mesmo com a chave geral desligada. Isso cria riscos de arcos elétricos (mau contato) e dificulta o combate a incêndios, pois equipes de resgate hesitam em subir no telhado por medo de choque."
   },
   {
-   "titulo": "Desligamento Rápido (Rapid Shutdown)",
-   "corpo": "A NBR 17193 torna obrigatório o sistema de desligamento rápido (rapid shutdown). Ele reduz a tensão dos circuitos em emergência, atuando tanto na corrente contínua quanto na alternada. Este item é crucial, protegendo a equipe de combate ao fogo ao desenergizar rapidamente as partes perigosas da instalação no telhado. É uma medida de segurança vital."
+   "titulo": "Requisito 1: Desligamento Rápido (Rapid Shutdown)",
+   "corpo": "A NBR 17193 torna obrigatório o sistema que reduz rapidamente a tensão dos circuitos em emergência, atuando na corrente contínua e alternada. Este item é fundamental para proteger as equipes de combate a incêndio, garantindo uma resposta segura e eficaz em caso de sinistro."
   },
   {
-   "titulo": "Proteção Contra Arco Elétrico (AFCI)",
-   "corpo": "Sistemas fotovoltaicos acima de 120 Vcc e 20 A devem contar com dispositivos de interrupção de arco (AFCI). Estes detectam e interrompem o arco elétrico antes que ele possa evoluir para um incêndio. A proteção contra arco elétrico é fundamental para prevenir a ignição de focos de fogo causados por falhas elétricas silenciosas nos componentes do sistema."
+   "titulo": "Requisito 2: Proteção Contra Arco Elétrico (AFCI) e Afastamentos",
+   "corpo": "Sistemas acima de 120 Vcc e 20 A devem contar com dispositivos de interrupção de arco (AFCI), que detectam o arco antes que vire chama. Além disso, a norma pede afastamentos mínimos (da ordem de 2 metros a cada 16 metros lineares) ou barreiras resistentes ao fogo entre os painéis."
   },
   {
-   "titulo": "Afastamentos e Projeto Essencial",
-   "corpo": "A NBR 17193 exige afastamentos mínimos entre painéis, cerca de 2 metros a cada 16 metros lineares, ou barreiras corta-fogo. Isso impede que formem uma superfície contínua de fogo. A conformidade não é apenas um equipamento, mas decisões de projeto elétrico assinado com ART. Uma análise de risco de incêndio documentada é crucial para dimensionar a segurança."
+   "titulo": "Requisito 3: Projeto com ART e Análise de Risco",
+   "corpo": "A conformidade exige decisões de projeto, não apenas equipamentos. É crucial um projeto elétrico assinado por profissional habilitado (com ART), que inclua uma análise de risco de incêndio detalhada para a edificação e o sistema, dimensionando as medidas de segurança."
   }
  ],
- "cta_titulo": "Adeque seu sistema à NBR 17193!",
- "cta_corpo": "A GreenGold Engenharia garante que seu projeto fotovoltaico esteja 100% em conformidade com as novas exigências de segurança. Evite problemas com AVCB e proteja seu investimento. Fale conosco!",
- "legenda": "A NBR 17193 já é uma realidade e essencial para a segurança de instalações fotovoltaicas. Garanta que seu projeto esteja em conformidade com as novas exigências de desligamento rápido e proteção contra incêndio. Conte com a GreenGold para um projeto seguro e certificado.\n#EngenhariaEletrica #EnergiaSolar #Fotovoltaico #NBR17193 #SegurancaContraIncendio #ProjetoEletrico #ART #GreenGoldEngenharia"
+ "cta_titulo": "Sua instalação fotovoltaica está em conformidade?",
+ "cta_corpo": "Garanta a segurança e a conformidade da sua instalação solar com a GreenGold Engenharia. Fale conosco para um projeto que atenda plenamente à NBR 17193 e às exigências do AVCB.",
+ "legenda": "A NBR 17193 é a nova realidade para a segurança de sistemas fotovoltaicos. Desde fevereiro de 2025, seu projeto precisa de atenção redobrada para evitar riscos de incêndio e garantir a liberação do AVCB. Não coloque sua edificação em risco.\n#EngenhariaEletrica #EnergiaSolar #Fotovoltaico #SegurancaContraIncendio #NBR17193 #ProjetoEletrico #AVCB #GreenGoldEngenharia"
 }
