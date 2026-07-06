@@ -1,0 +1,32 @@
+{
+ "formato": "checklist",
+ "tema_foto": "projeto",
+ "capa_kicker": "ART 2026: Novas Regras",
+ "capa_titulo": "O que muda na Anotação de Responsabilidade Técnica?",
+ "capa_subtitulo": "Fique por dentro das atualizações do Confea e evite problemas nos seus projetos prediais.",
+ "slides": [
+  {
+   "titulo": "O que é a ART?",
+   "corpo": "A Anotação de Responsabilidade Técnica (ART) é o registro, feito no CREA, que vincula um profissional habilitado a uma obra ou serviço técnico. Ela prova quem é o responsável legal pelo projeto ou pela execução, sendo instituída pela Lei 6.496, de 1977, e essencial para a validade."
+  },
+  {
+   "titulo": "A Nova Regulamentação",
+   "corpo": "A ART agora é regida pela Resolução Confea 1.137/2023, que substituiu a antiga Resolução 1.025/2009. Essa atualização alinha o documento à Nova Lei de Licitações e Contratos (Lei 14.133/2021), modernizando e fortalecendo a exigência da responsabilidade técnica."
+  },
+  {
+   "titulo": "Mudanças Práticas para 2026",
+   "corpo": "O Confea revisou os modelos de formulário do Anexo I para correção de inconsistências e preenchimento mais intuitivo. Além disso, aprovou uma nova Tabela de Títulos Profissionais e definiu os valores de ART, anuidades e taxas de serviço que serão cobrados em 2026."
+  },
+  {
+   "titulo": "Sinais de Irregularidade da ART",
+   "corpo": "Seu projeto elétrico, hidráulico ou de esgoto foi entregue sem número de ART registrado no CREA? Não há um engenheiro identificado, com registro ativo, respondendo pela obra? A concessionária ou prefeitura pediu a ART e não foi apresentada?"
+  },
+  {
+   "titulo": "Evite Problemas e Prejuízos",
+   "corpo": "A irregularidade da ART pode gerar obra embargada, contrato negado em licitação e prejuízo com retrabalho. Ela impede a ligação de energia ou água, a aprovação do projeto na prefeitura e a comprovação de acervo técnico para licitações."
+  }
+ ],
+ "cta_titulo": "Garanta a Regularidade do seu Projeto!",
+ "cta_corpo": "A GreenGold Engenharia entrega projetos com ART devidamente registrada, assegurando a validade legal e a qualidade técnica. Fale com nossos especialistas e evite surpresas indesejáveis.",
+ "legenda": "As novas regras da ART já estão valendo, e a adequação é crucial para a segurança e validade dos seus projetos. Entender as mudanças evita dores de cabeça e garante a conformidade com as exigências legais. Conte com quem entende do assunto para ter tranquilidade. #ART #Engenharia #ProjetosPrediais #Confea #CREA #Instalações #BIM #PPCI"
+}
