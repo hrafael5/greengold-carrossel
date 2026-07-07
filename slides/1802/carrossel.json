@@ -1,32 +1,32 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "Novas Regras da ART",
- "capa_titulo": "Seu projeto predial pronto para 2026?",
- "capa_subtitulo": "Entenda as atualizações da Anotação de Responsabilidade Técnica e evite problemas futuros.",
+ "capa_kicker": "ART 2026: Novas Regras",
+ "capa_titulo": "Evite estes 5 ERROS com a ART!",
+ "capa_subtitulo": "As atualizações do Confea mudam o que você precisa saber sobre Anotação de Responsabilidade Técnica.",
  "slides": [
   {
-   "titulo": "O que é a ART e por que ela mudou",
-   "corpo": "A ART é o registro no CREA que vincula um profissional habilitado a uma obra ou serviço técnico, provando o responsável legal (Lei 6.496/1977). Sem ela, o serviço é irregular. A Resolução Confea 1.137/2023, que substituiu a 1.025/2009, alinhou a ART à Nova Lei de Licitações (Lei 14.133/2021) e modernizou o processo."
+   "titulo": "Entenda o que é a ART",
+   "corpo": "A Anotação de Responsabilidade Técnica (ART) é o registro, feito no CREA, que vincula um profissional habilitado a uma obra ou serviço técnico. Instituída pela Lei 6.496, de 1977, ela prova quem é o responsável legal pelo projeto ou execução, sendo indispensável para a validade perante o Sistema Confea/CREA."
   },
   {
-   "titulo": "As principais atualizações em 2026",
-   "corpo": "O Confea revisou os modelos de formulário (Anexo I) para um preenchimento mais intuitivo, reduzindo erros de registro da ART. Foi aprovada uma nova Tabela de Títulos Profissionais, que moderniza o reconhecimento das atribuições e substitui a Resolução 473/2002. Houve também a definição dos valores de ART, anuidades e taxas de serviço que serão cobrados a partir de 2026."
+   "titulo": "As principais mudanças para 2026",
+   "corpo": "A Resolução Confea 1.137/2023, que substituiu a 1.025/2009, alinhou a ART à Nova Lei de Licitações e Contratos (Lei 14.133/2021). Houve revisão dos modelos de formulário, atualização da Tabela de Títulos Profissionais e redefinição dos valores de taxas de serviço para 2026."
   },
   {
-   "titulo": "Onde a ART irregular pode causar problemas",
-   "corpo": "A falta de registro da ART pode embargar obras, negar contratos em licitações e gerar prejuízos com retrabalho. Problemas surgem ao ligar energia ou água com concessionárias, na aprovação de projetos na prefeitura. Em licitações públicas, a Certidão de Acervo Técnico (CAT) é frequentemente exigida como prova de experiência."
+   "titulo": "Impacto das novas regras nos projetos",
+   "corpo": "As mudanças tornam o registro da responsabilidade técnica mais padronizado e fiscalizado. A falta da ART em projetos elétricos, hidráulicos ou de esgoto pode gerar problemas como obra embargada, contratos negados em licitações e prejuízos significativos com retrabalho."
   },
   {
-   "titulo": "Sinais de uma ART irregular no seu projeto",
-   "corpo": "Seu projeto elétrico, hidráulico ou de esgoto foi entregue sem um número de ART registrado no CREA. Não há um engenheiro identificado, com registro ativo, respondendo pela obra ou serviço técnico. Ou a concessionária, ou a prefeitura, solicitou a ART e ninguém consegue apresentá-la."
+   "titulo": "Sinais de irregularidade na sua ART",
+   "corpo": "Verifique se o projeto foi entregue sem número de ART registrado no CREA ou se não há um engenheiro com registro ativo respondendo pela obra. Concessionárias e prefeituras exigem a ART, e sua ausência pode impedir ligações ou aprovações, revelando a irregularidade."
   },
   {
-   "titulo": "Como emitir a ART corretamente (e evitar dores de cabeça)",
-   "corpo": "A Anotação de Responsabilidade Técnica deve ser feita por profissional habilitado e, preferencialmente, antes do início do serviço. O engenheiro verifica se a atividade está dentro de suas atribuições, conforme a Tabela de Títulos Profissionais do Confea/CREA, e preenche o formulário. É preciso recolher a taxa de ART, com valores atualizados para 2026, garantindo a conformidade legal do projeto."
+   "titulo": "A importância da Certidão de Acervo Técnico (CAT)",
+   "corpo": "A Certidão de Acervo Técnico (CAT) comprova a experiência do profissional e da empresa, sendo crucial para a habilitação em licitações públicas. Sem ARTs devidamente registradas, não é possível emitir a CAT, limitando oportunidades e a comprovação de capacidade técnica."
   }
  ],
- "cta_titulo": "Garanta a conformidade do seu projeto!",
- "cta_corpo": "Evite transtornos e prejuízos. Conte com a GreenGold Engenharia para projetos com ART regularizada, do elétrico ao hidrossanitário, com a segurança de um profissional habilitado e ART emitida no CREA.",
- "legenda": "As novas regras da ART já estão valendo para 2026. Garanta que seu projeto predial, seja elétrico, hidráulico ou de SPDA, esteja em total conformidade com as exigências do Confea/CREA. Com a GreenGold Engenharia, você tem a certeza de um projeto com Anotação de Responsabilidade Técnica (ART) sempre atualizada e validada.\n#ART2026 #EngenhariaCivil #ProjetosPrediais #Confea #CREA #InstalacoesPrediais #BIM #GreenGoldEngenharia #SegurancaTecnica"
+ "cta_titulo": "Não arrisque seu projeto!",
+ "cta_corpo": "Garanta a conformidade e a segurança dos seus empreendimentos com projetos de engenharia que seguem as novas regras da ART. Fale com a GreenGold Engenharia hoje mesmo!",
+ "legenda": "As novas regras da ART para 2026 trazem importantes atualizações para projetos prediais. Fique por dentro das mudanças da Resolução Confea 1.137/2023 e garanta a validade legal e a segurança dos seus empreendimentos. Evite surpresas e prejuízos futuros com a GreenGold Engenharia.\n#ART2026 #EngenhariaCivil #ProjetosPrediais #Confea #CREA #ResponsabilidadeTecnica #BIM #EngenhariaMultidisciplinar"
 }
