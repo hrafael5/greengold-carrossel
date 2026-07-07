@@ -1,32 +1,32 @@
 {
- "formato": "Novas Exigências",
+ "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "NBR 17019, Lei 18.403 e IT 41",
- "capa_titulo": "Recarga de Veículos Elétricos: Novas Exigências em Edificações",
- "capa_subtitulo": "Saiba o que muda nos projetos elétricos e evite riscos.",
+ "capa_kicker": "Lei 18.403/2026, IT 41 e NBR 17019",
+ "capa_titulo": "Recarga de VE: O que muda para edificações?",
+ "capa_subtitulo": "Novas exigências transformam o projeto elétrico predial. Você está preparado para 2026?",
  "slides": [
   {
-   "titulo": "A Nova Realidade para Edificações",
-   "corpo": "A Lei 18.403/2026 (fevereiro de 2026) e a IT 41 do Corpo de Bombeiros (março de 2026) tornaram a previsão de pontos de carregamento nas garagens uma exigência técnica e legal. Não é mais um detalhe opcional, mas sim uma necessidade que requer projeto assinado e ART, conforme a ABNT NBR 17019."
+   "titulo": "Compreendendo o Sistema SAVE",
+   "corpo": "O carregamento de veículos elétricos em edifícios é um Sistema de Alimentação de Veículos Elétricos (SAVE). Não é uma simples tomada, mas uma instalação elétrica de alta potência, operando por horas em ambiente confinado. A ABNT NBR 17019 define como dimensionar a demanda e aplicar o balanceamento de carga, garantindo segurança e eficiência."
   },
   {
-   "titulo": "O que é um SAVE?",
-   "corpo": "O Sistema de Alimentação de Veículos Elétricos (SAVE) é o conjunto do ponto de recarga (EVSE), do circuito elétrico dedicado que o alimenta e de toda a infraestrutura de proteção, medição e sinalização em volta dele. Não se trata de uma simples tomada; é uma instalação de alta potência, contínua por horas, em ambiente fechado."
+   "titulo": "Perigos da Improvisação na Recarga",
+   "corpo": "Carregar o veículo em tomada comum, puxar energia do quadro de entrada ou usar carregadores portáteis em box fechado são práticas expressamente proibidas pela IT 41. Um carregador residencial de 7,4 kW, operando por 6 a 8 horas, sobrecarrega fiações antigas, causando aquecimento de cabos, disjuntores desarmando ou, no pior cenário, princípios de incêndio."
   },
   {
-   "titulo": "Riscos da Implantação Irregular",
-   "corpo": "Improvisar com tomadas comuns de garagem, puxar energia do quadro de entrada ou usar carregadores portáteis em box fechado é proibido pela IT 41. Um carregador residencial pode operar em 7,4 kW ou mais por 6 a 8 horas seguidas, sobrecarregando fiações antigas e causando aquecimento de cabos, desarme de disjuntores ou, no pior cenário, princípios de incêndio."
+   "titulo": "Sinais de uma Instalação Irregular",
+   "corpo": "Uma instalação inadequada apresenta sinais claros. Verifique se o carregador está ligado em tomada comum, se há ausência de dispositivo DR dedicado ou se o ponto está conectado ao disjuntor do padrão de entrada. Outros indícios incluem cabos aquecendo, cheiro de queimado, disjuntor desarmando ou a falta de sinalização de desligamento de emergência. A ausência de projeto elétrico com ART de profissional habilitado é um erro grave."
   },
   {
-   "titulo": "Normas Essenciais para Adequação",
-   "corpo": "A adequação segura da recarga de veículos elétricos combina três normas que conversam entre si: ABNT NBR 5410 (base para instalações elétricas), ABNT NBR 17019 (específica para infraestrutura de recarga e cálculo de demanda) e ABNT NBR IEC 61851-1 (requisitos do carregador). Elas garantem proteção e dimensionamento correto."
+   "titulo": "As Normas Essenciais para Adequação",
+   "corpo": "A adequação segura combina três normas fundamentais: ABNT NBR 5410 (proteção, dimensionamento, aterramento), ABNT NBR 17019 (infraestrutura de recarga, cálculo de demanda) e ABNT NBR IEC 61851-1 (requisitos do carregador). Sobre elas, incidem a Lei 18.403/2026 (vigor a partir de fevereiro de 2026) e a IT 41 (publicada em março de 2026), que tornam a conformidade legalmente obrigatória."
   },
   {
-   "titulo": "Identificando uma Instalação Inadequada",
-   "corpo": "Sinais de irregularidade incluem: carregador ligado em tomada comum ou em circuito compartilhado com iluminação da garagem, ausência de dispositivo DR (diferencial-residual) dedicado ao ponto de recarga, ponto conectado ao disjuntor do padrão de entrada ou uso de carregador portátil em garagem fechada. Aquecimento de cabos ou disjuntores desarmando também são alertas."
+   "titulo": "Projeto Elétrico e ART: Sua Segurança",
+   "corpo": "A Lei 18.403/2026 e a IT 41 exigem projeto assinado e Anotação de Responsabilidade Técnica (ART) para instalações de recarga. Um engenheiro verifica a capacidade instalada da edificação e realiza o cálculo de demanda com balanceamento de carga, conforme NBR 17019. Isso garante que todos os pontos sejam atendidos sem sobrecarregar a entrada do prédio, evitando riscos técnicos e legais."
   }
  ],
- "cta_titulo": "Sua edificação está preparada para o futuro?",
- "cta_corpo": "Garanta a segurança e a conformidade do seu projeto elétrico com as novas exigências para recarga de veículos elétricos. Fale com a GreenGold Engenharia para um projeto com ART.",
- "legenda": "A recarga de veículos elétricos nas edificações deixou de ser opcional e virou uma exigência legal e técnica. Com a Lei 18.403/2026, a IT 41 e a NBR 17019, seu projeto elétrico precisa de adequação para garantir segurança e evitar problemas futuros. Fale com especialistas.\n#EngenhariaEletrica #VeiculosEletricos #NBR17019 #ProjetoEletrico #Sustentabilidade #InfraestruturaPredial #GreenGoldEngenharia #ARTnoCREA"
+ "cta_titulo": "Evite riscos e garanta a segurança!",
+ "cta_corpo": "Sua edificação está preparada para as novas exigências de recarga de veículos elétricos? Fale com a GreenGold Engenharia para um projeto seguro e em conformidade com as normas.",
+ "legenda": "A recarga de veículos elétricos em edificações agora tem normas e leis específicas que exigem atenção. Não improvise! Um projeto elétrico adequado com ART é fundamental para a segurança e conformidade da sua edificação. Conte com a GreenGold Engenharia para um projeto seguro e eficiente, evitando riscos técnicos, legais e financeiros.\n#EngenhariaEletrica #VeiculosEletricos #MobilidadeEletrica #NBR17019 #ProjetoEletrico #ART #GreenGoldEngenharia #SegurancaPredial"
 }
