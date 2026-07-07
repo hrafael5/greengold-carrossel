@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "Lei 18.403/2026 e IT 41",
+ "capa_titulo": "Recarga de VE: É OBRIGATÓRIO no seu prédio!",
+ "capa_subtitulo": "A Lei 18.403/2026 e a IT 41 exigem projeto elétrico e ART. Entenda o impacto e evite riscos.",
+ "slides": [
+  {
+   "titulo": "Carregamento de veículos elétricos não é \"ligar uma tomada\".",
+   "corpo": "O Sistema de Alimentação de Veículos Elétricos (SAVE) abrange o ponto de recarga (EVSE), o circuito elétrico dedicado e toda a infraestrutura de proteção e medição. Não se trata de uma tomada simples, mas de uma instalação elétrica de alta potência, contínua por horas, em ambiente fechado. A ABNT NBR 17019 é a norma específica para isso."
+  },
+  {
+   "titulo": "Perigos de instalações elétricas improvisadas.",
+   "corpo": "Carregar o veículo em tomada comum, puxar energia do quadro de entrada ou usar carregadores portáteis em box fechado são práticas expressamente proibidas pela IT 41. Um carregador residencial pode operar em 7,4 kW por 6 a 8 horas seguidas, sobrecarregando a fiação antiga da garagem. Isso causa aquecimento de cabos, disjuntores desarmando ou, no pior cenário, princípios de incêndio em ambientes confinados."
+  },
+  {
+   "titulo": "Identifique uma instalação elétrica irregular.",
+   "corpo": "Fique atento aos sintomas de uma instalação irregular: carregador em tomada comum ou circuito compartilhado, ausência de DR dedicado, conexão direta ao disjuntor do padrão de entrada do prédio. Outros sinais incluem o uso de carregador portátil em garagem fechada, cabos aquecendo, cheiro de queimado ou disjuntor desarmando durante a carga. A falta de sinalização de emergência também é um alerta."
+  },
+  {
+   "titulo": "Normas técnicas para a recarga segura de VE.",
+   "corpo": "A adequação segura combina três normas que conversam entre si: ABNT NBR 5410 (base para instalações elétricas), ABNT NBR 17019 (infraestrutura de recarga e balanceamento de carga) e ABNT NBR IEC 61851-1 (requisitos do carregador). Sobre elas, incidem a Lei 18.403/2026 e a IT 41, publicada em 17 de março de 2026, tornando a conformidade essencial."
+  },
+  {
+   "titulo": "Exigência legal e responsabilidade técnica.",
+   "corpo": "A Lei 18.403/2026, com vigência a partir de fevereiro de 2026, e a IT 41 do Corpo de Bombeiros tornam obrigatória a previsão de pontos de carregamento em edificações. Esta exigência legal e técnica demanda um projeto elétrico assinado por profissional habilitado, com a devida Anotação de Responsabilidade Técnica (ART) junto ao CREA."
+  }
+ ],
+ "cta_titulo": "Evite riscos e adeque seu projeto!",
+ "cta_corpo": "A GreenGold Engenharia Multidisciplinar é especialista em projetos elétricos para SAVE, com ART no CREA. Garanta a segurança e a conformidade legal do seu edifício. Fale conosco e solicite uma avaliação técnica!",
+ "legenda": "A recarga de veículos elétricos em edificações deixou de ser opcional e virou uma exigência legal e técnica. Garanta a segurança e a conformidade do seu projeto com a GreenGold Engenharia, evitando multas e riscos de incêndio. Fique por dentro das novas normas e proteja seu patrimônio.\n#EngenhariaEletrica #VeiculosEletricos #NBR17019 #ProjetoEletrico #CREA #GreenGoldEngenharia #InstalacoesPrediais #SegurancaEletrica"
+}
