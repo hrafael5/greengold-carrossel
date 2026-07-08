@@ -1,32 +1,32 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "Lei 18.403/2026 e IT 41",
- "capa_titulo": "Recarga de veículos elétricos: O que muda para seu prédio?",
- "capa_subtitulo": "As novas exigências para instalações em edificações.",
+ "capa_kicker": "Lei 18.403/2026, IT 41 e NBR 17019",
+ "capa_titulo": "Recarga de veículos elétricos: o que MUDOU na sua edificação?",
+ "capa_subtitulo": "Novas exigências legais e técnicas tornam o projeto elétrico obrigatório para Sistemas de Alimentação de Veículos Elétricos (SAVE).",
  "slides": [
   {
-   "titulo": "Compreendendo o Sistema de Alimentação de Veículos Elétricos (SAVE)",
-   "corpo": "O carregamento de carros elétricos em edifícios é um Sistema de Alimentação de Veículos Elétricos (SAVE). Não se trata de uma simples tomada, mas de uma instalação elétrica de alta potência, contínua por horas, dentro de um ambiente confinado. A ABNT NBR 17019 é a norma brasileira específica que define como dimensionar a demanda e aplicar o balanceamento de carga."
+   "titulo": "A Nova Realidade para Edificações",
+   "corpo": "A Lei 18.403/2026, em vigor a partir de fevereiro, e a IT 41 do Corpo de Bombeiros, publicada em março de 2026, transformaram a recarga de veículos elétricos em uma exigência técnica e legal. Prever pontos de carregamento nas garagens deixou de ser um detalhe opcional, demandando projeto específico e ART."
   },
   {
-   "titulo": "Evite Improvisos: Riscos da Instalação Irregular",
-   "corpo": "A IT 41 do Corpo de Bombeiros proíbe expressamente o uso de tomadas comuns de garagem e carregadores portáteis em box fechado. Carregadores residenciais podem operar em 7,4 kW ou mais por 6 a 8 horas seguidas, sobrecarregando a fiação antiga de garagem. Isso causa aquecimento de cabos, atuação de disjuntores ou, no pior cenário, princípios de incêndio em ambientes confinados."
+   "titulo": "O Que É o Sistema de Alimentação de Veículos Elétricos (SAVE)",
+   "corpo": "O carregamento de carros elétricos em prédios é conhecido como SAVE. Não se trata de \"ligar uma tomada na vaga\", mas de uma instalação elétrica de potência elevada, contínua por horas, que inclui o ponto de recarga, o circuito dedicado, e toda a infraestrutura de proteção e medição, conforme a ABNT NBR 17019."
   },
   {
-   "titulo": "Sinais de Alerta para Instalações Elétricas Inadequadas",
-   "corpo": "Fique atento a carregadores conectados em tomadas comuns ou em circuito compartilhado com a iluminação da garagem. A ausência de dispositivo DR (diferencial-residual) dedicado ao ponto de recarga e a conexão ao disjuntor do padrão de entrada do prédio também são indicativos de problemas. Cabos aquecendo, cheiro de queimado ou disjuntor desarmando durante a carga são sinais graves de irregularidade."
+   "titulo": "Os Riscos da Improvisação na Recarga",
+   "corpo": "Carregar veículos em tomadas comuns de garagem ou usar carregadores portáteis em boxes fechados são práticas expressamente proibidas pela IT 41 do Corpo de Bombeiros. Um carregador residencial pode operar em 7,4 kW por até oito horas seguidas, sobrecarregando a fiação antiga e gerando riscos de aquecimento de cabos ou incêndio."
   },
   {
-   "titulo": "A Exigência de Projeto Elétrico e ART",
-   "corpo": "Instalações feitas sem projeto elétrico e sem a Anotação de Responsabilidade Técnica (ART) de um profissional habilitado são irregulares e perigosas. A Lei 18.403/2026, em vigor a partir de fevereiro de 2026, e a IT 41, publicada em 17 de março de 2026, tornaram isso uma exigência legal e técnica, com a ABNT NBR 17019 como norma específica."
+   "titulo": "Sinais de Alerta de uma Instalação Irregular",
+   "corpo": "Fique atento a sinais como carregador ligado em tomada comum ou em circuito compartilhado, ausência de dispositivo DR dedicado, conexão ao disjuntor do padrão de entrada, ou uso de carregador portátil em garagem fechada. Cabos aquecendo e disjuntor desarmando são sintomas claros de risco e irregularidade."
   },
   {
-   "titulo": "Normas Técnicas Essenciais para Adequação Segura",
-   "corpo": "A adequação segura da recarga de veículos elétricos combina três normas que conversam entre si. A ABNT NBR 5410 é a base, definindo proteção contra choques e dimensionamento. A ABNT NBR 17019 trata especificamente da infraestrutura de recarga em edificações. E a ABNT NBR IEC 61851-1 estabelece os requisitos do próprio carregador, assegurando a comunicação e segurança elétrica."
+   "titulo": "A Adequação Técnica Conforme as Normas",
+   "corpo": "A adequação segura combina a ABNT NBR 5410 (base), a ABNT NBR 17019 (infraestrutura de recarga e balanceamento de carga) e a ABNT NBR IEC 61851-1 (requisitos do carregador). O processo exige levantamento da capacidade instalada e cálculo de demanda com balanceamento de carga, garantindo segurança e conformidade."
   }
  ],
- "cta_titulo": "Não arrisque a segurança do seu prédio!",
- "cta_corpo": "Garanta a conformidade e a segurança na recarga de veículos elétricos. Fale com a GreenGold Engenharia para um projeto técnico e com ART.",
- "legenda": "A recarga de veículos elétricos em edificações não é mais opcional, mas uma exigência legal e técnica. Evite riscos e garanta a segurança do seu patrimônio com um projeto elétrico adequado e certificado. A GreenGold Engenharia está pronta para auxiliar seu condomínio ou empresa. #EngenhariaEletrica #VeiculosEletricos #NBR17019 #ProjetoEletrico #GreenGoldEngenharia #SegurancaPredial #ART #Sustentabilidade"
+ "cta_titulo": "Garanta a segurança e conformidade da sua edificação.",
+ "cta_corpo": "Evite riscos e multas. A GreenGold Engenharia elabora o projeto elétrico completo para SAVE, com ART e em conformidade com as novas exigências.",
+ "legenda": "A recarga de veículos elétricos em edificações agora é uma exigência legal e técnica! Prepare seu prédio para o futuro da mobilidade com segurança e conformidade. Conte com a GreenGold Engenharia para um projeto elétrico completo e certificado. #GreenGoldEngenharia #EngenhariaEletrica #VeiculosEletricos #NBR17019 #SAVE #ProjetoEletrico #Sustentabilidade #SegurancaPredial"
 }
