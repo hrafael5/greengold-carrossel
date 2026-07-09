@@ -1,32 +1,32 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "NBR 5410",
- "capa_titulo": "A maior atualização da norma de instalações elétricas desde 2004!",
- "capa_subtitulo": "Saiba o que muda no seu projeto e como garantir a segurança da sua edificação.",
+ "capa_kicker": "NBR 5410 em Revisão",
+ "capa_titulo": "A maior atualização desde 2004",
+ "capa_subtitulo": "O que muda no projeto elétrico predial e como se preparar?",
  "slides": [
   {
-   "titulo": "O que é a NBR 5410 e por que ela é tão importante?",
-   "corpo": "A NBR 5410 estabelece as condições mínimas para instalações elétricas seguras em tensões até 1000 V em corrente alternada, sendo a referência técnica para residências, comércios e indústrias. Ela define desde a bitola dos condutores até os esquemas de aterramento, sendo a base de todo projeto elétrico predial."
+   "titulo": "A NBR 5410 e sua revisão histórica",
+   "corpo": "A NBR 5410, norma da ABNT que rege instalações elétricas de baixa tensão (até 1000 V em corrente alternada), está passando pela maior revisão de sua história desde 2004. Ela é a referência técnica para residências, comércios e indústrias, sendo exigida por concessionárias e bombeiros. A primeira consulta nacional gerou cerca de 800 sugestões, indicando uma segunda rodada antes da publicação final prevista para o fim de 2026."
   },
   {
-   "titulo": "A norma de 2004 não atende mais à realidade atual.",
-   "corpo": "A versão atual da NBR 5410, consolidada em 2004, não abrange as inovações tecnológicas no parque elétrico brasileiro. Sistemas fotovoltaicos, carregadores de veículos elétricos e eletrônica sensível exigem novas diretrizes para garantir a segurança e a conformidade."
+   "titulo": "Por que a norma precisa ser atualizada",
+   "corpo": "A versão da NBR 5410 vigente, consolidada em 2004, não acompanha o parque elétrico brasileiro atual. Tecnologias como sistemas fotovoltaicos, carregadores de veículos elétricos, inversores e eletrônica sensível se popularizaram, exigindo novas diretrizes. A revisão visa adequar a norma a essa realidade, garantindo a segurança e o desempenho das instalações modernas em edificações."
   },
   {
-   "titulo": "Principais mudanças na revisão da NBR 5410.",
-   "corpo": "A revisão amplia os esquemas de aterramento, passando de 10 para 21 desenhos ilustrativos, e inclui ineditamente esquemas para corrente contínua (c.c.). Há também a harmonização com a NBR 5419, de proteção contra descargas atmosféricas, resolvendo antigas divergências."
+   "titulo": "Principais mudanças na nova NBR 5410",
+   "corpo": "Três pontos-chave concentram a atenção: a ampliação dos esquemas de aterramento, que saltam de 10 para 21 desenhos ilustrativos, oferecendo maior clareza. Há também a inclusão inédita de esquemas para corrente contínua (c.c.), espelhando os arranjos TN, TT e IT, essenciais para geração fotovoltaica e recarga veicular. Além disso, a norma busca harmonização com a NBR 5419, de proteção contra descargas atmosféricas."
   },
   {
-   "titulo": "Seu projeto elétrico exige ART para comprovar conformidade.",
-   "corpo": "A revisão da NBR 5410 reforça que o projeto elétrico com Anotação de Responsabilidade Técnica (ART) deixa de ser opcional. Ele se torna a única forma de comprovar a conformidade com a norma, garantindo a segurança e legalidade da instalação predial."
+   "titulo": "O impacto no seu projeto elétrico",
+   "corpo": "Uma norma técnica se materializa em um projeto elétrico assinado, com memorial de cálculo, diagramas e Anotação de Responsabilidade Técnica (ART). A nova edição da NBR 5410 reforça essa lógica, tornando o projeto elétrico com ART a única forma de comprovar a conformidade da instalação. As regras de aterramento, proteção contra choques e coordenação de dispositivos estão sendo redesenhadas, exigindo adequação."
   },
   {
-   "titulo": "Sinais de uma instalação elétrica desatualizada e perigosa.",
-   "corpo": "Quadros de distribuição sem identificação, sem DR ou DPS, aterramento inexistente ou improvisado e circuitos de tomadas e iluminação compartilhados são sinais. Fios com bitola abaixo da carga real e a ausência de projeto elétrico e ART também indicam não conformidade."
+   "titulo": "Sinais de uma instalação desatualizada",
+   "corpo": "Instalações sem identificação de circuitos no quadro de distribuição, ausência de DR (dispositivo diferencial-residual) ou DPS (dispositivo de proteção contra surtos), e aterramento inexistente ou improvisado são sinais claros de desatualização. Circuitos de tomadas e iluminação compartilhados, disjuntores superdimensionados e fios com bitola abaixo da carga real também indicam não conformidade com a NBR 5410 vigente, potencializando riscos elétricos."
   }
  ],
- "cta_titulo": "Evite riscos e garanta a conformidade!",
- "cta_corpo": "A GreenGold Engenharia Multidisciplinar é especialista em projetos elétricos prediais com ART, incluindo adequações à NBR 5410. Fale com nossos engenheiros e atualize sua instalação.",
- "legenda": "A NBR 5410 está em revisão, trazendo as maiores mudanças desde 2004 para instalações elétricas de baixa tensão. Não deixe sua edificação desatualizada e em risco, garanta a segurança e a legalidade com um projeto elétrico conforme as novas diretrizes. A GreenGold Engenharia está pronta para te auxiliar!\n#NBR5410 #InstalacoesEletricas #ProjetoEletrico #EngenhariaEletrica #SegurancaEletrica #ART #GreenGoldEngenharia #AtualizacaoNormativa"
+ "cta_titulo": "Prepare-se para a nova NBR 5410!",
+ "cta_corpo": "Garanta a segurança e conformidade das suas instalações elétricas. Fale com a GreenGold Engenharia para projetos atualizados e dentro das mais recentes exigências normativas.",
+ "legenda": "A NBR 5410 está passando pela sua maior revisão em décadas, e as mudanças terão um impacto significativo nos projetos elétricos prediais. Mantenha-se atualizado para garantir a segurança e a conformidade das suas instalações. Conte com a GreenGold Engenharia para estar à frente das novas exigências. #NBR5410 #EngenhariaEletrica #InstalacoesEletricas #ProjetoEletrico #ART #GreenGoldEngenharia #SegurancaEletrica #NormaTecnica"
 }
