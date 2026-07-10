@@ -1,32 +1,32 @@
 {
- "formato": "erros",
+ "formato": "checklist",
  "tema_foto": "projeto",
- "capa_kicker": "NBR 5410",
- "capa_titulo": "A norma MUDOU: O que você precisa saber sobre a nova NBR 5410",
- "capa_subtitulo": "A maior atualização em instalações elétricas de baixa tensão desde 2004 está chegando!",
+ "capa_kicker": "NBR 5410 em revisão",
+ "capa_titulo": "A maior atualização da norma elétrica desde 2004!",
+ "capa_subtitulo": "Descubra o que muda no projeto elétrico predial e como se preparar para as novas regras.",
  "slides": [
   {
-   "titulo": "A NBR 5410 em instalações elétricas",
-   "corpo": "A NBR 5410, Instalações elétricas de baixa tensão, é a norma da ABNT que estabelece as condições mínimas para que uma instalação elétrica funcione com segurança em tensões até 1000 V em corrente alternada. Ela é a referência técnica exigida por concessionárias, corpos de bombeiros e cartórios de obra para residências, comércios, indústrias e áreas comuns de condomínios."
+   "titulo": "O que é a NBR 5410 e Por Que a Revisão?",
+   "corpo": "A NBR 5410 é a norma da ABNT para instalações elétricas de baixa tensão (até 1000 V em CA), essencial para segurança em residências, comércios e indústrias. Sua versão atual, de 2004, está desatualizada frente a inovações como energia solar e carregadores veiculares. A revisão busca alinhar a norma à realidade tecnológica."
   },
   {
-   "titulo": "A maior atualização desde 2004",
-   "corpo": "Vigente sem grandes mudanças desde 2004, a NBR 5410 está em sua maior revisão, com cerca de 800 sugestões na primeira consulta nacional. A publicação do texto final é prevista para o fim de 2026. O parque elétrico brasileiro mudou profundamente, com a chegada de sistemas fotovoltaicos, carregadores de veículos elétricos e eletrônica sensível, exigindo a atualização da norma."
+   "titulo": "Cronograma da Revisão e Participação Pública",
+   "corpo": "A norma, vigente sem grandes alterações desde 2004, já recebeu cerca de 800 sugestões na primeira consulta nacional. Uma segunda rodada de consulta pública é esperada, com a publicação do texto final prevista para o fim de 2026. Este processo garante a abrangência e a relevância das atualizações."
   },
   {
-   "titulo": "As novas regras e o que muda",
-   "corpo": "A revisão da NBR 5410 traz três mudanças cruciais: a ampliação dos esquemas de aterramento, que saltam de 10 para 21 desenhos ilustrativos, e a inclusão inédita de esquemas para corrente contínua (c.c.), essenciais para geração fotovoltaica e recarga veicular. Há também a harmonização da NBR 5410 com a NBR 5419, de proteção contra descargas atmosféricas, encerrando divergências em campo."
+   "titulo": "Principais Mudanças na NBR 5410",
+   "corpo": "Três pontos se destacam: a ampliação dos esquemas de aterramento (de 10 para 21 desenhos), a inclusão inédita de esquemas para corrente contínua (CC) para geração fotovoltaica e recarga veicular, e a harmonização com a NBR 5419, de proteção contra descargas atmosféricas. Estas alterações visam maior segurança e clareza."
   },
   {
-   "titulo": "ART e conformidade obrigatória",
-   "corpo": "Com a revisão da NBR 5410, o projeto elétrico com Anotação de Responsabilidade Técnica (ART) deixa de ser opcional. Ele se tornará a única forma de comprovar a conformidade das instalações prediais, incluindo regras redesenhadas para aterramento, proteção contra choques e coordenação de dispositivos. É fundamental se preparar agora para as novas exigências."
+   "titulo": "O Impacto no Projeto Elétrico Predial",
+   "corpo": "A revisão reforça a obrigatoriedade do projeto elétrico com ART, que deixa de ser opcional para virar a única forma de comprovar conformidade. A norma técnica não se resolve com leitura casual, mas se materializa em um projeto assinado, com memorial de cálculo, diagramas e Anotação de Responsabilidade Técnica."
   },
   {
-   "titulo": "Sinais de alerta na sua instalação",
-   "corpo": "Sinais de uma instalação desatualizada incluem: quadro de distribuição sem identificação de circuitos, sem DR (dispositivo diferencial-residual) ou sem DPS (dispositivo de proteção contra surtos). Aterramento inexistente, improvisado ou sem continuidade comprovada. A ausência de projeto elétrico e de ART também indica não conformidade com a norma vigente."
+   "titulo": "Sinais de que sua Instalação Pode Estar Desatualizada",
+   "corpo": "Atenção a quadros de distribuição sem identificação ou dispositivos DR/DPS, aterramento inadequado, circuitos compartilhados ou fios com bitola abaixo da carga real. A ausência de projeto elétrico com ART é um indicativo claro de não conformidade com a NBR 5410 vigente."
   }
  ],
- "cta_titulo": "Sua instalação está pronta para o futuro?",
- "cta_corpo": "A GreenGold Engenharia Multidisciplinar é especialista em projetos elétricos prediais, SPDA e PPCI com ART. Garanta a segurança e conformidade da sua edificação com as novas exigências da NBR 5410.",
- "legenda": "A NBR 5410 está passando pela maior revisão em décadas, e a sua instalação elétrica precisa estar em dia! Evite riscos e garanta a conformidade do seu projeto com as novas exigências. Conte com a GreenGold para um projeto elétrico seguro e atualizado.\n#NBR5410 #EngenhariaEletrica #InstalacoesEletricas #ProjetoEletrico #ART #SegurancaEletrica #GreenGoldEngenharia #AtualizacaoNormativa"
+ "cta_titulo": "Prepare-se para as novas regras!",
+ "cta_corpo": "Sua instalação elétrica está em dia com as normas? A GreenGold Engenharia oferece projetos elétricos atualizados, com ART, garantindo segurança e conformidade. Fale com nossos especialistas!",
+ "legenda": "A NBR 5410 está passando pela maior revisão de sua história, impactando diretamente os projetos elétricos prediais. Fique por dentro das atualizações e garanta a segurança e conformidade da sua instalação. A GreenGold Engenharia está pronta para te auxiliar nessa transição. #NBR5410 #EngenhariaEletrica #InstalacoesEletricas #ProjetoEletrico #RevisaoDeNorma #SegurancaEletrica #ABNT #ART"
 }
