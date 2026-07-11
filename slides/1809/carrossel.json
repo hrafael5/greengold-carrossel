@@ -1,32 +1,32 @@
 {
- "formato": "checklist",
+ "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "Nova NR-10 (Portaria MTE 737/2026)",
- "capa_titulo": "Risco elétrico: o que muda no seu projeto?",
- "capa_subtitulo": "Integração ao PGR, DR ampliado e novo prontuário: veja as adaptações necessárias para junho de 2027.",
+ "capa_kicker": "Nova NR-10 (Portaria MTE nº 737/2026)",
+ "capa_titulo": "Risco Elétrico no PGR: O que muda para seu projeto?",
+ "capa_subtitulo": "DR ampliado, novo prontuário e mais segurança: entenda as atualizações.",
  "slides": [
   {
-   "titulo": "Integração ao Programa de Gerenciamento de Riscos (PGR)",
-   "corpo": "A nova NR-10 exige a integração do risco elétrico ao Programa de Gerenciamento de Riscos (PGR), rompendo com o tratamento isolado. Agora, inventário de riscos e plano de ação devem incluir os perigos elétricos, seguindo uma hierarquia de controle para eliminar, proteger e gerenciar."
+   "titulo": "Risco Elétrico no PGR",
+   "corpo": "A nova NR-10, publicada pela Portaria MTE nº 737/2026, exige que o risco elétrico seja gerenciado dentro do Programa de Gerenciamento de Riscos (PGR) da empresa. Antes tratado isoladamente, ele agora precisa constar no inventário de riscos e no plano de ação, seguindo a hierarquia de controle legal. Isso inverte a lógica de quem só entregava EPI."
   },
   {
-   "titulo": "Hierarquia de Controle de Riscos",
-   "corpo": "A lógica de segurança inverte-se: primeiro eliminar o perigo, depois adotar proteção coletiva, em seguida medidas administrativas e, por último, o Equipamento de Proteção Individual (EPI). Essa abordagem formaliza a gestão, evitando a dependência exclusiva do EPI."
+   "titulo": "Proteção DR Ampliada",
+   "corpo": "Uma mudança impactante atinge diretamente as edificações residenciais e comerciais: a ampliação do uso do Dispositivo Diferencial-Residual (DR). A nova NR-10 visa eliminar projetos onde tomadas de banheiro, cozinha, lavanderia, garagem e áreas externas não possuíam proteção por DR, garantindo maior segurança."
   },
   {
-   "titulo": "Ampliação da Proteção com DR",
-   "corpo": "Uma das mudanças mais impactantes para edificações residenciais e comerciais é a ampliação da obrigatoriedade do Dispositivo Diferencial-Residual (DR). Tomadas de áreas molhadas (banheiro, cozinha, lavanderia) e externas devem ter essa proteção, eliminando riscos de não conformidade."
+   "titulo": "Prontuário e Registros Essenciais",
+   "corpo": "O Prontuário das Instalações Elétricas desatualizado ou inexistente é um sintoma de não conformidade que a nova NR-10 busca corrigir. Além disso, a falta de registro de projetos, inspeções, medições e capacitação da equipe técnica também são falhas que precisam ser sanadas com a atualização da norma."
   },
   {
-   "titulo": "Gestão Formal do Arco Elétrico",
-   "corpo": "O arco elétrico recebe tratamento formal e integra o Gerenciamento de Riscos Ocupacionais, exigindo análise de risco específica. É fundamental definir a distância segura de trabalho e utilizar vestimentas e equipamentos compatíveis com cada nível de exposição, com base em estudo e cálculo."
+   "titulo": "Gestão de Risco Ocupacional e Arco Elétrico",
+   "corpo": "A nova NR-10 formaliza o tratamento do arco elétrico, que agora integra o Gerenciamento de Riscos Ocupacionais. Isso exige análise de risco específica, definição da distância segura de trabalho e uso de vestimentas e equipamentos compatíveis com cada nível de exposição, indo além do improviso."
   },
   {
-   "titulo": "Nova Faixa de Média Tensão e Prontuário",
-   "corpo": "A nova NR-10 cria formalmente a faixa de Média Tensão, alterando o enquadramento de atividades e requisitos de capacitação. Além disso, exige que o Prontuário das Instalações Elétricas (PIE) esteja sempre atualizado e contenha registros de projetos, inspeções e medições."
+   "titulo": "Serviços Específicos e Manutenção de EPIs",
+   "corpo": "Serviços não rotineiros em eletricidade, antes executados sem Permissão de Trabalho ou análise de risco, agora são foco da NR-10. Adicionalmente, luvas, mangas e equipamentos isolantes, inclusive em baixa tensão, devem ter ensaio periódico, garantindo a eficácia da proteção e a segurança dos trabalhadores."
   }
  ],
- "cta_titulo": "Sua edificação está pronta para a Nova NR-10?",
- "cta_corpo": "Evite multas e garanta a segurança. Fale com a GreenGold Engenharia para adequar seus projetos elétricos aos novos requisitos da Portaria MTE nº 737/2026.",
- "legenda": "A nova NR-10 chegou e traz mudanças significativas para a segurança em instalações elétricas, com vigência a partir de junho de 2027. Sua edificação já está em conformidade com as novas exigências, como a integração do risco elétrico ao PGR e a ampliação do DR? Não deixe para a última hora, a adequação é essencial para a segurança e conformidade legal.\n#NR10 #SegurancaEletrica #EngenhariaEletrica #InstalacoesPrediais #PGR #DR #GreenGoldEngenharia #ProjetosEletricos"
+ "cta_titulo": "Sua empresa está em dia com a nova NR-10?",
+ "cta_corpo": "A Portaria MTE nº 737/2026 entra em vigor em junho de 2027. Evite multas e garanta a segurança, adequando seus projetos elétricos e instalações. Fale com a GreenGold Engenharia para um diagnóstico completo e soluções conforme a norma.",
+ "legenda": "A nova NR-10 já está valendo e traz mudanças significativas para a segurança em instalações elétricas. Não espere o prazo final de junho de 2027 para se adequar e evitar riscos e não conformidades. Conte com a expertise da GreenGold Engenharia para garantir projetos e instalações elétricas seguras e em conformidade.\n#NR10 #SegurancaEletrica #EngenhariaEletrica #ProjetoEletrico #PGR #InstalacoesPrediais #GreenGoldEngenharia #ARTCREA"
 }
