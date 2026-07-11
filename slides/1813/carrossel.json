@@ -1,32 +1,32 @@
 {
- "formato": "checklist",
+ "formato": "erros",
  "tema_foto": "projeto",
  "capa_kicker": "NR ANA nº 12/2025",
- "capa_titulo": "Seu projeto de drenagem mudou!",
- "capa_subtitulo": "Aprovada pela ANA, a nova norma redefine como condomínios e empreendimentos devem dimensionar sistemas de águas pluviais urbanas.",
+ "capa_titulo": "A norma MUDOU: O que muda na drenagem de águas pluviais?",
+ "capa_subtitulo": "A nova regulamentação nacional prioriza soluções sustentáveis e impacta diretamente seu empreendimento. Entenda as novas regras!",
  "slides": [
   {
-   "titulo": "O que é a NR ANA nº 12/2025?",
-   "corpo": "A Norma de Referência (NR) nº 12/2025, aprovada pela Resolução ANA nº 245/2025, estrutura nacionalmente os serviços públicos de drenagem e manejo de águas pluviais urbanas (DMAPU). Ela define conceitos, atribui responsabilidades e estabelece que o dimensionamento da infraestrutura deve priorizar soluções baseadas na natureza (SbNs), fechando uma lacuna técnica nacional."
+   "titulo": "Um Novo Marco Nacional para a Drenagem",
+   "corpo": "A Resolução ANA nº 245/2025 aprovou a Norma de Referência nº 12/2025, estruturando nacionalmente os serviços públicos de drenagem e manejo de águas pluviais urbanas (DMAPU). Pela primeira vez, o país possui um marco técnico que define esses serviços, responsabilidades e o dimensionamento da infraestrutura."
   },
   {
-   "titulo": "Prioridade: Soluções Baseadas na Natureza",
-   "corpo": "A nova NR nº 12/2025 prioriza soluções baseadas na natureza (SbNs) para o manejo de águas pluviais, abandonando a prática de \"canalizar e mandar embora\". Dispositivos como jardins de chuva, pavimentos permeáveis e bacias de detenção vegetadas são incentivados. Essa diretriz está alinhada ao Programa Cidades Verdes Resilientes dos ministérios do Meio Ambiente e das Cidades."
+   "titulo": "Prioridade para Soluções Baseadas na Natureza",
+   "corpo": "A NR ANA nº 12/2025 altera o foco do dimensionamento da infraestrutura, priorizando soluções baseadas na natureza (SbNs), como jardins de chuva, pavimentos permeáveis e bacias de detenção vegetadas. O objetivo é reter, infiltrar e liberar a água de forma controlada, em vez de apenas canalizar e descartar."
   },
   {
-   "titulo": "O que muda no seu projeto?",
-   "corpo": "A norma exige que o projeto de drenagem não jogue 100% da vazão de chuva direto na sarjeta ou galeria pública. É fundamental incluir o cálculo de vazão de restrição, que define o máximo que o terreno pode lançar na rede após a ocupação. Qualquer aumento de área impermeabilizada com a obra deve ser compensado com dispositivos adequados, como reservação no lote."
+   "titulo": "Como a Nova Norma Afeta Condomínios e Empreendimentos",
+   "corpo": "Para condomínios, loteamentos e novos empreendimentos, a norma muda o projeto na origem, exigindo uma abordagem integrada. A antiga prática de jogar 100% da vazão de chuva na rede pública sem retenção no lote está desatualizada, exigindo agora dispositivos compensatórios para áreas impermeabilizadas."
   },
   {
-   "titulo": "Responsabilidade Técnica e Legal",
-   "corpo": "A NR nº 12/2025 estrutura a drenagem como serviço público, com atividades de planejamento, projeto e execução bem definidas. A ausência de uma Anotação de Responsabilidade Técnica (ART) específica para drenagem, com responsabilidade técnica diluída, indica um projeto fora do novo padrão. A atuação de engenheiros habilitados é crucial para a conformidade e mitigação de riscos."
+   "titulo": "Identifique Sinais de Não Conformidade",
+   "corpo": "Seu projeto pode estar fora do novo padrão se joga 100% da vazão de chuva na sarjeta sem retenção, não calcula vazão de restrição ou aumenta a área impermeabilizada sem dispositivos compensatórios. A falta de ART específica para drenagem e alagamentos frequentes são alertas importantes."
   },
   {
-   "titulo": "Impacto para Condomínios e Empreendimentos",
-   "corpo": "Para condomínios, loteamentos e empreendimentos, a NR ANA nº 12/2025 redefine o projeto de drenagem na origem. O foco agora é reter, infiltrar e liberar a água pluvial de forma controlada, evitando transferir cheias ou sobrecarregar a rede municipal. Essa abordagem se integra diretamente à NBR 10844, que rege as instalações prediais, exigindo um olhar sistêmico."
+   "titulo": "Projetando Drenagem no Novo Paradigma",
+   "corpo": "Projetar segundo a NR nº 12/2025 exige ver o lote como parte de uma bacia, não como uma ilha isolada. O objetivo é reter, infiltrar e liberar a água de forma controlada, evitando transferir cheias ao vizinho ou sobrecarregar a rede municipal, alinhando-se à NBR 10844 para instalações prediais."
   }
  ],
- "cta_titulo": "Sua empresa está em conformidade?",
- "cta_corpo": "Evite riscos legais, técnicos e financeiros. A GreenGold Engenharia tem a expertise e a ART para garantir que seu projeto de drenagem esteja totalmente alinhado à NR ANA nº 12/2025, utilizando soluções baseadas na natureza.",
- "legenda": "A nova NR ANA nº 12/2025 já está valendo e redefine completamente o projeto de drenagem de águas pluviais urbanas. Sua empresa está preparada para as mudanças e para integrar as soluções baseadas na natureza? Conte com a GreenGold Engenharia para um projeto seguro e em conformidade! #EngenhariaCivil #DrenagemUrbana #AguasPluviais #NRANA #SaneamentoBasico #ProjetosDeEngenharia #InovacaoNaEngenharia #Sustentabilidade"
+ "cta_titulo": "Seu projeto de drenagem está atualizado?",
+ "cta_corpo": "A GreenGold Engenharia possui engenheiros habilitados para garantir que seu empreendimento esteja em conformidade com a NR ANA nº 12/2025. Evite riscos legais, técnicos e financeiros. Fale conosco!",
+ "legenda": "A nova NR ANA nº 12/2025 chegou para revolucionar a drenagem e manejo de águas pluviais urbanas. Garanta que seu projeto esteja em conformidade com as novas diretrizes, priorizando soluções sustentáveis e eficientes. Conte com a GreenGold Engenharia para um projeto seguro e inovador!\n#DrenagemUrbana #ANA #EngenhariaCivil #SolucoesSustentaveis #Infraestrutura #ProjetosDeEngenharia #GreenGoldEngenharia #SaneamentoBasico"
 }
