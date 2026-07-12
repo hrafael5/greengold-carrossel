@@ -2,31 +2,31 @@
  "formato": "erros",
  "tema_foto": "projeto",
  "capa_kicker": "Lei 14.546/2023 e NBRs 16782/16783",
- "capa_titulo": "Reúso de água cinza: o que muda em seu projeto hidráulico?",
- "capa_subtitulo": "Desde 2026, a 'rede roxa' é requisito técnico. Entenda as exigências e evite autuações.",
+ "capa_titulo": "Reúso de Água Cinza: de experimental a exigência legal",
+ "capa_subtitulo": "Entenda as novas obrigações para projetos hidráulicos e a importância da 'rede roxa' em edificações.",
  "slides": [
   {
-   "titulo": "Desconhecer a água cinza e seu potencial",
-   "corpo": "Água cinza é o efluente de baixa contaminação gerado por chuveiros, lavatórios, máquinas de lavar roupa e tanques. Diferente da água negra, possui carga orgânica menor. Após tratamento adequado, pode ser reaproveitada em usos não potáveis como descargas sanitárias e irrigação. A Lei federal 14.546/2023 fomenta este reúso."
+   "titulo": "O que é água cinza e onde ela se aplica",
+   "corpo": "Água cinza é o efluente de baixa contaminação gerado por chuveiros, lavatórios, tanques e máquinas de lavar roupa. Após tratamento adequado, pode ser reutilizada em usos não potáveis, como descargas de bacias sanitárias, irrigação de jardins e lavagem de pisos. É diferente da água negra (de vasos sanitários), com menor carga orgânica."
   },
   {
-   "titulo": "Negligenciar a separação das redes hidráulicas",
-   "corpo": "Um erro comum é prever apenas uma rede de abastecimento, sem a separação entre água potável e a de reúso. A &#8220;rede roxa&#8221; é a tubulação exclusiva para água não potável, um requisito técnico desde 2026, evitando a mistura e garantindo a segurança do sistema. A NBR 16783 detalha seu uso."
+   "titulo": "A obrigatoriedade da rede roxa",
+   "corpo": "Em 2026, órgãos reguladores passaram a tratar a \"rede roxa\", tubulação exclusiva para água não potável, como requisito técnico. A Lei federal 14.546/2023 obriga o poder público a estimular o reaproveitamento de águas cinzas e de chuva em novas edificações."
   },
   {
-   "titulo": "Ignorar sinais de não-conformidade no projeto",
-   "corpo": "Sinais de não-conformidade incluem reservatório de água pluvial ou cinza interligado à cisterna de água potável e ausência de sistema de tratamento (filtração, desinfecção) antes do reúso. Outro alerta é a falta de memorial de cálculo com a matriz de oferta e demanda de água, fundamental para a adequação. A NBR 16782 aborda a conservação hídrica."
+   "titulo": "Sinais de não conformidade no projeto hidráulico",
+   "corpo": "Um projeto que prevê apenas uma rede de abastecimento, sem separação entre água potável e de reúso, indica não conformidade. A interligação de reservatórios de água pluvial ou cinza à cisterna de água potável também é um erro grave, exigindo atenção no design."
   },
   {
-   "titulo": "Desconhecer as normas técnicas ABNT",
-   "corpo": "A base normativa está nas NBR 16782, que trata da conservação e caracterização hidrográfica da edificação, e NBR 16783, que detalha o uso de fontes alternativas como água cinza e de chuva. Juntas, elas orientam desde a terminologia até os requisitos de projeto e execução. A falta de identificação roxa nas tubulações é um erro comum."
+   "titulo": "Erros no tratamento e identificação das tubulações",
+   "corpo": "A ausência de um sistema de tratamento (filtração, desinfecção) antes do reúso é um erro crítico no projeto. Além disso, a falta da identificação roxa nas tubulações de reúso, conforme exigido pelas normas, compromete a segurança e a fiscalização do sistema."
   },
   {
-   "titulo": "Subestimar os riscos legais e financeiros",
-   "corpo": "Deixar de prever o reúso pode acarretar retrabalho, autuações e desperdício significativo de recursos. Empreendimentos com alto consumo podem reduzir de 30% a 60% a demanda por água potável com o reúso, gerando economia. A adequação evita penalidades e agrega valor ao imóvel por certificações de sustentabilidade. O projeto exige ART."
+   "titulo": "A importância das NBRs e do memorial de cálculo",
+   "corpo": "As NBR 16782 (Conservação de água) e NBR 16783 (Fontes alternativas) são a base normativa, orientando desde a terminologia até os requisitos de projeto. A ausência de um memorial de cálculo com a matriz de oferta e demanda de água, potável e não potável, é um sinal de projeto incompleto e não conforme."
   }
  ],
- "cta_titulo": "Seu projeto está em conformidade?",
- "cta_corpo": "A GreenGold Engenharia é especialista em projetos hidráulicos de reúso, com ART no CREA. Garanta a conformidade do seu empreendimento e evite problemas futuros. Fale conosco!",
- "legenda": "Com a Lei 14.546/2023 e as NBR 16782/16783, o reúso de água cinza tornou-se um requisito crucial em edificações. Não espere 2026 para adequar seu projeto e evitar autuações. Conte com a GreenGold Engenharia para um projeto hidráulico completo e responsável.\n#ReusoDeAgua #AguaCinza #EngenhariaHidraulica #NBR16782 #NBR16783 #ProjetoPredial #Sustentabilidade #GreenGoldEngenharia"
+ "cta_titulo": "Evite retrabalho e autuações em seu projeto!",
+ "cta_corpo": "A GreenGold projeta sistemas de reúso de água cinza conforme as NBRs e a legislação vigente, garantindo eficiência e conformidade. Fale conosco!",
+ "legenda": "As exigências para o reúso de água cinza em edificações são uma realidade, com a Lei 14.546/2023 e as NBRs 16782/16783 ditando as regras. Garanta que seu projeto esteja em dia com as normas e evite problemas futuros. Conte com a GreenGold Engenharia para um projeto hidráulico completo e responsável!\n#ReusoDeAgua #EngenhariaCivil #Sustentabilidade #BIM #ProjetoHidraulico #NBR16782 #NBR16783 #GreenGoldEngenharia"
 }
