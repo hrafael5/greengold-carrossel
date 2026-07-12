@@ -2,31 +2,31 @@
  "formato": "erros",
  "tema_foto": "projeto",
  "capa_kicker": "NR ANA nº 12/2025",
- "capa_titulo": "A nova norma que muda seu projeto de drenagem",
- "capa_subtitulo": "Entenda o que a Resolução ANA nº 245/2025 exige e evite riscos.",
+ "capa_titulo": "A norma mudou: O que muda no seu projeto de drenagem?",
+ "capa_subtitulo": "Entenda a Resolução ANA nº 245/2025 e o novo paradigma para águas pluviais urbanas.",
  "slides": [
   {
-   "titulo": "A lacuna técnica que a norma preenche",
-   "corpo": "Durante décadas, a drenagem urbana foi o setor mais atrasado do saneamento brasileiro, ficando a critério de cada município. A NR nº 12/2025, aprovada pela Resolução ANA nº 245/2025, fecha essa lacuna, estruturando nacionalmente os serviços públicos de drenagem e manejo de águas pluviais urbanas (DMAPU). Ela define conceitos, atribui responsabilidades e estabelece um padrão técnico comum."
+   "titulo": "O que é a NR ANA nº 12/2025?",
+   "corpo": "A Resolução ANA nº 245/2025 aprovou a Norma de Referência nº 12/2025, estabelecendo o marco técnico nacional para serviços de drenagem e manejo de águas pluviais urbanas (DMAPU). Pela primeira vez, o país define o que são esses serviços e quem responde por eles, preenchendo uma lacuna de décadas no saneamento brasileiro."
   },
   {
-   "titulo": "O novo paradigma no dimensionamento",
-   "corpo": "A NR nº 12/2025 muda o dimensionamento da infraestrutura, priorizando soluções baseadas na natureza (SbNs) em vez de apenas canalizar a água. O objetivo deixa de ser escoar rápido e passa a ser reter, infiltrar e liberar de forma controlada, evitando sobrecarregar a rede municipal e transferir cheias ao vizinho de jusante. Essa abordagem está alinhada ao Programa Cidades Verdes Resilientes."
+   "titulo": "A grande mudança: Soluções Baseadas na Natureza (SbNs)",
+   "corpo": "O ponto mais importante para quem projeta é a priorização de Soluções Baseadas na Natureza (SbNs), como jardins de chuva, pavimentos permeáveis e bacias de detenção vegetadas. Essa abordagem substitui o antigo reflexo de \"canalizar e mandar embora\", alinhando-se às diretrizes dos ministérios do Meio Ambiente e Cidades."
   },
   {
-   "titulo": "Soluções baseadas na natureza (SbNs)",
-   "corpo": "As Soluções baseadas na Natureza (SbNs) são o cerne do novo projeto de drenagem. A norma incentiva o uso de jardins de chuva, pavimentos permeáveis, biovaletas, bacias de detenção vegetadas e reservação no lote. Essas medidas compensatórias são essenciais para reduzir a área impermeabilizada e evitar que 100% da vazão de chuva seja lançada diretamente na rede pública."
+   "titulo": "Dimensionamento: Retenção na origem",
+   "corpo": "A nova norma exige que o dimensionamento da infraestrutura de drenagem considere a retenção e infiltração no lote, e a liberação controlada de águas pluviais. Isso evita a sobrecarga da rede municipal e a transferência de cheias para vizinhos de jusante, tratando o lote como parte de uma bacia, não uma ilha."
   },
   {
-   "titulo": "Riscos do projeto desatualizado",
-   "corpo": "Projetos que jogam 100% da vazão de chuva direto na sarjeta ou galeria pública, sem retenção no lote, estão fora do novo padrão. A falta de cálculo de vazão de restrição e a ausência de dispositivos compensatórios para áreas impermeabilizadas são indicativos de risco. Um projeto desatualizado pode levar a alagamentos, com água invadindo garagens ou pavimentos térreos, e gerar riscos legais e financeiros."
+   "titulo": "Sintomas de um projeto desatualizado",
+   "corpo": "Seu projeto pode estar fora do novo padrão se joga 100% da vazão de chuva direto na sarjeta ou galeria pública, sem retenção no lote. Outros indicativos são a falta de cálculo de vazão de restrição e a ausência de dispositivos compensatórios para áreas impermeabilizadas."
   },
   {
-   "titulo": "A importância da responsabilidade técnica",
-   "corpo": "A responsabilidade técnica pela drenagem não pode mais estar diluída em outras disciplinas. A nova norma exige uma ART específica de drenagem, garantindo que um engenheiro habilitado seja responsável pelo dimensionamento correto. A GreenGold Engenharia entrega projetos de drenagem em conformidade com a NR nº 12/2025 e NBR 10844, com a devida Anotação de Responsabilidade Técnica."
+   "titulo": "Riscos e a importância da ART",
+   "corpo": "Ignorar a NR ANA nº 12/2025 pode gerar riscos legais, técnicos e financeiros, além de problemas como alagamentos. É essencial ter um engenheiro habilitado com Anotação de Responsabilidade Técnica (ART) específica de drenagem para garantir a conformidade e a segurança do empreendimento."
   }
  ],
- "cta_titulo": "Seu projeto de drenagem está em dia?",
- "cta_corpo": "Evite riscos legais, técnicos e financeiros. Fale com a GreenGold Engenharia e garanta que seu empreendimento esteja em conformidade com a nova NR ANA nº 12/2025.",
- "legenda": "A nova NR ANA nº 12/2025 revolucionou o projeto de drenagem e manejo de águas pluviais urbanas. Não deixe seu empreendimento para trás: entenda as novas exigências e garanta a conformidade com soluções inteligentes e sustentáveis. Fale com a GreenGold Engenharia e tenha um projeto seguro e atualizado.\n#Engenharia #DrenagemUrbana #AguasPluviais #NRANA #SolucoesSustentaveis #BIM #EngenhariaCivil #GreenGoldEngenharia"
+ "cta_titulo": "Seu projeto está em dia com a nova norma?",
+ "cta_corpo": "Evite riscos e garanta a conformidade do seu empreendimento com a GreenGold Engenharia. Fale conosco e modernize seus projetos de drenagem!",
+ "legenda": "A nova NR ANA nº 12/2025 é um divisor de águas para projetos de drenagem e manejo de águas pluviais urbanas. Garanta que seu empreendimento esteja em conformidade com as novas exigências, priorizando soluções sustentáveis e evitando problemas futuros. Conte com a GreenGold Engenharia para projetos atualizados e eficientes. #EngenhariaCivil #DrenagemUrbana #AguasPluviais #SaneamentoBasico #NRANA122025 #SolucoesSustentaveis #ProjetosDeEngenharia #GreenGoldEngenharia"
 }
