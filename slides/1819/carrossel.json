@@ -1,32 +1,32 @@
 {
- "formato": "erros",
+ "formato": "passo a passo",
  "tema_foto": "projeto",
  "capa_kicker": "Resolução CGIEE nº 4/2025",
- "capa_titulo": "Desempenho energético mínimo é obrigatório",
- "capa_subtitulo": "Entenda as novas exigências para licenciamento e ART de edificações.",
+ "capa_titulo": "Desempenho Energético Mínimo OBRIGATÓRIO",
+ "capa_subtitulo": "Entenda o que muda no licenciamento da sua obra e na ART a partir de 2027.",
  "slides": [
   {
-   "titulo": "A nova exigência nacional",
-   "corpo": "Pela primeira vez, o Brasil passa a exigir um desempenho energético mínimo de toda edificação nova, sejam residenciais, comerciais, de serviços ou públicas. A Resolução CGIEE nº 4/2025, de setembro de 2025, conecta o consumo de energia da obra ao processo de licenciamento e à Anotação de Responsabilidade Técnica (ART), tornando-o condição para construir."
+   "titulo": "A Nova Exigência Nacional",
+   "corpo": "Pela primeira vez, o Brasil exige um patamar obrigatório de eficiência energética para edificações novas (residenciais, comerciais, de serviços e públicas). A resolução vincula o desempenho ao licenciamento da obra, tornando-o condição essencial para construir. Antes, a etiquetagem era voluntária, mas agora o projeto deve ter compromisso com o consumo ao longo da vida útil. Isso impacta diretamente a aprovação do seu empreendimento."
   },
   {
-   "titulo": "Classificação da eficiência energética",
-   "corpo": "A Etiqueta Nacional de Conservação de Energia (ENCE), do PBE Edifica, classifica o desempenho de uma edificação de 'A' (mais eficiente) a 'E' (menos eficiente). A avaliação utiliza os métodos INI-C (comerciais, de serviços e públicas) e INI-R (residenciais), comparando o prédio a uma edificação de referência equivalente à classe D."
+   "titulo": "Como o Desempenho é Avaliado",
+   "corpo": "A Etiqueta Nacional de Conservação de Energia (ENCE), do PBE Edifica, classifica o desempenho de 'A' (mais eficiente) a 'E' (menos eficiente). A avaliação utiliza os métodos INI-C (comerciais, serviços e públicas) e INI-R (residenciais), comparando o prédio a uma edificação de referência de classe D. Considera-se a envoltória, iluminação, aquecimento de água e condicionamento de ar, garantindo uma análise completa."
   },
   {
-   "titulo": "Impacto no projeto e na ART",
-   "corpo": "Decisões sobre orientação solar, ventilação natural, potência de iluminação instalada e escolha do sistema de aquecimento de água (solar, a gás ou elétrico) passam a determinar a aprovação da obra. Engenheiros habilitados são responsáveis por calcular o desempenho previsto, ajustá-lo à classe exigida e registrar a conformidade formalmente na Anotação de Responsabilidade Técnica (ART)."
+   "titulo": "Impacto no Projeto e Sinais de Alerta",
+   "corpo": "Decisões de orientação solar, ventilação natural, potência de iluminação e escolha do sistema de aquecimento passam a determinar a aprovação da obra. Projetos de iluminação superdimensionados, ausência de estudo de envoltória, e aquecimento de água exclusivamente elétrico em grandes empreendimentos são sintomas de não conformidade. É crucial integrar arquitetura, elétrica e hidráulica desde o início."
   },
   {
-   "titulo": "Erro comum 1: Projeto de iluminação superdimensionado",
-   "corpo": "Um projeto de iluminação superdimensionado, com densidade de potência acima do recomendado e sem setorização por ambiente, é um sintoma claro de não conformidade com a nova resolução. A norma exige dimensionamento eficiente e aproveitamento da luz natural, que possui forte peso na classificação energética."
+   "titulo": "O Caminho para a Conformidade",
+   "corpo": "Atender à nova norma não é um selo final, mas a incorporação da eficiência energética desde as primeiras pranchas do projeto. O caminho técnico envolve calcular o desempenho previsto, ajustá-lo até a classe exigida e registrar a conformidade formalmente. Isso requer a expertise de um engenheiro habilitado, com a devida Anotação de Responsabilidade Técnica (ART)."
   },
   {
-   "titulo": "Erro comum 2: Ausência de estudo da envoltória",
-   "corpo": "A ausência de estudo da envoltória, com vidros, sombreamento e isolamento definidos apenas por estética, é um erro crítico. Fachadas, cobertura e aberturas devem ser avaliadas pelo método INI, comparando o consumo previsto ao da edificação de referência para garantir a eficiência energética mínima."
+   "titulo": "Etapas Chave para o Projeto Eficiente",
+   "corpo": "O processo inclui classificar a tipologia e o porte da edificação, conforme a Tabela 1 da resolução, que define o cronograma. Modelar a envoltória (fachadas, cobertura, aberturas e proteção solar) pelo método INI é fundamental. Além disso, é preciso dimensionar um projeto de iluminação eficiente e definir o sistema de aquecimento de água (solar, a gás ou elétrico) para elevar a classe de desempenho."
   }
  ],
- "cta_titulo": "Adeque seu projeto à nova resolução!",
- "cta_corpo": "Evite riscos legais, técnicos e financeiros. Conte com a GreenGold Engenharia para garantir a conformidade e a eficiência energética da sua edificação.",
- "legenda": "A Resolução CGIEE nº 4/2025 trouxe uma mudança essencial: o desempenho energético mínimo é agora obrigatório em novas edificações. Prepare seu projeto para atender às novas exigências e garanta a aprovação da sua obra, evitando futuros problemas. A GreenGold Engenharia oferece soluções completas para projetos eficientes e em conformidade.\n#EficienciaEnergetica #EngenhariaCivil #BIM #ProjetosPrediais #ConstrucaoSustentavel #ART #GreenGoldEngenharia #InovacaoNaEngenharia"
+ "cta_titulo": "Sua Obra Está Preparada?",
+ "cta_corpo": "Garanta a conformidade do seu projeto com a Resolução CGIEE nº 4/2025. Evite riscos legais, técnicos e financeiros. Fale com a GreenGold Engenharia e tenha um projeto eficiente e aprovado!",
+ "legenda": "A Resolução CGIEE nº 4/2025 já é uma realidade para novas edificações! A partir de 2027, o desempenho energético mínimo será obrigatório, impactando diretamente o licenciamento e a ART. Não deixe seu projeto para depois, garanta a conformidade e a eficiência energética da sua construção. #EngenhariaCivil #EficienciaEnergetica #ConstrucaoSustentavel #ProjetoEletrico #ProjetoHidraulico #BIM #SPDA #PPCI"
 }
