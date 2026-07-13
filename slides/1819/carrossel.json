@@ -1,0 +1,37 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "Resolução CGIEE nº 4/2025",
+ "capa_titulo": "Desempenho energético: a nova exigência para seu projeto",
+ "capa_subtitulo": "Entenda como a eficiência energética se torna obrigatória para o licenciamento e ART de novas edificações a partir de 2027.",
+ "slides": [
+  {
+   "titulo": "Etiquetagem energética agora é obrigatória",
+   "corpo": "Pela primeira vez, o Brasil exige um desempenho energético mínimo para edificações novas (residenciais, comerciais, de serviços e públicas). A Resolução CGIEE nº 4/2025, publicada em setembro de 2025, conecta o consumo de energia ao licenciamento da obra e à Anotação de Responsabilidade Técnica (ART). Antes voluntária, a Etiqueta Nacional de Conservação de Energia (ENCE), do PBE Edifica, passa a ser condição para construir, com prazos que iniciam em 2027.",
+   "caracteres": 401
+  },
+  {
+   "titulo": "Entenda a classificação energética da sua obra",
+   "corpo": "O desempenho é classificado de \"A\" (mais eficiente) a \"E\" (menos eficiente), utilizando os métodos INI-C (comerciais, serviços e públicas) e INI-R (residenciais). A avaliação compara o prédio real a uma edificação de referência equivalente à classe D, considerando a envoltória (fachadas, cobertura, aberturas) e sistemas como iluminação, aquecimento de água e condicionamento de ar.",
+   "caracteres": 382
+  },
+  {
+   "titulo": "Iluminação superdimensionada compromete a eficiência",
+   "corpo": "Um dos erros mais comuns é o projeto de iluminação superdimensionado, com densidade de potência acima do recomendado e sem setorização por ambiente. Além disso, a ausência de aproveitamento da iluminação natural impacta diretamente a classificação energética, que tem forte peso neste item. Decisões projetuais agora são cruciais para a aprovação.",
+   "caracteres": 386
+  },
+  {
+   "titulo": "A envoltória da edificação e a eficiência térmica",
+   "corpo": "A ausência de um estudo de envoltória, onde vidros, sombreamento e isolamento são definidos apenas por estética, é um erro grave. A envoltória (fachadas, cobertura, aberturas) é sempre avaliada e é decisiva para o desempenho. Orientação solar e ventilação natural são elementos projetuais que determinam a aprovação da obra.",
+   "caracteres": 370
+  },
+  {
+   "titulo": "Aquecimento de água e a integração de projetos",
+   "corpo": "Empreendimentos de grande porte que adotam exclusivamente chuveiro elétrico, sem alternativas como aquecimento solar ou a gás, não atenderão à norma. Outro erro crítico é o desenvolvimento isolado dos projetos de arquitetura, elétrico e hidráulico, sem consolidação do desempenho global. É fundamental que um engenheiro habilitado integre e declare a conformidade na ART.",
+   "caracteres": 420
+  }
+ ],
+ "cta_titulo": "Evite riscos e garanta a conformidade",
+ "cta_corpo": "A GreenGold Engenharia Multidisciplinar é especialista em projetos que atendem à Resolução CGIEE nº 4/2025. Contamos com engenheiros habilitados para garantir a eficiência energética do seu empreendimento, desde a concepção até a ART.",
+ "legenda": "A Resolução CGIEE nº 4/2025 transformou a eficiência energética em um requisito obrigatório para novas edificações. Não deixe seu projeto em risco, garanta a conformidade desde as primeiras pranchas com quem entende do assunto. Consulte a GreenGold Engenharia para um futuro mais sustentável e dentro das normas.\n\n#EficienciaEnergetica #EngenhariaCivil #BIM #Sustentabilidade #ConstrucaoCivil #ART #ProjetosPrediais #GreenGoldEngenharia"
+}
