@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "NBR 15527",
+ "capa_titulo": "Água de chuva: sua captação está em risco?",
+ "capa_subtitulo": "Evite falhas no seu projeto de aproveitamento hídrico e garanta segurança e conformidade.",
+ "slides": [
+  {
+   "titulo": "Entenda a NBR 15527",
+   "corpo": "A NBR 15527 da ABNT define requisitos para o aproveitamento de água de chuva em coberturas, exclusivamente para fins não potáveis. Ela visa usos como irrigação, lavagem e descarga sanitária, estabelecendo a qualidade da água e a rede independente da potável."
+  },
+  {
+   "titulo": "Exigência legal e certificações",
+   "corpo": "Leis municipais já condicionam alvarás à captação de águas pluviais em terrenos com áreas impermeabilizadas específicas. Além disso, a norma é crucial para empreendimentos que buscam certificações ambientais e para a redução da conta de água em edifícios de alto consumo."
+  },
+  {
+   "titulo": "Risco de contaminação e falhas",
+   "corpo": "Um sistema fora da NBR 15527 pode apresentar água com cor e odor, entupimentos frequentes e proliferação de mosquitos no reservatório. O risco mais grave é a conexão cruzada, que pode contaminar a rede de água potável e comprometer a saúde."
+  },
+  {
+   "titulo": "Falhas comuns no projeto",
+   "corpo": "A ausência de descarte das primeiras águas, falta de tela contra insetos ou tubulação de água de chuva sem sinalização são falhas críticas. A norma exige também extravasor, dispositivo de limpeza no fundo do reservatório e memória de cálculo."
+  },
+  {
+   "titulo": "Projeto com ART é essencial",
+   "corpo": "A NBR 15527 trabalha em conjunto com a NBR 10844 (drenagem) e NBR 5626 (água fria), exigindo um encadeamento de decisões técnicas. Um projeto assinado por profissional habilitado, com ART, garante a segurança e a aprovação da instalação."
+  }
+ ],
+ "cta_titulo": "Garanta a conformidade do seu projeto!",
+ "cta_corpo": "Não arrisque seu empreendimento com sistemas improvisados. Fale com a GreenGold Engenharia para projetos hidráulicos seguros e aprováveis, com ART.",
+ "legenda": "A GreenGold Engenharia Multidisciplinar é especialista em projetos de instalações prediais, com foco na conformidade com normas técnicas como a NBR 15527. Evite riscos legais, técnicos e financeiros em seu sistema de aproveitamento de água de chuva. Conte com nossa expertise para soluções eficientes e com ART.\n#GreenGoldEngenharia #NBR15527 #AguaDeChuva #Sustentabilidade #EngenhariaHidraulica #ProjetosPrediais #ARTnoCREA #BIMEngenharia"
+}
