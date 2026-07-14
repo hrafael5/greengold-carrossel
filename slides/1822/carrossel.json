@@ -1,32 +1,32 @@
 {
- "formato": "checklist",
+ "formato": "Passo a passo",
  "tema_foto": "projeto",
- "capa_kicker": "ALVARÁ E ÁGUA DA CHUVA",
- "capa_titulo": "A nova obrigação que afeta seu projeto!",
- "capa_subtitulo": "Entenda como a NBR 15527 garante a conformidade e a segurança.",
+ "capa_kicker": "NBR 15527",
+ "capa_titulo": "A sua obra precisa de aproveitamento de água de chuva?",
+ "capa_subtitulo": "Entenda a norma que regulamenta a captação e uso de água pluvial em telhados.",
  "slides": [
   {
-   "titulo": "O que a NBR 15527 exige?",
-   "corpo": "A NBR 15527 da ABNT estabelece os requisitos para o aproveitamento de água de chuva captada em coberturas, visando fins não potáveis, como descarga de bacias sanitárias e irrigação. Ela foca em reservar a chuva, tratá-la proporcionalmente ao uso e distribuí-la por uma rede independente da água potável."
+   "titulo": "A Essência da NBR 15527",
+   "corpo": "A NBR 15527 da ABNT estabelece requisitos para o aproveitamento de água de chuva captada em coberturas, focando em usos não potáveis. Ela define desde a superfície de captação até a qualidade da água que chega ao vaso sanitário, irrigação ou lavagem de pisos. O objetivo é reservar a chuva, tratá-la e distribuí-la por uma rede independente."
   },
   {
-   "titulo": "Quando a norma é indispensável?",
-   "corpo": "A aplicação da NBR 15527 é crucial em três situações típicas: quando há exigência legal municipal (muitas cidades condicionam o alvará à captação), quando o empreendimento busca certificação ambiental ou quando o cliente visa reduzir a conta de água em edifícios com alto consumo não potável, como condomínios e indústrias."
+   "titulo": "Critérios para a Aplicação da Norma",
+   "corpo": "A aplicação da NBR 15527 aparece no projeto em três situações típicas: exigência legal municipal (muitas cidades condicionam o habite-se de terrenos acima de determinada área impermeabilizada à instalação de reservatório), quando o empreendimento busca certificação ambiental, ou quando o cliente quer reduzir a conta de água em edifícios com alto consumo não potável, como condomínios e indústrias."
   },
   {
-   "titulo": "Sinais de um sistema fora da conformidade",
-   "corpo": "Reservatórios sem dispositivo de descarte das primeiras águas (first flush) e sem telas contra insetos ou folhas são sinais claros de não conformidade. A ausência de extravasor, de dispositivo de limpeza no fundo do reservatório e tubulações de água de chuva sem sinalização, misturadas à rede potável, também indicam falhas graves."
+   "titulo": "Riscos de um Sistema Fora da Norma",
+   "corpo": "Um sistema de aproveitamento de água de chuva sem conformidade com a NBR 15527 pode apresentar problemas como água armazenada com cor e odor, entupimento frequente de filtros e proliferação de mosquitos no reservatório. O risco mais grave é a conexão cruzada, que pode comunicar a rede de água de chuva com a rede potável e contaminar o abastecimento."
   },
   {
-   "titulo": "Como projetar conforme a NBR 15527",
-   "corpo": "Projetar dentro da NBR 15527 é encadear decisões técnicas que começam no telhado e terminam no ponto de uso. O dimensionamento de calhas e condutores deve considerar intensidade pluviométrica com duração de 5 minutos e período de retorno de 25 anos, evitando transbordamentos na chuva de projeto, em conjunto com a NBR 10844 e NBR 5626."
+   "titulo": "Etapas Iniciais do Projeto Conforme a NBR",
+   "corpo": "Projetar um sistema dentro da NBR 15527 exige, primeiramente, definir a área de captação (superfície de cobertura contribuinte) e estimar a demanda de consumo não potável (descargas, irrigação, lavagem). O menor valor entre a oferta hídrica e a demanda estimada orienta o dimensionamento do sistema, garantindo sua eficiência."
   },
   {
-   "titulo": "Etapas essenciais do projeto de captação",
-   "corpo": "É fundamental definir a área de captação e estimar a demanda não potável. A primeira água que lava o telhado, carregada de impurezas, precisa ser descartada antes de entrar no reservatório. O dimensionamento do reservatório deve seguir a edição vigente da norma, que descreve seis métodos para garantir o volume adequado."
+   "titulo": "Cálculo e Tratamento Essenciais",
+   "corpo": "É crucial calcular calhas e condutores considerando intensidade pluviométrica com duração de 5 minutos e período de retorno de 25 anos, evitando transbordamentos na chuva de projeto. Além disso, a norma recomenda prever o descarte das primeiras águas, que carregam impurezas do telhado, antes de direcioná-las ao reservatório de armazenamento."
   }
  ],
- "cta_titulo": "Garanta seu projeto dentro da NBR 15527!",
- "cta_corpo": "Evite riscos legais e técnicos, e otimize seus custos com um sistema de aproveitamento de água de chuva seguro e aprovável. Fale com a GreenGold Engenharia para um projeto com ART.",
- "legenda": "Você sabia que seu alvará pode depender de um sistema de aproveitamento de água da chuva? A NBR 15527 é a chave para transformar seu telhado em uma fonte sustentável e legalizada de água não potável. Evite problemas e garanta projetos com ART no CREA. \n#EngenhariaCivil #Sustentabilidade #AguaDeChuva #NBR15527 #ProjetoHidraulico #ART #GreenGoldEngenharia #ConstrucaoCivil"
+ "cta_titulo": "Garanta a conformidade do seu projeto!",
+ "cta_corpo": "Evite riscos técnicos, legais e financeiros. Fale com a GreenGold Engenharia para um projeto hidráulico seguro, eficiente e com ART.",
+ "legenda": "Aproveitar água de chuva é mais do que sustentabilidade, é uma exigência técnica e legal em muitas construções. Garanta a segurança e a conformidade do seu projeto com a NBR 15527. Conte com a GreenGold Engenharia para um sistema de aproveitamento de água pluvial eficiente e responsável.\n#EngenhariaHidraulica #NBR15527 #AguaDeChuva #Sustentabilidade #ProjetoHidraulico #ART #GreenGoldEngenharia #ConstrucaoCivil"
 }
