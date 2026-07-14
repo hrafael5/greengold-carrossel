@@ -1,32 +1,32 @@
 {
- "formato": "erros",
+ "formato": "checklist",
  "tema_foto": "projeto",
  "capa_kicker": "NBR 15527",
- "capa_titulo": "Água de chuva: sua captação está em risco?",
- "capa_subtitulo": "Evite falhas no seu projeto de aproveitamento hídrico e garanta segurança e conformidade.",
+ "capa_titulo": "Aproveitamento de Água de Chuva",
+ "capa_subtitulo": "Entenda os requisitos para um sistema seguro e com ART.",
  "slides": [
   {
-   "titulo": "Entenda a NBR 15527",
-   "corpo": "A NBR 15527 da ABNT define requisitos para o aproveitamento de água de chuva em coberturas, exclusivamente para fins não potáveis. Ela visa usos como irrigação, lavagem e descarga sanitária, estabelecendo a qualidade da água e a rede independente da potável."
+   "titulo": "O que é a NBR 15527?",
+   "corpo": "A NBR 15527 da ABNT estabelece os requisitos para o aproveitamento de água de chuva captada em coberturas. Ela é destinada a fins não potáveis, como irrigação de jardins, lavagem de pisos e veículos, além de descarga de bacias sanitárias. O foco é reservar a chuva que cairia sobre o telhado, tratá-la e distribuí-la por uma rede independente da água potável."
   },
   {
-   "titulo": "Exigência legal e certificações",
-   "corpo": "Leis municipais já condicionam alvarás à captação de águas pluviais em terrenos com áreas impermeabilizadas específicas. Além disso, a norma é crucial para empreendimentos que buscam certificações ambientais e para a redução da conta de água em edifícios de alto consumo."
+   "titulo": "Quando a NBR 15527 é essencial?",
+   "corpo": "A NBR 15527 é essencial em três cenários principais. Primeiramente, diante de exigências legais municipais que condicionam o habite-se à captação de águas pluviais. Em segundo lugar, para empreendimentos que buscam certificações ambientais. Finalmente, para clientes que visam reduzir a conta de água em edifícios com alto consumo não potável, como condomínios e indústrias."
   },
   {
-   "titulo": "Risco de contaminação e falhas",
-   "corpo": "Um sistema fora da NBR 15527 pode apresentar água com cor e odor, entupimentos frequentes e proliferação de mosquitos no reservatório. O risco mais grave é a conexão cruzada, que pode contaminar a rede de água potável e comprometer a saúde."
+   "titulo": "Riscos de um sistema fora da norma",
+   "corpo": "Ignorar a NBR 15527 acarreta riscos graves. Sistemas irregulares podem apresentar água com cor e odor, entupimento de filtros e proliferação de mosquitos. O maior perigo é a conexão cruzada, onde a rede de água de chuva contamina a rede potável. Sinais incluem reservatório sem descarte de primeiras águas, ausência de tela contra insetos ou tubulação sem sinalização."
   },
   {
-   "titulo": "Falhas comuns no projeto",
-   "corpo": "A ausência de descarte das primeiras águas, falta de tela contra insetos ou tubulação de água de chuva sem sinalização são falhas críticas. A norma exige também extravasor, dispositivo de limpeza no fundo do reservatório e memória de cálculo."
+   "titulo": "Etapas para um projeto conforme a NBR 15527",
+   "corpo": "Projetar conforme a NBR 15527 envolve decisões técnicas coordenadas, desde o telhado até o ponto de uso. É crucial definir a área de captação e a demanda, além de calcular calhas e condutores. A norma recomenda dimensionar o sistema para intensidade pluviométrica com duração de 5 minutos e período de retorno de 25 anos. Também é fundamental prever o descarte das primeiras águas."
   },
   {
-   "titulo": "Projeto com ART é essencial",
-   "corpo": "A NBR 15527 trabalha em conjunto com a NBR 10844 (drenagem) e NBR 5626 (água fria), exigindo um encadeamento de decisões técnicas. Um projeto assinado por profissional habilitado, com ART, garante a segurança e a aprovação da instalação."
+   "titulo": "A importância do profissional habilitado",
+   "corpo": "Uma instalação segura, aprovável e com Anotação de Responsabilidade Técnica (ART) depende de um projeto elaborado por profissional habilitado. A NBR 15527 exige memória de cálculo do volume do reservatório e um projeto assinado. Isso garante que o sistema seja funcional, livre de riscos e em conformidade com as exigências técnicas e legais, trabalhando em conjunto com NBR 10844 e NBR 5626."
   }
  ],
- "cta_titulo": "Garanta a conformidade do seu projeto!",
- "cta_corpo": "Não arrisque seu empreendimento com sistemas improvisados. Fale com a GreenGold Engenharia para projetos hidráulicos seguros e aprováveis, com ART.",
- "legenda": "A GreenGold Engenharia Multidisciplinar é especialista em projetos de instalações prediais, com foco na conformidade com normas técnicas como a NBR 15527. Evite riscos legais, técnicos e financeiros em seu sistema de aproveitamento de água de chuva. Conte com nossa expertise para soluções eficientes e com ART.\n#GreenGoldEngenharia #NBR15527 #AguaDeChuva #Sustentabilidade #EngenhariaHidraulica #ProjetosPrediais #ARTnoCREA #BIMEngenharia"
+ "cta_titulo": "Garanta um Projeto Sustentável e Seguro",
+ "cta_corpo": "Evite riscos e otimize o uso da água em sua edificação. Fale com a GreenGold Engenharia para um projeto de aproveitamento de água de chuva com ART, seguindo rigorosamente a NBR 15527.",
+ "legenda": "O aproveitamento de água de chuva é uma solução inteligente para sustentabilidade e economia. A NBR 15527 garante que seu sistema seja eficiente e seguro, transformando seu telhado em uma fonte valiosa. Invista em um projeto profissional com ART para conformidade e tranquilidade.\n#NBR15527 #AguaDeChuva #Sustentabilidade #EngenhariaCivil #ProjetoHidraulico #ART #EconomiaDeAgua #GreenGoldEngenharia"
 }
