@@ -1,32 +1,32 @@
 {
- "formato": "passo a passo",
+ "formato": "checklist",
  "tema_foto": "projeto",
  "capa_kicker": "Resolução CGIEE nº 4/2025",
- "capa_titulo": "Desempenho energético mínimo obrigatório",
- "capa_subtitulo": "O que muda no licenciamento e ART de novas edificações.",
+ "capa_titulo": "Desempenho Energético Mínimo: O que muda para sua obra?",
+ "capa_subtitulo": "Novas regras conectam eficiência energética ao licenciamento e à ART, tornando-a condição para construir.",
  "slides": [
   {
-   "titulo": "O que é a nova exigência?",
-   "corpo": "Pela primeira vez o Brasil passa a exigir um desempenho energético mínimo de toda edificação nova. A Resolução CGIEE nº 4/2025, publicada em setembro de 2025, conecta o consumo de energia da obra ao processo de licenciamento e à Anotação de Responsabilidade Técnica (ART). Esta nova regra estabelece um patamar obrigatório de eficiência para edificações residenciais, comerciais, de serviços e públicas, impactando iluminação, aquecimento de água e a concepção elétrica desde o projeto. Os prazos são escalonados, iniciando em 2027."
+   "titulo": "A Nova Exigência Nacional",
+   "corpo": "A Resolução CGIEE nº 4/2025, publicada em setembro de 2025, estabelece um patamar obrigatório de eficiência energética para novas edificações. Pela primeira vez, o consumo de energia da obra é conectado ao licenciamento e à Anotação de Responsabilidade Técnica (ART), deixando de ser um detalhe para se tornar um requisito de projeto. Antes voluntária, a etiquetagem de desempenho agora é condição para construir."
   },
   {
-   "titulo": "Como o desempenho é avaliado?",
-   "corpo": "A Etiqueta Nacional de Conservação de Energia (ENCE), do PBE Edifica, classifica o desempenho de uma edificação de 'A' (mais eficiente) a 'E' (menos eficiente). A avaliação utiliza os métodos INI-C (comerciais, de serviços e públicas) e INI-R (residenciais), comparando o prédio real a uma edificação de referência equivalente à classe D. O desempenho é medido considerando a envoltória, o sistema de iluminação, o aquecimento de água e o condicionamento de ar. A envoltória é sempre avaliada."
+   "titulo": "Prazos e Abrangência",
+   "corpo": "As novas regras, que começam a valer em 2027, aplicam-se a edificações novas de todos os tipos: residenciais, comerciais, de serviços e públicas. Os prazos são escalonados, exigindo que projetos de iluminação, aquecimento de água e a concepção elétrica sejam pensados para atender aos requisitos de desempenho mínimo. É crucial identificar e enquadrar a tipologia e o porte da edificação conforme a Tabela 1 da resolução."
   },
   {
-   "titulo": "Decisões de projeto cruciais",
-   "corpo": "Decisões de orientação solar, ventilação natural, potência de iluminação instalada e escolha do sistema de aquecimento, todas de natureza projetual, passam a determinar se a obra pode ou não ser aprovada. Projetos de iluminação superdimensionados, sem setorização ou com densidade de potência acima do recomendado, e a ausência de estudo de envoltória, definido apenas por estética, são sintomas de não conformidade. A resolução muda essa lógica ao amarrar o desempenho ao licenciamento."
+   "titulo": "Como o Desempenho é Avaliado",
+   "corpo": "A Etiqueta Nacional de Conservação de Energia (ENCE), do PBE Edifica, classifica o desempenho de \"A\" (mais eficiente) a \"E\" (menos eficiente), utilizando os métodos INI-C e INI-R. A avaliação considera a envoltória (fachadas, cobertura, aberturas e isolamento), o sistema de iluminação, o aquecimento de água e o condicionamento de ar. A envoltória é sempre avaliada, os demais sistemas entram conforme a tipologia da edificação."
   },
   {
-   "titulo": "O primeiro passo para a conformidade",
-   "corpo": "Atender à nova norma não é aplicar um selo ao final da obra, é incorporar a eficiência energética desde as primeiras pranchas do projeto. O caminho técnico envolve calcular o desempenho previsto, ajustá-lo até alcançar a classe exigida e registrar a conformidade formalmente. O processo inicia com a classificação da tipologia (residencial, comercial, de serviços ou pública) e do porte da edificação, enquadrando o município conforme a Tabela 1 da resolução para definir o cronograma aplicável."
+   "titulo": "Pontos Chave do Projeto Eficiente",
+   "corpo": "Para atender à resolução, decisões projetuais como orientação solar, ventilação natural, potência de iluminação instalada e escolha do sistema de aquecimento são determinantes. Um projeto de iluminação eficiente, com densidade de potência adequada e setorização, e um estudo detalhado da envoltória (vidros, sombreamento e isolamento), são essenciais. A definição do sistema de aquecimento de água (solar, a gás ou elétrico) também influencia diretamente a classificação energética."
   },
   {
-   "titulo": "Projetando com eficiência energética",
-   "corpo": "A modelagem da envoltória deve avaliar fachadas, cobertura, aberturas e proteção solar pelo método INI, comparando o consumo previsto ao da edificação de referência. O projeto de iluminação eficiente precisa dimensionar a densidade de potência, adotar acionamento setorizado e aproveitar a iluminação natural, que possui forte peso na classificação. Por fim, a definição do aquecimento de água deve comparar soluções como solar, a gás e elétrico, escolhendo a que eleva a classe de desempenho."
+   "titulo": "Evite Erros Comuns e Garanta a Aprovação",
+   "corpo": "Projetos com iluminação superdimensionada, ausência de estudo de envoltória ou aquecimento de água exclusivamente por chuveiro elétrico em grandes empreendimentos podem não atender à norma. É fundamental integrar os projetos de arquitetura, elétrico e hidráulico, e prever a autodeclaração de conformidade para a ART do responsável técnico. Isso evita riscos legais, técnicos e financeiros, assegurando a aprovação da sua obra."
   }
  ],
- "cta_titulo": "Garanta a conformidade da sua obra!",
- "cta_corpo": "A GreenGold Engenharia Multidisciplinar é especialista em projetos que atendem à Resolução CGIEE nº 4/2025, integrando eficiência energética desde a concepção. Evite riscos legais, técnicos e financeiros, assegurando a aprovação do seu empreendimento com ART no CREA. Fale conosco!",
- "legenda": "A nova Resolução CGIEE nº 4/2025 torna o desempenho energético mínimo obrigatório para novas edificações, impactando diretamente seu licenciamento e ART. Não deixe seu projeto ser barrado! Entenda as mudanças e garanta a eficiência desde a prancha zero. Fale com a GreenGold Engenharia.\n#EficienciaEnergetica #EngenhariaCivil #BIM #ProjetosPrediais #GreenGoldEngenharia #ART #LicenciamentoDeObras #Sustentabilidade"
+ "cta_titulo": "Sua Edificação Pronta para o Futuro?",
+ "cta_corpo": "Garanta a conformidade da sua obra com a Resolução CGIEE nº 4/2025. Fale com a GreenGold Engenharia para um projeto que integra eficiência energética desde a concepção, assegurando licenciamento e ART.",
+ "legenda": "A Resolução CGIEE nº 4/2025 é um marco na engenharia brasileira, exigindo desempenho energético mínimo em todas as novas edificações. Prepare-se para as mudanças que começam em 2027 e assegure a eficiência e o licenciamento da sua obra. A GreenGold Engenharia está pronta para te auxiliar nesse desafio.\n#EngenhariaCivil #EficienciaEnergetica #ResolucaoCGIEE #PBEEdifica #ARTnoCREA #ProjetoSustentavel #ConstrucaoCivil #GreenGoldEngenharia"
 }
