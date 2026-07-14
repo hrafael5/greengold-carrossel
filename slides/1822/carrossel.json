@@ -1,32 +1,32 @@
 {
- "formato": "checklist",
+ "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "Exigência Legal",
- "capa_titulo": "Alvará da sua obra pode depender da água da chuva!",
- "capa_subtitulo": "Entenda a NBR 15527 e evite problemas no seu projeto.",
+ "capa_kicker": "NBR 15527",
+ "capa_titulo": "Água de Chuva: Os Erros Que Colocam Seu Projeto em Risco",
+ "capa_subtitulo": "Não transforme um benefício em problema. Entenda o que a norma exige.",
  "slides": [
   {
-   "titulo": "A Norma Essencial para Água Não Potável",
-   "corpo": "A NBR 15527 da ABNT estabelece requisitos para o aproveitamento de água de chuva captada em coberturas, destinando-a a fins não potáveis, como irrigação de jardins e descargas sanitárias. Ela organiza o sistema, desde a superfície de captação no telhado até a qualidade da água que chega ao ponto de uso."
+   "titulo": "Reservatório sem descarte inicial",
+   "corpo": "O reservatório sem dispositivo de descarte das primeiras águas (first flush) é um sintoma comum de sistemas fora da norma. A primeira água que lava o telhado carrega poeira, fezes de aves e folhas. Ela precisa ser descartada antes de entrar no reservatório para garantir a qualidade da água armazenada."
   },
   {
-   "titulo": "Exigências e Benefícios da Captação",
-   "corpo": "O sistema de aproveitamento de água de chuva é crucial quando há exigência legal municipal, que pode condicionar o habite-se de terrenos acima de determinada área impermeabilizada. Também é buscado para certificações ambientais e para clientes que visam reduzir a conta de água em edifícios de alto consumo não potável, como condomínios e indústrias."
+   "titulo": "Desproteção contra pragas e detritos",
+   "corpo": "A ausência de tela ou grade contra a entrada de insetos e folhas é um sinal claro de não conformidade. Essa falha pode levar à proliferação de mosquitos no reservatório, além de entupimentos frequentes de filtros, comprometendo a funcionalidade e segurança do sistema."
   },
   {
-   "titulo": "Riscos de um Projeto Inadequado",
-   "corpo": "Um sistema fora da norma apresenta sintomas como água armazenada com cor e odor, entupimento frequente de filtros e proliferação de mosquitos no reservatório. O risco mais grave é a conexão cruzada, quando a rede de água de chuva se comunica com a rede potável e contamina o abastecimento humano."
+   "titulo": "Redes de água cruzadas e não sinalizadas",
+   "corpo": "A tubulação de água de chuva sem sinalização e misturada à rede potável representa o risco mais grave: a conexão cruzada. Essa falha pode contaminar o abastecimento de água para consumo humano, gerando sérios problemas de saúde e legais. A NBR 15527 exige redes independentes e sinalizadas."
   },
   {
-   "titulo": "Componentes Chave de um Sistema Legal",
-   "corpo": "Um projeto conforme a NBR 15527 inclui reservatório com dispositivo de descarte das primeiras águas (first flush), tela ou grade contra entrada de insetos e folhas. É fundamental ter tubulação de água de chuva sinalizada e separada da rede potável, além de extravasor (ladrão) e dispositivo de limpeza no fundo do reservatório, acompanhado de memória de cálculo."
+   "titulo": "Reservatório sem controle de nível e limpeza",
+   "corpo": "A falta de extravasor (ladrão) e de dispositivo de limpeza no fundo do reservatório é um indicativo de projeto inadequado. Esses componentes são essenciais para evitar transbordamentos em períodos de chuva intensa e para facilitar a manutenção, prevenindo acúmulo de sujeira e odor."
   },
   {
-   "titulo": "Etapas do Projeto Hidráulico Sustentável",
-   "corpo": "Projetar dentro da NBR 15527 é encadear decisões técnicas que começam no telhado. Inclui definir a área de captação e demanda, calcular calhas e condutores (considerando intensidade pluviométrica com duração de 5 minutos e período de retorno de 25 anos), prever o descarte das primeiras águas e dimensionar o reservatório. A edição vigente descreve seis métodos para isso."
+   "titulo": "Falta de projeto técnico e ART",
+   "corpo": "Um sistema de aproveitamento de água de chuva sem memória de cálculo do volume do reservatório e, principalmente, sem projeto assinado por profissional habilitado (ART no CREA) está fora da norma. A NBR 15527 exige um dimensionamento técnico preciso para a segurança e eficácia do sistema."
   }
  ],
- "cta_titulo": "Garanta a Conformidade e Sustentabilidade do seu Projeto!",
- "cta_corpo": "Evite problemas legais e técnicos. Conte com a GreenGold Engenharia para um projeto hidráulico de aproveitamento de água de chuva com ART no CREA, seguindo rigorosamente a NBR 15527. Fale conosco!",
- "legenda": "O aproveitamento de água de chuva é mais do que sustentabilidade, é uma exigência legal em muitas cidades e um diferencial para seu projeto. Garanta a conformidade da sua obra com a NBR 15527 e evite surpresas. Fale com a GreenGold Engenharia para um projeto com ART e segurança técnica. #EngenhariaCivil #NBR15527 #AguaDeChuva #ProjetoHidraulico #Sustentabilidade #GreenGoldEngenharia #ARTnoCREA #ConstrucaoCivil"
+ "cta_titulo": "Evite Erros. Garanta Conformidade.",
+ "cta_corpo": "Não coloque seu projeto em risco. Conte com a GreenGold Engenharia para um projeto de aproveitamento de água de chuva conforme a NBR 15527, com segurança, economia e ART. Fale conosco!",
+ "legenda": "Aproveitar água de chuva é sustentabilidade e economia, mas exige conformidade com a NBR 15527 para evitar problemas técnicos, legais e financeiros. Garanta a segurança e a eficiência do seu sistema com um projeto bem elaborado e ART. Fale com a GreenGold Engenharia Multidisciplinar para um projeto hidráulico completo e dentro das normas.\n#EngenhariaHidraulica #NBR15527 #AguaDeChuva #Sustentabilidade #ProjetoHidraulico #ARTnoCREA #GreenGoldEngenharia #ConstrucaoCivil"
 }
