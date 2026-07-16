@@ -1,32 +1,32 @@
 {
- "formato": "erros",
+ "formato": "checklist",
  "tema_foto": "projeto",
- "capa_kicker": "NBR 17240 em revisão",
- "capa_titulo": "Sua edificação está pronta para a nova NBR 17240?",
- "capa_subtitulo": "Evite obras paradas e riscos legais com o AVCB da sua edificação.",
+ "capa_kicker": "REVISÃO NBR 17240",
+ "capa_titulo": "Nova NBR 17240: o que muda no seu projeto de segurança contra incêndio?",
+ "capa_subtitulo": "A maior revisão desde 2010 impacta edificações comerciais, industriais e residenciais. Garanta seu AVCB!",
  "slides": [
   {
-   "titulo": "O que é a NBR 17240?",
-   "corpo": "A NBR 17240 define os requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio no Brasil. Ela abrange detectores, centrais, acionadores e sirenes, sendo essencial para a evacuação segura de edificações. Sua conformidade é exigida pelo Corpo de Bombeiros para a concessão do Auto de Vistoria (AVCB)."
+   "titulo": "A Maior Revisão Desde 2010",
+   "corpo": "A NBR 17240, que rege sistemas de detecção e alarme de incêndio, está passando pela maior revisão desde 2010, no projeto PN 17240 da ABNT. Esta atualização é crucial para construtores, reformadores e administradores de edificações comerciais, industriais e residenciais de maior porte, pois impacta diretamente a aprovação do AVCB."
   },
   {
-   "titulo": "Por que a norma está sendo revisada?",
-   "corpo": "A versão vigente da NBR 17240 é de 2010 e não acompanha as inovações tecnológicas do mercado, como sistemas endereçáveis, sensores inteligentes e automação predial. A revisão visa atualizar a norma para essa realidade, garantindo maior eficiência e alinhamento com padrões internacionais ISO. É a maior revisão desde 2010."
+   "titulo": "Por que a NBR 17240 está sendo atualizada?",
+   "corpo": "A versão vigente da NBR 17240, de 2010, não acompanha a evolução tecnológica do mercado de proteção contra incêndio. Surgiram sistemas endereçáveis mais sofisticados, sensores inteligentes e integração com automação predial. A nova norma busca incorporar essas inovações, alinhando-se à realidade atual."
   },
   {
-   "titulo": "Principais tendências da nova NBR 17240",
-   "corpo": "A nova edição da NBR 17240 tende a exigir documentação técnica mais completa, memoriais descritivos robustos com lógica de operação clara e critérios atualizados para área de cobertura e distância entre dispositivos. A norma se moverá para uma orientação a desempenho, focando na eficiência real do sistema, em vez de regras fixas."
+   "titulo": "Principais Tendências da Nova NBR",
+   "corpo": "Entre as tendências da nova edição estão a exigência de documentação técnica mais completa e memoriais descritivos robustos, com a lógica de operação do sistema claramente definida. Haverá também atualização dos critérios de área de cobertura e distância entre os dispositivos, aproximando o texto brasileiro dos padrões internacionais ISO."
   },
   {
-   "titulo": "Riscos de um projeto desatualizado",
-   "corpo": "Um projeto de detecção e alarme de incêndio não conforme a NBR 17240 pode resultar em AVCB negado ou vencido, com obras paradas e riscos jurídicos e financeiros. Erros comuns incluem sistemas sem projeto assinado por engenheiro, detectores mal espaçados e ausência de comissionamento, impactando a segurança da edificação."
+   "titulo": "Sinais de Não Conformidade e Riscos",
+   "corpo": "Sinais de não conformidade incluem sistema de alarme sem projeto assinado por engenheiro e ART registrada, detectores espaçados sem cálculo de cobertura ou central antiga sem memorial descritivo. A ausência de comissionamento (sistema nunca testado ponto a ponto) também configura risco e pode levar à negação do AVCB. Evite riscos jurídicos e financeiros."
   },
   {
-   "titulo": "O projeto elétrico de segurança",
-   "corpo": "O projeto de detecção e alarme de incêndio, conforme a NBR 17240, é um projeto elétrico de sistema de segurança de baixa tensão, que exige método. Inclui a classificação da edificação, definição da arquitetura do sistema (convencional ou endereçável) e a distribuição calculada dos dispositivos, garantindo a conformidade e eficácia."
+   "titulo": "A Importância do Projeto Elétrico de Segurança",
+   "corpo": "Um projeto conforme a NBR 17240 não é apenas marcar detectores na planta. É um projeto elétrico de sistema de segurança de baixa tensão que exige método. As etapas incluem a classificação da edificação, a definição da arquitetura do sistema (convencional ou endereçável) e a distribuição calculada dos dispositivos."
   }
  ],
- "cta_titulo": "Sua edificação está em dia com as novas regras?",
- "cta_corpo": "Garanta a segurança e a conformidade do seu projeto de detecção e alarme de incêndio. Fale com a GreenGold Engenharia e evite surpresas no AVCB.",
- "legenda": "A NBR 17240 está em revisão e isso impacta diretamente o projeto de detecção e alarme de incêndio da sua edificação. Mantenha-se atualizado para garantir a segurança, evitar riscos e assegurar a aprovação do seu AVCB. Consulte nossos especialistas para um projeto conforme as novas exigências.\n#NBR17240 #SegurançaContraIncêndio #EngenhariaElétrica #AVCB #DetecçãoDeIncêndio #ProjetosPrediais #GreenGoldEngenharia #BIM"
+ "cta_titulo": "Sua Edificação Está Preparada?",
+ "cta_corpo": "Evite riscos jurídicos e financeiros. Garanta a conformidade do seu projeto de detecção e alarme de incêndio com a nova NBR 17240. Fale com a GreenGold Engenharia para um projeto seguro e aprovado.",
+ "legenda": "A revisão da NBR 17240 é um marco para a segurança contra incêndio no Brasil. Manter seu projeto de detecção e alarme atualizado não é apenas uma exigência legal, mas um investimento na segurança da vida e do patrimônio. Conte com a GreenGold Engenharia para um projeto em conformidade e com ART.\n#NBR17240 #EngenhariaContraIncendio #SegurancaPredial #AVCB #ProjetoEletrico #GreenGoldEngenharia #BIM #InstalacoesPrediais"
 }
