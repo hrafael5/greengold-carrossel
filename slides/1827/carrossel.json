@@ -1,32 +1,32 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "NBR 17240 em Revisão",
- "capa_titulo": "AVCB aprovado ou obra parada? A NBR 17240 mudou!",
- "capa_subtitulo": "Entenda as atualizações da norma de detecção e alarme de incêndio e evite riscos.",
+ "capa_kicker": "NBR 17240 em revisão",
+ "capa_titulo": "Sua edificação está pronta para a nova NBR 17240?",
+ "capa_subtitulo": "Evite obras paradas e riscos legais com o AVCB da sua edificação.",
  "slides": [
   {
-   "titulo": "Erro: Desconhecer a NBR 17240.",
-   "corpo": "A NBR 17240 é a norma da ABNT que especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio. Ela define parâmetros de cobertura, distância e desempenho para detectores, centrais e acionadores, sendo essencial para a obtenção do Auto de Vistoria (AVCB) do Corpo de Bombeiros."
+   "titulo": "O que é a NBR 17240?",
+   "corpo": "A NBR 17240 define os requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio no Brasil. Ela abrange detectores, centrais, acionadores e sirenes, sendo essencial para a evacuação segura de edificações. Sua conformidade é exigida pelo Corpo de Bombeiros para a concessão do Auto de Vistoria (AVCB)."
   },
   {
-   "titulo": "Erro: Ignorar a necessidade de revisão.",
-   "corpo": "A versão vigente da NBR 17240 foi publicada em 2010. Desde então, o mercado de proteção contra incêndio evoluiu com sistemas endereçáveis, sensores inteligentes e integração com automação predial. A revisão, liderada pela comissão CB-24 no projeto PN 17240, visa atualizar a norma para acompanhar essa realidade tecnológica e garantir a eficiência dos sistemas atuais."
+   "titulo": "Por que a norma está sendo revisada?",
+   "corpo": "A versão vigente da NBR 17240 é de 2010 e não acompanha as inovações tecnológicas do mercado, como sistemas endereçáveis, sensores inteligentes e automação predial. A revisão visa atualizar a norma para essa realidade, garantindo maior eficiência e alinhamento com padrões internacionais ISO. É a maior revisão desde 2010."
   },
   {
-   "titulo": "Erro: Não se adaptar às novas tendências.",
-   "corpo": "A nova edição da NBR 17240 deve trazer exigências de documentação técnica mais completa, memoriais descritivos robustos com a lógica de operação do sistema, e atualização dos critérios de área de cobertura e distância entre dispositivos. Há uma transição gradual para uma norma orientada a desempenho, focando na eficiência real do sistema e alinhamento com padrões internacionais ISO."
+   "titulo": "Principais tendências da nova NBR 17240",
+   "corpo": "A nova edição da NBR 17240 tende a exigir documentação técnica mais completa, memoriais descritivos robustos com lógica de operação clara e critérios atualizados para área de cobertura e distância entre dispositivos. A norma se moverá para uma orientação a desempenho, focando na eficiência real do sistema, em vez de regras fixas."
   },
   {
-   "titulo": "Erro: Subestimar os riscos de não conformidade.",
-   "corpo": "A ausência de um projeto assinado por engenheiro com ART, detectores espaçados sem cálculo de cobertura, ou um sistema sem comissionamento são sinais de não conformidade. Um AVCB vencido ou negado porque o laudo do sistema não segue a norma vigente pode levar a obras paradas, gerando riscos jurídicos e financeiros significativos para a edificação."
+   "titulo": "Riscos de um projeto desatualizado",
+   "corpo": "Um projeto de detecção e alarme de incêndio não conforme a NBR 17240 pode resultar em AVCB negado ou vencido, com obras paradas e riscos jurídicos e financeiros. Erros comuns incluem sistemas sem projeto assinado por engenheiro, detectores mal espaçados e ausência de comissionamento, impactando a segurança da edificação."
   },
   {
-   "titulo": "Erro: Realizar um projeto sem método.",
-   "corpo": "Um projeto de detecção e alarme de incêndio conforme a NBR 17240 não é a simples marcação de detectores na planta. Trata-se de um projeto elétrico de sistema de segurança de baixa tensão, que exige método. Inclui a classificação da edificação (ocupação, área, altura, população), a definição da arquitetura do sistema (convencional ou endereçável) e o dimensionamento da central, laços e fontes de alimentação com autonomia."
+   "titulo": "O projeto elétrico de segurança",
+   "corpo": "O projeto de detecção e alarme de incêndio, conforme a NBR 17240, é um projeto elétrico de sistema de segurança de baixa tensão, que exige método. Inclui a classificação da edificação, definição da arquitetura do sistema (convencional ou endereçável) e a distribuição calculada dos dispositivos, garantindo a conformidade e eficácia."
   }
  ],
- "cta_titulo": "Garanta a segurança e regularidade da sua edificação.",
- "cta_corpo": "Fale com a GreenGold Engenharia para um projeto de detecção e alarme de incêndio conforme a NBR 17240 em revisão. Evite surpresas e mantenha seu AVCB em dia!",
- "legenda": "A NBR 17240 está em revisão e as mudanças impactam diretamente o projeto de detecção e alarme de incêndio da sua edificação. Estar atualizado é crucial para evitar riscos jurídicos, financeiros e garantir a aprovação do AVCB. Conte com a GreenGold Engenharia para um projeto seguro e em conformidade com as novas exigências.\n\n#EngenhariaContraIncendio #NBR17240 #SegurancaPredial #AVCB #ProjetoEletrico #BIM #GreenGoldEngenharia #EngenhariaMultidisciplinar"
+ "cta_titulo": "Sua edificação está em dia com as novas regras?",
+ "cta_corpo": "Garanta a segurança e a conformidade do seu projeto de detecção e alarme de incêndio. Fale com a GreenGold Engenharia e evite surpresas no AVCB.",
+ "legenda": "A NBR 17240 está em revisão e isso impacta diretamente o projeto de detecção e alarme de incêndio da sua edificação. Mantenha-se atualizado para garantir a segurança, evitar riscos e assegurar a aprovação do seu AVCB. Consulte nossos especialistas para um projeto conforme as novas exigências.\n#NBR17240 #SegurançaContraIncêndio #EngenhariaElétrica #AVCB #DetecçãoDeIncêndio #ProjetosPrediais #GreenGoldEngenharia #BIM"
 }
