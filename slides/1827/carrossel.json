@@ -1,32 +1,32 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "Revisão da NBR 17240",
- "capa_titulo": "A norma mudou! Sua edificação está em risco?",
- "capa_subtitulo": "A NBR 17240, que rege sistemas de detecção e alarme de incêndio, passa pela maior revisão desde 2010. Descubra o que muda e evite problemas com o AVCB.",
+ "capa_kicker": "NBR 17240 em revisão",
+ "capa_titulo": "Sua edificação está pronta para as novas regras?",
+ "capa_subtitulo": "A maior revisão desde 2010 impacta o projeto de detecção e alarme de incêndio.",
  "slides": [
   {
-   "titulo": "Desconhecer a Revisão da NBR 17240",
-   "corpo": "A NBR 17240, que rege sistemas de detecção e alarme de incêndio, passa pela maior revisão desde 2010 na ABNT, sob o projeto PN 17240. Essa atualização define como projetar, instalar, comissionar e manter centrais, detectores e sirenes. Para edificações de maior porte, compreender as mudanças é crucial para a aprovação do AVCB, evitando obras paradas e riscos."
+   "titulo": "A NBR 17240 e sua revisão",
+   "corpo": "A NBR 17240 especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio. Esta rede de detectores, centrais e acionadores garante segundos preciosos para evacuação segura. A versão vigente é de 2010, e a ABNT iniciou a revisão devido à evolução tecnológica do mercado."
   },
   {
-   "titulo": "Projeto Elétrico de Segurança Inadequado",
-   "corpo": "Um projeto de detecção e alarme de incêndio, conforme a NBR 17240, não é mera marcação em planta. É um projeto elétrico de segurança de baixa tensão, que exige metodologia específica. Erros comuns incluem a ausência de projeto assinado por engenheiro ou ART registrada, e o espaçamento inadequado dos detectores sem cálculo de cobertura por ambiente, comprometendo a eficácia."
+   "titulo": "A evolução tecnológica e a norma",
+   "corpo": "O mercado de proteção contra incêndio evoluiu, com sistemas endereçáveis, sensores inteligentes e integração com automação predial. A norma atual não acompanhava essa realidade tecnológica, por isso a ABNT abriu o processo de revisão pública pela comissão CB-24, no projeto PN 17240."
   },
   {
-   "titulo": "Desatualização Tecnológica do Sistema",
-   "corpo": "A NBR 17240 vigente, publicada em 2010, não abrange as inovações tecnológicas do mercado. Desde então, surgiram sistemas endereçáveis mais sofisticados, sensores inteligentes e integração com automação predial. A revisão da norma busca incorporar essas tendências, garantindo que os projetos atuais se alinhem às soluções modernas de segurança contra incêndio."
+   "titulo": "As novidades na documentação e desempenho",
+   "corpo": "Entre as tendências, destacam-se a exigência de documentação técnica mais completa, memoriais descritivos robustos com a lógica de operação do sistema, e atualização dos critérios de área de cobertura e distância entre dispositivos. Haverá uma transição gradual para uma norma orientada a desempenho, focando na eficiência real do sistema."
   },
   {
-   "titulo": "Documentação Incompleta ou Inadequada",
-   "corpo": "A nova edição da NBR 17240 tende a exigir documentação técnica mais completa e memoriais descritivos robustos, detalhando a lógica de operação do sistema. A ausência de um memorial descritivo claro ou de um esquema de acionamento documentado para a central de incêndio, por exemplo, pode ser um sinal de não conformidade, gerando problemas na vistoria."
+   "titulo": "Impacto no AVCB e segurança",
+   "corpo": "Para quem constrói, reforma ou administra edificações comerciais, industriais e residenciais de maior porte, entender as mudanças não é detalhe técnico. É o que separa um Auto de Vistoria do Corpo de Bombeiros (AVCB) aprovado de uma obra parada, além de mitigar riscos jurídicos e financeiros."
   },
   {
-   "titulo": "Falta de Comissionamento e Manutenção",
-   "corpo": "A NBR 17240 especifica requisitos para projeto, instalação, comissionamento e manutenção dos sistemas. Um erro crítico é a ausência de comissionamento, onde o sistema é ligado, mas nunca testado ponto a ponto. Isso pode levar a um AVCB vencido ou negado, pois o laudo do sistema de alarme não seguirá a norma vigente, comprometendo a segurança."
+   "titulo": "Avalie seu sistema de segurança",
+   "corpo": "Um sistema de alarme sem projeto assinado por engenheiro ou ART, detectores espaçados 'no olho' sem cálculo de cobertura, central de incêndio antiga sem memorial descritivo, ausência de comissionamento ou AVCB vencido são sinais claros de não conformidade com a NBR 17240."
   }
  ],
- "cta_titulo": "Sua edificação está em conformidade?",
- "cta_corpo": "Não espere a fiscalização! Garanta a segurança do seu patrimônio e a aprovação do AVCB com um projeto de detecção e alarme de incêndio atualizado. Fale com a GreenGold Engenharia para uma avaliação e adequação à nova NBR 17240.",
- "legenda": "A revisão da NBR 17240 está em andamento e trará impactos significativos para projetos elétricos de segurança contra incêndio. Evite riscos jurídicos e financeiros garantindo que sua edificação esteja atualizada com as novas exigências da norma. Conte com a expertise da GreenGold Engenharia para assegurar a conformidade e a segurança do seu empreendimento.\n#NBR17240 #EngenhariaContraIncendio #AVCB #SegurancaPredial #ProjetoEletrico #BIM #EngenhariaCivil #GreenGoldEngenharia"
+ "cta_titulo": "Sua edificação está em dia com a segurança?",
+ "cta_corpo": "A GreenGold Engenharia é especialista em projetos elétricos de segurança, incluindo sistemas de detecção e alarme de incêndio conforme a NBR 17240. Garanta a conformidade e a segurança do seu patrimônio.",
+ "legenda": "A NBR 17240, que rege os sistemas de detecção e alarme de incêndio, está em revisão! Entender as atualizações é crucial para garantir a segurança da sua edificação e evitar problemas com o AVCB. Mantenha-se informado e proteja seu patrimônio com a GreenGold Engenharia.\n#NBR17240 #EngenhariaEletrica #SegurancaContraIncendio #ProjetoEletrico #AVCB #GreenGoldEngenharia #BIM #InstalacoesPrediais"
 }
