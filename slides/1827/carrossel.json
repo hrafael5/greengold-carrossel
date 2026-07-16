@@ -1,32 +1,32 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "NBR 17240 em revisão",
- "capa_titulo": "A NBR 17240 está em revisão: prepare-se!",
- "capa_subtitulo": "Evite riscos legais e financeiros: entenda as atualizações para o seu projeto de segurança contra incêndio.",
+ "capa_kicker": "NBR 17240 em Revisão",
+ "capa_titulo": "Sua edificação está pronta para a NOVA norma de incêndio?",
+ "capa_subtitulo": "Descubra o que muda no projeto elétrico de segurança e evite riscos jurídicos e financeiros.",
  "slides": [
   {
-   "titulo": "Entendendo a NBR 17240",
-   "corpo": "A NBR 17240 é a norma da ABNT que especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio. Ela define a rede de detectores, centrais, acionadores e avisadores que garantem segundos preciosos entre o início de um princípio de incêndio e a evacuação segura de uma edificação."
+   "titulo": "O Que É NBR 17240 e Sua Importância",
+   "corpo": "A NBR 17240 é a norma da ABNT que define requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio. Ela garante segundos preciosos para a evacuação segura, sendo exigida pelo Corpo de Bombeiros para a concessão do Auto de Vistoria (AVCB)."
   },
   {
-   "titulo": "A Revisão da Norma: Por Que Agora?",
-   "corpo": "A versão vigente da NBR 17240 foi publicada em 2010. De lá para cá, o mercado de proteção contra incêndio mudou de patamar, com sistemas endereçáveis, sensores inteligentes e automação predial. A ABNT abriu a revisão para que a norma acompanhe essa realidade tecnológica e os padrões internacionais ISO."
+   "titulo": "Por Que a Norma Está Sendo Revisada",
+   "corpo": "A versão atual da NBR 17240, publicada em 2010, não acompanha a evolução tecnológica do mercado, como sistemas endereçáveis, sensores inteligentes e integração com automação predial. A revisão busca alinhar a norma a essa realidade, garantindo mais eficiência e segurança nas edificações comerciais, industriais e residenciais de maior porte."
   },
   {
-   "titulo": "O Que Muda na Nova Edição",
-   "corpo": "A nova edição da NBR 17240 tende a exigir documentação técnica mais completa e memoriais descritivos robustos, com a lógica de operação do sistema claramente definida. Também haverá atualização dos critérios de área de cobertura e distância entre dispositivos. O foco será numa transição gradual para uma norma orientada a desempenho, buscando mais eficiência real do sistema."
+   "titulo": "Principais Tendências da Nova NBR 17240",
+   "corpo": "Espera-se a exigência de documentação técnica mais completa, memoriais descritivos robustos com a lógica de operação do sistema claramente definida e atualização dos critérios de área de cobertura e distância entre dispositivos. A transição gradual para uma norma orientada a desempenho, com foco na eficiência real, aproxima o texto brasileiro dos padrões internacionais ISO."
   },
   {
-   "titulo": "Sinais de Não Conformidade Críticos",
-   "corpo": "Um sistema de alarme instalado sem projeto assinado por engenheiro e sem ART registrada é um risco. Detectores espaçados 'no olho', sem cálculo de cobertura por ambiente, e a ausência de comissionamento ponto a ponto são falhas críticas. Um AVCB vencido ou negado porque o laudo do sistema não segue a norma vigente indica não conformidade grave."
+   "titulo": "Riscos de Não Estar Conforme",
+   "corpo": "Um sistema de alarme instalado sem projeto assinado por engenheiro e ART, detectores espaçados 'no olho' sem cálculo de cobertura ou um AVCB vencido ou negado, são sinais claros de não conformidade. Ignorar a revisão da NBR 17240 pode resultar em riscos jurídicos e financeiros significativos, além de comprometer a segurança da edificação."
   },
   {
-   "titulo": "A Importância do Projeto Elétrico de Segurança",
-   "corpo": "Um projeto conforme a NBR 17240 não é a simples marcação de detectores na planta, mas um projeto elétrico de sistema de segurança de baixa tensão. Ele exige a classificação da edificação, definição da arquitetura do sistema, dimensionamento da central, laços e fontes de alimentação com autonomia de bateria, além da distribuição precisa dos dispositivos."
+   "titulo": "O Projeto Conforme a NBR 17240",
+   "corpo": "Um projeto elétrico de sistema de segurança conforme a NBR 17240 não é a simples marcação de detectores na planta, mas sim um processo que exige método. Ele envolve a classificação da edificação, a definição da arquitetura do sistema (convencional ou endereçável) e o dimensionamento preciso da distribuição dos dispositivos, como detectores e acionadores manuais. Um profissional habilitado deve assinar essa entrega."
   }
  ],
- "cta_titulo": "Sua edificação está pronta para a nova NBR 17240?",
- "cta_corpo": "Garanta a segurança e a conformidade do seu projeto de detecção e alarme de incêndio. Fale com a GreenGold Engenharia e evite riscos jurídicos e financeiros.",
- "legenda": "A revisão da NBR 17240 está em andamento, e a GreenGold Engenharia Multidisciplinar está atenta a cada detalhe. Garanta que seu projeto de detecção e alarme de incêndio esteja em conformidade com as novas exigências, evitando dores de cabeça com o AVCB. Conte com nossa expertise em instalações prediais e segurança contra incêndio para proteger seu patrimônio.\n#NBR17240 #SegurancaContraIncendio #AVCB #EngenhariaEletrica #ProjetosPrediais #BIM #SPDA #PPCI"
+ "cta_titulo": "Não arrisque a segurança da sua edificação!",
+ "cta_corpo": "Fale com nossos especialistas e garanta que seu projeto de detecção e alarme de incêndio esteja 100% em conformidade com as novas exigências da NBR 17240.",
+ "legenda": "A revisão da NBR 17240 está chegando para modernizar os sistemas de detecção e alarme de incêndio. Sua edificação precisa estar preparada para as novas exigências e evitar surpresas na aprovação do AVCB. Garanta a segurança e a conformidade com a GreenGold Engenharia.\n#EngenhariaDeIncendio #NBR17240 #SegurancaPredial #AVCB #ProjetoEletrico #SistemasDeAlarme #RevisaoDeNorma #GreenGoldEngenharia"
 }
