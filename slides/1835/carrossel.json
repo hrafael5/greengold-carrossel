@@ -2,31 +2,31 @@
  "formato": "erros",
  "tema_foto": "projeto",
  "capa_kicker": "NBR 14039",
- "capa_titulo": "O Projeto Elétrico da sua Entrada de Energia Vai Mudar",
- "capa_subtitulo": "A revisão da norma de média tensão está na reta final. Entenda os impactos para seu empreendimento e evite riscos.",
+ "capa_titulo": "A norma de média tensão está em revisão!",
+ "capa_subtitulo": "Veja o que muda no projeto elétrico de sua edificação e prepare-se para 2026.",
  "slides": [
   {
-   "titulo": "Projeto Desatualizado ou Inexistente",
-   "corpo": "A NBR 14039, norma que rege instalações elétricas de média tensão (1,0 kV a 36,2 kV), está em revisão desde 2019, com publicação prevista para o segundo semestre de 2026. A edição vigente é de 2005, com uma emenda de 2021, mas a atualização é mais ampla, alinhando-se à IEC 61936-1:2021."
+   "titulo": "A revisão da NBR 14039",
+   "corpo": "A revisão da NBR 14039, norma de instalações elétricas de média tensão (1,0 kV a 36,2 kV), entrou na reta final. A publicação está prevista para o segundo semestre de 2026, atualizando o texto brasileiro às práticas internacionais da IEC 61936-1:2021."
   },
   {
-   "titulo": "Dimensionamento Incorreto de Cabos",
-   "corpo": "Um erro comum é o dimensionamento de cabos de MT por tabelas antigas, hoje reconhecidas como superdimensionadas ou inadequadas, o que afeta diretamente a bitola dos condutores. A revisão da NBR 14039 corrige os valores de correntes admissíveis, exigindo atenção a novos cálculos e projetos."
+   "titulo": "Principais alterações técnicas",
+   "corpo": "A nova edição da NBR 14039 altera cinco frentes principais: correntes admissíveis dos cabos, conceitos de aterramento, testes de cabos, uso de transformadores de corrente com relés digitais (IEDs) e requisitos adicionais para geração distribuída."
   },
   {
-   "titulo": "Aterramento e Testes Defasados",
-   "corpo": "Aterramento sem laudo, sem medição de resistência de terra ou com terminologia defasada são sintomas de não conformidade. A nova NBR 14039 atualiza conceitos e denominações de aterramento e introduz um novo protocolo de ensaio para testes de cabos, crucial para comissionamento e segurança."
+   "titulo": "O impacto no seu projeto",
+   "corpo": "Para síndicos, incorporadores e gestores prediais, subestações abrigadas e cabines primárias deixam de ser um mero detalhe da obra. Elas passarão a exigir um projeto elétrico de média tensão assinado por profissional habilitado, com ART no CREA."
   },
   {
-   "titulo": "Proteção Elétrica Inadequada",
-   "corpo": "Relés eletromecânicos antigos, sem coordenação de proteção documentada, podem gerar problemas. A revisão da norma traz novas orientações para uso de transformadores de corrente com relés digitais (IEDs), refletindo a modernização necessária das proteções elétricas da subestação."
+   "titulo": "Sinais de não conformidade",
+   "corpo": "Sua cabine primária está sem projeto atualizado ou ART? Cabos de MT dimensionados por tabelas antigas ou aterramento sem laudo? Relés eletromecânicos sem coordenação de proteção? Estes são sintomas de não conformidade atual."
   },
   {
-   "titulo": "Geração Distribuída sem Estudo Específico",
-   "corpo": "Com o avanço da geração distribuída, como usinas solares conectadas em MT, a NBR 14039 passa a exigir requisitos adicionais de proteção. Não ter um estudo de proteção específico para a geração solar conectada na entrada é um erro grave que pode comprometer a segurança da instalação."
+   "titulo": "Riscos e a importância da conformidade",
+   "corpo": "A falta de conformidade com a NBR 14039 pode gerar riscos legais, técnicos e financeiros. Regularizar ou construir uma entrada em MT exige um processo técnico com etapas amparadas pela norma vigente e pelas regras da concessionária local."
   }
  ],
- "cta_titulo": "Atualize seu projeto de média tensão!",
- "cta_corpo": "Evite riscos legais, técnicos e financeiros. Conte com a GreenGold Engenharia para adequar seu empreendimento às novas exigências da NBR 14039, garantindo conformidade e segurança.",
- "legenda": "A NBR 14039 está em revisão e vai impactar diretamente o projeto elétrico de entrada de prédios, condomínios e indústrias. Prepare-se para as mudanças e garanta a segurança e conformidade da sua instalação. Fale com nossos especialistas! #EngenhariaEletrica #NBR14039 #MediaTensao #ProjetoEletrico #Subestacao #CabinePrimaria #InstalacoesPrediais #GreenGoldEngenharia"
+ "cta_titulo": "Não deixe seu projeto defasado!",
+ "cta_corpo": "Garanta que sua instalação elétrica de média tensão esteja em conformidade com as novas exigências da NBR 14039. Fale com nossos especialistas!",
+ "legenda": "A NBR 14039, norma que regula as instalações elétricas de média tensão, está em revisão e com publicação prevista para 2026. As mudanças impactam diretamente o projeto elétrico de entrada de prédios, condomínios e indústrias, exigindo atenção especial. Prepare-se para as novas diretrizes e evite problemas futuros.\n#NBR14039 #EngenhariaEletrica #MediaTensao #ProjetoEletrico #Subestacao #CabinePrimaria #GreenGoldEngenharia #AtualizacaoNormativa"
 }
