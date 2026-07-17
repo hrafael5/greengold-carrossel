@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "Revisão da NBR 14039",
+ "capa_titulo": "Sua entrada de média tensão está em risco?",
+ "capa_subtitulo": "Entenda as mudanças na norma que afetam prédios, condomínios e indústrias, com publicação prevista para 2026.",
+ "slides": [
+  {
+   "titulo": "O que é Média Tensão?",
+   "corpo": "Média Tensão (MT) abrange a faixa de 1,0 kV a 36,2 kV, essencial para edificações com demanda superior a 75 kW. Nesses casos, a concessionária transfere ao cliente a responsabilidade pela subestação ou cabine primária, que transforma a energia para uso interno, regida pela NBR 14039."
+  },
+  {
+   "titulo": "Quando a NBR 14039 muda?",
+   "corpo": "A revisão da NBR 14039, iniciada em 2019, está em fase final e tem publicação prevista para o segundo semestre de 2026. Ela alinha o texto brasileiro à IEC 61936-1:2021, afetando diretamente projetos de entrada de energia em empreendimentos com alta demanda."
+  },
+  {
+   "titulo": "Principais Impactos da Revisão",
+   "corpo": "A nova edição da NBR 14039 altera pontos cruciais como correntes admissíveis dos cabos (mudando bitolas), conceitos de aterramento (alinhamento internacional), e novos protocolos para testes de cabos. Também atualiza o uso de transformadores de corrente com relés digitais."
+  },
+  {
+   "titulo": "Geração Distribuída e Proteção",
+   "corpo": "Com o avanço da geração distribuída (usinas solares, cogeração) conectada em Média Tensão, a norma introduz requisitos adicionais de proteção. Isso garante a segurança e a conformidade das instalações, evitando falhas e riscos operacionais no sistema elétrico."
+  },
+  {
+   "titulo": "Projeto Elétrico com ART, uma Obrigação",
+   "corpo": "A revisão enfatiza que subestações abrigadas e cabines primárias não são mais um detalhe. Elas passam a exigir um projeto elétrico de média tensão assinado por profissional habilitado, com o devido registro de Anotação de Responsabilidade Técnica (ART) no CREA."
+  }
+ ],
+ "cta_titulo": "Verifique a conformidade da sua instalação!",
+ "cta_corpo": "Não espere a nova NBR 14039 entrar em vigor para corrigir problemas. Garanta já a segurança e a legalidade da sua entrada de média tensão com a GreenGold Engenharia.",
+ "legenda": "A revisão da NBR 14039 está chegando e impactará diretamente a segurança e a legalidade das instalações de média tensão em seu empreendimento. Não deixe sua subestação fora de conformidade. Conte com a GreenGold Engenharia para um projeto elétrico atualizado e seguro.\n#NBR14039 #MediaTensão #EngenhariaEletrica #ProjetoEletrico #Subestacao #CabinePrimaria #ART #GreenGoldEngenharia"
+}
