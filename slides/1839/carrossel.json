@@ -1,32 +1,37 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "ABNT cancela NBR 12284 e NBR 7678",
- "capa_titulo": "Canteiro de Obras: Suas normas históricas SUMIRAM!",
- "capa_subtitulo": "Desde 25 de maio de 2026, a organização e segurança do seu canteiro dependem de projeto, não mais de normas canceladas. Entenda o impacto!",
+ "capa_kicker": "ABNT cancela NBR 12284 e 7678",
+ "capa_titulo": "O canteiro de obras agora exige projeto!",
+ "capa_subtitulo": "Entenda o que muda com o cancelamento de duas normas históricas e evite riscos legais e técnicos na sua obra.",
  "slides": [
   {
-   "titulo": "O Vácuo Normativo",
-   "corpo": "A ABNT cancelou, em 25 de maio de 2026, as NBR 12284 (áreas de vivência) e NBR 7678 (segurança na execução). Estas normas eram referências técnicas por décadas, citadas em memoriais, editais e laudos. O cancelamento cria um vácuo para quem monta contratos e descritivos."
+   "titulo": "Normas históricas canceladas",
+   "corpo": "Em 25 de maio de 2026, a ABNT cancelou a NBR 12284 (áreas de vivência) e a NBR 7678 (segurança na execução). Estas eram referências técnicas para organização de áreas de trabalho, refeitórios, vestiários e procedimentos de segurança por décadas. O cancelamento cria um vácuo normativo para contratos e memoriais descritivos.",
+   "corpo_caracteres": 393
   },
   {
-   "titulo": "Referências Defasadas",
-   "corpo": "NBR 12284 (1991) e NBR 7678 (1983) estavam tecnicamente defasadas, anteriores à NR-18 atualizada (Portaria MTE nº 836/2026), NBR 5410:2004 e revisão da NBR 5626. Elas não podem mais ser citadas como referência técnica vigente em contratos ou laudos."
+   "titulo": "Novo cenário normativo",
+   "corpo": "Com o cancelamento, o que resta como exigência aplicável é a Norma Regulamentadora nº 18 do Ministério do Trabalho e Emprego, atualizada pela Portaria MTE nº 836/2026, em vigor desde 29 de junho de 2026. O canteiro de obras passa a depender de projeto para instalações elétricas, hidráulicas e de esgoto provisórias.",
+   "corpo_caracteres": 399
   },
   {
-   "titulo": "Instalações Elétricas Sem Projeto",
-   "corpo": "Instalação elétrica provisória montada sem diagrama unifilar, quadro de distribuição projetado ou dimensionamento de condutores é um sintoma de não conformidade. A ausência de dispositivo diferencial-residual (DR) nos circuitos de tomada e ferramentas portáteis também configura risco e irregularidade."
+   "titulo": "Referências desatualizadas",
+   "corpo": "Um erro comum é o memorial descritivo ou edital ainda citar \"conforme NBR 12284\" ou \"conforme NBR 7678\" como referência vigente. Uma norma cancelada não pode mais ser citada como referência técnica atual em contrato, edital ou laudo, perdendo seu valor de exigência normativa.",
+   "corpo_caracteres": 392
   },
   {
-   "titulo": "Áreas de Vivência Irregulares",
-   "corpo": "Sanitários e refeitório improvisados, sem cálculo de vazão de água fria nem de contribuição de esgoto, são um problema. O lançamento de esgoto de banheiro provisório em rede pluvial é uma infração grave ao princípio do separador absoluto, com riscos ambientais e legais."
+   "titulo": "Instalações elétricas provisórias",
+   "corpo": "Instalações elétricas provisórias montadas sem diagrama unifilar, quadro de distribuição projetado ou dimensionamento de condutores são um sintoma de não conformidade. A ausência de dispositivo diferencial-residual (DR) nos circuitos de tomada e ferramentas portáteis também configura risco.",
+   "corpo_caracteres": 357
   },
   {
-   "titulo": "Falta de ART e Drenagem",
-   "corpo": "A ausência de ART (Anotação de Responsabilidade Técnica) cobrindo as instalações temporárias da obra é uma falha crítica. Além disso, pátios sem drenagem, com água empoçada em torno de quadros elétricos e áreas de circulação, representam perigo e desorganização."
+   "titulo": "Hidrossanitário improvisado",
+   "corpo": "Sanitários e refeitório improvisados, sem cálculo de vazão de água fria ou contribuição de esgoto, são inaceitáveis. O esgoto de banheiro provisório lançado em rede pluvial é uma infração ao princípio do separador absoluto, e pátios sem drenagem adequada resultam em água empoçada, representando perigo.",
+   "corpo_caracteres": 405
   }
  ],
- "cta_titulo": "Seu canteiro de obras está em risco?",
- "cta_corpo": "A GreenGold Engenharia elabora o projeto de instalações provisórias completas, com ART e em conformidade com a NR-18 e demais normas técnicas vigentes. Garanta segurança e conformidade legal. Fale conosco!",
- "legenda": "A ABNT cancelou as NBR 12284 e NBR 7678, mudando a forma de planejar canteiros de obras. Agora, o projeto é essencial para garantir segurança e conformidade legal, evitando riscos e multas. Não deixe seu empreendimento desprotegido, conte com a GreenGold para soluções completas e com ART.\n#EngenhariaCivil #CanteiroDeObras #NR18 #NormasTecnicas #ProjetoDeInstalacoes #SegurancaDoTrabalho #ART #GreenGoldEngenharia"
+ "cta_titulo": "Sua obra está em conformidade?",
+ "cta_corpo": "Evite riscos legais, técnicos e financeiros. A GreenGold Engenharia elabora projetos completos de instalações provisórias para seu canteiro de obras, garantindo segurança e conformidade com a NR-18 e normas de projeto.",
+ "legenda": "A ABNT cancelou duas normas cruciais para canteiros de obras, exigindo agora projetos detalhados para instalações provisórias. Garanta a conformidade da sua obra e evite problemas futuros. Conte com a GreenGold Engenharia para um planejamento seguro e eficiente! #EngenhariaCivil #CanteiroDeObras #NR18 #ProjetosDeEngenharia #SegurancaDoTrabalho #InstalacoesProvisorias #ABNT #GreenGoldEngenharia"
 }
