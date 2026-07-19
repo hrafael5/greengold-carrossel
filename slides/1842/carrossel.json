@@ -1,32 +1,32 @@
 {
- "formato": "O que muda com a NBR 5419:2026",
+ "formato": "checklist",
  "tema_foto": "projeto",
  "capa_kicker": "NBR 5419:2026",
- "capa_titulo": "A norma de para-raios mudou!",
- "capa_subtitulo": "Descubra as principais alterações que afetam seu projeto elétrico em prédios, condomínios e indústrias.",
+ "capa_titulo": "SPDA: Sua edificação precisa de novo projeto?",
+ "capa_subtitulo": "A nova norma de para-raios (SPDA) traz mudanças cruciais para prédios, condomínios e indústrias, com vigência a partir de 10 de março de 2026. Entenda os impactos.",
  "slides": [
   {
-   "titulo": "A NBR 5419 e a revisão de 2026",
-   "corpo": "A NBR 5419 é a norma técnica da ABNT que rege projeto, execução, inspeção e manutenção de SPDA. A edição de 2026, publicada em 10 de março de 2026, é a maior revisão em mais de uma década, substituindo integralmente a versão de 2015 e impactando diretamente a concepção do para-raios em edificações."
+   "titulo": "A Nova NBR 5419:2026",
+   "corpo": "A ABNT publicou em 10 de março de 2026 a segunda edição da NBR 5419, a norma que rege a proteção contra descargas atmosféricas (SPDA) no Brasil. Esta é a maior revisão em mais de uma década, substituindo integralmente a edição de 2015 e reorganizando requisitos cruciais para projetos elétricos."
   },
   {
-   "titulo": "Nova base de dados para cálculo de risco (Ng)",
-   "corpo": "A nova NBR 5419:2026 adota dados de satélite e sensores de solo de alta precisão para o índice Ng (densidade de descargas por km² ao ano), abandonando mapas isoceráunicos antigos. O efeito prático é que o Ng de várias cidades brasileiras subiu de forma expressiva, em alguns municípios, centenas de por cento, fazendo com que muitos projetos antes dispensados agora exijam SPDA."
+   "titulo": "Mapeamento de Raios por Satélite",
+   "corpo": "A edição de 2026 da NBR 5419 abandona os antigos mapas isoceráunicos e adota dados de satélite e sensores de solo de alta precisão. Esta mudança alinha o Brasil às práticas internacionais da IEC, impactando diretamente o cálculo de risco de SPDA."
   },
   {
-   "titulo": "Foco aprimorado na análise de risco",
-   "corpo": "O procedimento antes chamado de \"gerenciamento de risco\" foi renomeado para \"análise de risco\" na nova norma, mantendo a mesma lógica. Ele exige a identificação das características da estrutura, a definição dos tipos de perda relevantes e o cálculo dos riscos correspondentes, reforçando a necessidade de um projeto detalhado e documentado."
+   "titulo": "Impacto no Cálculo de Risco (Ng)",
+   "corpo": "O novo Ng (densidade de descargas por km² ao ano) aumentou expressivamente em muitos municípios, com algumas cidades registrando centenas de por cento de elevação. Projetos que antes eram dispensados de SPDA, baseados na NBR 5419 de 2015, agora podem exigir o sistema."
   },
   {
-   "titulo": "Atualizações em materiais e proteção contra surtos (DPS)",
-   "corpo": "A NBR 5419:2026 agora admite materiais como o aço cobreado, com seções nominais equiparadas às do cobre em aplicações específicas, uma resposta ao furto de cabos. Além disso, os requisitos de proteção contra surtos (DPS) foram direcionados à série ABNT NBR IEC 6163, que padroniza esses dispositivos."
+   "titulo": "Análise de Risco e Materiais",
+   "corpo": "O procedimento de \"gerenciamento de risco\" agora se chama \"análise de risco\", mantendo a lógica de identificar características estruturais e calcular perdas. A norma também admite o aço cobreado, com seções nominais equiparadas às do cobre em aplicações específicas, uma resposta ao furto de cabos."
   },
   {
-   "titulo": "Riscos de não conformidade e a importância do projeto",
-   "corpo": "Edificações fora da conformidade com a revisão de 2026 podem apresentar para-raios instalados sem memorial de cálculo ou análise de risco documentada, projetos de SPDA feitos na vigência da edição de 2015 sem reavaliação, ou ausência de DPS. Isso gera riscos legais, técnicos e financeiros, incluindo multas, embargos e recusa de seguro."
+   "titulo": "Proteção Contra Surtos (DPS)",
+   "corpo": "Os requisitos de proteção contra surtos (DPS) foram direcionados à série ABNT NBR IEC 61643, que padroniza esses dispositivos. A ausência de DPS no quadro elétrico, ou laudos de inspeção vencidos, são sintomas de não conformidade com a nova revisão de 2026."
   }
  ],
- "cta_titulo": "Adeque seu projeto à nova NBR 5419:2026!",
- "cta_corpo": "Garanta a segurança e conformidade da sua edificação com a GreenGold Engenharia. Nossos especialistas em SPDA, com ART no CREA, estão prontos para te ajudar. Fale conosco!",
- "legenda": "A NBR 5419:2026 trouxe mudanças significativas para os projetos de SPDA, impactando prédios, condomínios e indústrias. Não deixe sua edificação em risco ou fora das novas exigências. Conte com a GreenGold para um projeto seguro e atualizado. #SPDA #NBR5419 #EngenhariaEletrica #ParaRaios #ProtecaoContraRaios #BIM #InstalacoesPrediais #GreenGoldEngenharia"
+ "cta_titulo": "Adequação à NBR 5419:2026",
+ "cta_corpo": "Evite multas, embargos e recusa de seguro. A GreenGold Engenharia oferece projetos de SPDA conforme a nova NBR 5419:2026, com análise de risco e ART no CREA. Fale com nossos especialistas.",
+ "legenda": "A NBR 5419:2026 já está valendo e traz mudanças significativas para o projeto de SPDA. Garanta a segurança da sua edificação e evite problemas futuros, adequando-se à nova norma. Conte com a GreenGold Engenharia para um projeto de para-raios atualizado e conforme as exigências.\n#SPDA #NBR5419 #EngenhariaEletrica #ProjetosEletricos #ParaRaios #ABNT #SegurancaPredial #GreenGoldEngenharia"
 }
