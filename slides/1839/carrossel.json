@@ -1,32 +1,32 @@
 {
- "formato": "erros",
+ "formato": "passo a passo",
  "tema_foto": "projeto",
  "capa_kicker": "Cancelamento NBR 12284 e NBR 7678",
- "capa_titulo": "Canteiro de Obras: O que muda com o fim de duas NBRs históricas?",
- "capa_subtitulo": "A ABNT cancelou as normas em 25 de maio de 2026, alterando as exigências para instalações provisórias.",
+ "capa_titulo": "O que muda no canteiro de obras?",
+ "capa_subtitulo": "Entenda as novas exigências para instalações provisórias e segurança.",
  "slides": [
   {
-   "titulo": "Citação de Normas Canceladas",
-   "corpo": "Memoriais descritivos ou editais que ainda mencionam \"conforme NBR 12284\" ou \"conforme NBR 7678\" como referência vigente estão em não conformidade. Ambas foram canceladas em 25 de maio de 2026, perdendo valor como exigência normativa oponível."
+   "titulo": "O cancelamento das normas históricas",
+   "corpo": "A ABNT cancelou, em 25 de maio de 2026, as NBR 12284 (Áreas de vivência) e NBR 7678 (Segurança na execução de obras e serviços de construção). Uma norma cancelada não pode mais ser citada como referência técnica atual em contrato, edital ou laudo, perdendo seu valor como exigência normativa oponível. Isso cria um vácuo técnico significativo."
   },
   {
-   "titulo": "Falhas na Instalação Elétrica Provisória",
-   "corpo": "Instalações elétricas provisórias montadas sem diagrama unifilar, sem quadro de distribuição projetado e sem dimensionamento de condutores são um erro grave. A NBR 5410:2004 exige adequação, e a NR-18 atualizada pela Portaria MTE nº 836/2026 reforça a necessidade de projeto."
+   "titulo": "A nova referência para o canteiro",
+   "corpo": "Com o cancelamento das NBRs, a Norma Regulamentadora nº 18 do Ministério do Trabalho e Emprego, atualizada pela Portaria MTE nº 836/2026 e em vigor desde 29 de junho de 2026, torna-se a principal exigência aplicável. Na prática, o canteiro de obras passou a depender de projeto para suas instalações provisórias e segurança."
   },
   {
-   "titulo": "Ausência de Dispositivo Diferencial-Residual (DR)",
-   "corpo": "A ausência de dispositivo diferencial-residual (DR) nos circuitos de tomada e de ferramentas portáteis é uma falha crítica de segurança. Essa proteção é fundamental para prevenir acidentes e garantir a conformidade com as normas de segurança elétrica vigentes."
+   "titulo": "Riscos de não conformidade",
+   "corpo": "Sintomas de não conformidade incluem memoriais que ainda citam NBR 12284 ou NBR 7678. Também, instalações elétricas provisórias sem diagrama unifilar ou dimensionamento de condutores, ausência de DR em circuitos e esgoto de banheiro provisório lançado em rede pluvial indicam riscos legais e técnicos."
   },
   {
-   "titulo": "Sanitários e Refeitório Sem Planejamento",
-   "corpo": "Sanitários e refeitório improvisados, sem cálculo de vazão de água fria nem de contribuição de esgoto, indicam não conformidade. A NBR 12284, que trazia dimensionamentos objetivos, foi cancelada, exigindo agora projetos específicos conforme a NR-18 e NBR 5626."
+   "titulo": "A solução técnica: projetos detalhados",
+   "corpo": "Não existe uma norma única substituta. A solução é combinar a NR-18 atualizada com as normas de projeto de cada disciplina (como NBR 5410 e NBR 5626). O canteiro de obras deve ser tratado como uma edificação temporária, com projeto próprio para alimentação elétrica, água fria, esgoto sanitário e drenagem, coberto por ART."
   },
   {
-   "titulo": "Drenagem Inadequada e Descarte Ilegal",
-   "corpo": "Esgoto de banheiro provisório lançado em rede pluvial é infração ao princípio do separador absoluto. Pátio sem drenagem, com água empoçada em torno de quadros elétricos e de circulação de trabalhadores, representa risco e demonstra falta de projeto adequado."
+   "titulo": "Quem pode resolver e o que fazer",
+   "corpo": "Engenheiros habilitados são essenciais para elaborar os projetos de instalações provisórias, garantindo a conformidade com a NR-18 e demais normas. Isso abrange levantamento do arranjo físico do canteiro, dimensionamento da demanda elétrica, projetos hidrossanitários e de drenagem, tudo coberto por ART."
   }
  ],
- "cta_titulo": "Seu canteiro de obras está em conformidade?",
- "cta_corpo": "Evite riscos legais, técnicos e financeiros. A GreenGold Engenharia elabora projetos de instalações provisórias para seu canteiro de obras, garantindo segurança e conformidade com a NR-18 e demais normas vigentes.",
- "legenda": "O cancelamento das NBR 12284 e NBR 7678 trouxe novas exigências para os canteiros de obras. Agora, a dependência de projeto e a conformidade com a NR-18 são cruciais para evitar problemas técnicos e legais. Garanta a segurança e a eficiência da sua obra com projetos especializados.\n#EngenhariaCivil #CanteiroDeObras #NR18 #ABNT #InstalacoesProvisorias #SegurancaDoTrabalho #ART #GreenGoldEngenharia"
+ "cta_titulo": "Adeque seu canteiro de obras",
+ "cta_corpo": "Não corra riscos legais e técnicos. Conte com a GreenGold Engenharia para projetos de instalações provisórias e segurança no seu canteiro de obras. Garanta conformidade e eficiência.",
+ "legenda": "O cancelamento das NBR 12284 e NBR 7678 exige uma nova abordagem para o canteiro de obras. Sua conformidade agora depende de projetos detalhados e específicos, seguindo a NR-18 e normas técnicas atualizadas. Garanta a segurança e legalidade da sua obra com a GreenGold Engenharia.\n#Engenharia #CanteiroDeObras #NR18 #NormasTecnicas #ProjetoDeInstalacoes #SegurancaDoTrabalho #GreenGoldEngenharia #ART"
 }
