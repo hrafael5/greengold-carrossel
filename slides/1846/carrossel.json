@@ -2,31 +2,31 @@
  "formato": "erros",
  "tema_foto": "projeto",
  "capa_kicker": "NBR 10844",
- "capa_titulo": "Sua edificação está pronta para a próxima chuva?",
- "capa_subtitulo": "Entenda por que a norma de drenagem pluvial predial é mais crítica do que nunca.",
+ "capa_titulo": "Sua edificação está pronta para a chuva forte?",
+ "capa_subtitulo": "Entenda a norma de drenagem pluvial predial e evite danos com a água.",
  "slides": [
   {
-   "titulo": "Subestimar a vazão de projeto",
-   "corpo": "O problema de transbordamento de calhas e infiltrações raramente é a chuva em si, mas sim o dimensionamento inadequado do sistema de águas pluviais da edificação. A NBR 10844 exige que o dimensionamento comece pela vazão de projeto, calculada com base na intensidade pluviométrica local e área de contribuição."
+   "titulo": "Erro 1: Ignorar a NBR 10844",
+   "corpo": "A drenagem pluvial predial é o conjunto de calhas, condutores, ralos e áreas de captação que recolhe a água da chuva sobre telhados, lajes e pátios, conduzindo-a de forma controlada. A NBR 10844, publicada em 1989, é a norma técnica que fixa as exigências de projeto, execução e manutenção para estas instalações."
   },
   {
-   "titulo": "Ignorar a NBR 10844",
-   "corpo": "A NBR 10844, publicada em 1989, estabelece as exigências para projeto, execução e manutenção das instalações pluviais, visando funcionalidade e segurança. Ignorá-la resulta em sintomas claros, como calhas que transbordam, água escorrendo pela fachada ou infiltração em lajes, mesmo após a limpeza."
+   "titulo": "Erro 2: Desconsiderar os Sinais de Alerta",
+   "corpo": "Problemas como calha que transborda, água escorrendo pela fachada, infiltração em lajes ou poças em terraços e pátios são sintomas comuns de um sistema de drenagem mal dimensionado ou fora da NBR 10844. Estes sinais recorrentes indicam falhas no projeto original da edificação."
   },
   {
-   "titulo": "Cálculo incorreto da área de contribuição",
-   "corpo": "Erros comuns no projeto incluem a subestimação da área de contribuição do telhado, que deve considerar também parcelas de paredes, e a adoção de uma intensidade de chuva abaixo da realidade local. Falhas no cálculo da vazão de projeto são as mais caras para corrigir posteriormente."
+   "titulo": "Erro 3: Dimensionamento Incorreto",
+   "corpo": "A origem de falhas na drenagem pluvial quase sempre está no projeto: área de contribuição subestimada, intensidade de chuva adotada abaixo da realidade local ou diâmetros de calha e condutor insuficientes. A NBR 10844 existe para evitar exatamente este tipo de erro técnico, garantindo a funcionalidade e segurança."
   },
   {
-   "titulo": "Especificação de componentes insuficientes",
-   "corpo": "Após o cálculo da vazão de projeto, a NBR 10844 orienta a correta especificação de cada componente, como calhas e condutores. Diâmetros insuficientes para a vazão calculada são uma falha crítica que impede o escoamento adequado, levando a ruídos e transbordamentos."
+   "titulo": "Erro 4: Não Calcular a Vazão de Projeto",
+   "corpo": "O dimensionamento correto começa com a vazão de projeto, que depende da intensidade pluviométrica local e do período de retorno adequado ao risco da edificação (residencial, comercial ou industrial). Errar essa conta é o erro mais comum e o mais caro de corrigir depois da construção. A NBR 10844 orienta cada etapa."
   },
   {
-   "titulo": "Comprometer a segurança e valorização do imóvel",
-   "corpo": "A aplicação correta da NBR 10844 não é um detalhe, mas um fator essencial de segurança e valorização do imóvel. Ela garante que a água da chuva seja captada e escoada de forma controlada, protegendo a edificação contra infiltrações, danos estruturais e erosão no entorno."
+   "titulo": "Erro 5: Subestimar o Impacto da Chuva",
+   "corpo": "Com eventos de chuva cada vez mais intensos e concentrados, aplicar corretamente a NBR 10844 deixou de ser um detalhe e virou fator de segurança e valorização do imóvel. Um projeto de drenagem pluvial bem executado, assinado por engenheiro com ART no CREA, protege sua edificação de danos estruturais e financeiros."
   }
  ],
- "cta_titulo": "Não deixe a chuva virar problema!",
- "cta_corpo": "Invista em um projeto de drenagem pluvial predial conforme a NBR 10844. Fale com a GreenGold Engenharia e garanta a segurança e durabilidade da sua edificação com ART no CREA.",
- "legenda": "Sua edificação está preparada para as chuvas intensas? A NBR 10844 é a diretriz para um sistema de drenagem pluvial predial eficiente, evitando danos e valorizando seu imóvel. Um projeto bem executado pela GreenGold Engenharia, com ART no CREA, garante a segurança e funcionalidade.\n#EngenhariaCivil #DrenagemPluvial #NBR10844 #InstalacoesPrediais #BIM #ProjetoDeEngenharia #SegurancaPredial #GreenGoldEngenharia"
+ "cta_titulo": "Não deixe a chuva danificar seu patrimônio!",
+ "cta_corpo": "Invista em um projeto de drenagem pluvial predial conforme a NBR 10844. Fale com a GreenGold Engenharia para uma avaliação técnica e garanta a segurança e a longevidade da sua edificação.",
+ "legenda": "A NBR 10844 é a sua aliada contra os transtornos da chuva. Garanta que sua edificação esteja preparada para os dias mais chuvosos, protegendo seu investimento e evitando problemas futuros. Conte com a GreenGold Engenharia para projetos de drenagem pluvial de alta qualidade. #DrenagemPluvial #NBR10844 #EngenhariaCivil #InstalacoesPrediais #ProjetoDeDrenagem #SegurancaPredial #GreenGoldEngenharia #BIM"
 }
