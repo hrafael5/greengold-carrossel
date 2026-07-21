@@ -1,0 +1,32 @@
+{
+ "formato": "erros",
+ "tema_foto": "projeto",
+ "capa_kicker": "NBR 16280",
+ "capa_titulo": "Sua reforma exige ART e plano!",
+ "capa_subtitulo": "Qualquer alteração em seu imóvel predial agora pede um responsável técnico. Entenda as novas regras e evite riscos.",
+ "slides": [
+  {
+   "titulo": "Pequenos reparos ou grandes obras: a NBR 16280 se aplica a tudo.",
+   "corpo": "A NBR 16280 define que reforma é qualquer alteração das características originais da edificação ou de suas partes. Isso inclui desde mexer em tubulação de água ou esgoto, ampliar a carga elétrica, remover ou abrir vãos em paredes, até impermeabilizar áreas ou instalar equipamentos pesados."
+  },
+  {
+   "titulo": "Obrigação legal: o plano de reforma e a ART.",
+   "corpo": "A NBR 16280 exige um plano de reforma documentado, elaborado por profissional habilitado, antes de qualquer intervenção. Este plano deve detalhar escopo, cronograma, materiais e sistemas afetados, garantindo a segurança e o desempenho do prédio."
+  },
+  {
+   "titulo": "O papel do síndico e o embargo da obra.",
+   "corpo": "O síndico possui o dever legal de exigir a documentação completa, incluindo o plano de reforma e a ART, antes de liberar qualquer obra. A ausência desses documentos pode resultar em embargo da reforma, impedindo o acesso de materiais e profissionais ao condomínio."
+  },
+  {
+   "titulo": "Consequências técnicas de uma reforma irregular.",
+   "corpo": "Reformas sem acompanhamento técnico podem gerar problemas graves. Exemplos incluem vazamentos por corte indevido de prumadas, trincas em paredes estruturais que foram demolidas, ou sobrecarga elétrica por ampliação de pontos sem redimensionamento de cabos e quadro."
+  },
+  {
+   "titulo": "Multas, embargos e responsabilidade legal.",
+   "corpo": "Ignorar a NBR 16280 não é economia, mas sim um risco significativo. A não conformidade pode levar a multas, embargos da obra, e até responsabilização civil e criminal do proprietário e do síndico em caso de acidentes ou danos ao patrimônio."
+  }
+ ],
+ "cta_titulo": "Reforme seu imóvel com segurança e conformidade!",
+ "cta_corpo": "A GreenGold Engenharia Multidisciplinar é especialista em planos de reforma, projetos elétricos, hidráulicos, SPDA e PPCI, emitindo a ART necessária para sua tranquilidade. Fale conosco para um orçamento.",
+ "legenda": "Não arrisque sua segurança e seu patrimônio com reformas irregulares! A NBR 16280 é clara: toda alteração exige um plano e um engenheiro responsável. Evite dores de cabeça, multas e acidentes, garantindo que sua obra esteja em conformidade desde o início com a GreenGold Engenharia.\n#NBR16280 #ReformaSegura #EngenhariaCivil #ART #PlanoDeReforma #Condominio #SegurancaPredial #GreenGoldEngenharia"
+}
