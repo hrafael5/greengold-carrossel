@@ -2,31 +2,31 @@
  "formato": "passo a passo",
  "tema_foto": "projeto",
  "capa_kicker": "NBR 10844",
- "capa_titulo": "Sua edificação está pronta para a chuva?",
- "capa_subtitulo": "Entenda como a norma de drenagem pluvial evita transbordamentos, infiltrações e problemas estruturais.",
+ "capa_titulo": "A norma de drenagem que evita inundações no seu prédio",
+ "capa_subtitulo": "Entenda por que um projeto correto é crucial para a segurança e valorização do seu imóvel.",
  "slides": [
   {
-   "titulo": "O que é drenagem pluvial predial?",
-   "corpo": "Drenagem pluvial predial é o conjunto de calhas, condutores verticais, condutores horizontais, ralos, caixas de areia e áreas de captação que recolhe a água da chuva sobre telhados, lajes, terraços e pátios de uma edificação e a conduz, de forma controlada, até a rede pública, o sistema de infiltração ou o corpo receptor."
+   "titulo": "Entenda a Drenagem Pluvial Predial",
+   "corpo": "Drenagem pluvial predial é o conjunto de calhas, condutores verticais, condutores horizontais, ralos, caixas de areia e áreas de captação que recolhe a água da chuva sobre telhados, lajes, terraços e pátios de uma edificação. Ela conduz a água, de forma controlada, até a rede pública, o sistema de infiltração ou o corpo receptor, evitando danos."
   },
   {
-   "titulo": "A função da NBR 10844",
-   "corpo": "A NBR 10844 é a norma técnica brasileira que fixa as exigências de projeto, execução e manutenção das instalações prediais de águas pluviais, garantindo que a água da chuva seja captada e escoada em níveis aceitáveis de funcionalidade e segurança."
+   "titulo": "O Papel Essencial da NBR 10844",
+   "corpo": "A NBR 10844 é a norma técnica brasileira que fixa as exigências de projeto, execução e manutenção das instalações prediais de águas pluviais. Ela garante que a água da chuva seja captada e escoada em níveis aceitáveis de funcionalidade e segurança, prevenindo problemas como transbordamento e infiltrações, que podem comprometer a estrutura do imóvel."
   },
   {
-   "titulo": "Sinais de um problema no sistema",
-   "corpo": "Calhas que transbordam, água escorrendo pela fachada, infiltrações em lajes e forros, ou poças em terraços são sinais de falha. Condutores ruidosos e erosão no entorno também indicam problemas no dimensionamento ou manutenção, que a NBR 10844 busca evitar."
+   "titulo": "Identifique Problemas Comuns",
+   "corpo": "Calhas que transbordam, água escorrendo pela fachada, infiltração em lajes de cobertura e poças que não escoam em terraços são sinais claros de falhas no sistema. Condutores verticais que 'engasgam' e ruídos de vazão sob chuva intensa também indicam um sistema mal dimensionado ou envelhecido, necessitando de atenção técnica especializada."
   },
   {
-   "titulo": "O ponto de partida: vazão de projeto",
-   "corpo": "O dimensionamento correto começa pela vazão de projeto. Ela depende da intensidade pluviométrica local e do período de retorno, multiplicada pela área de contribuição da cobertura, incluindo parcelas de paredes. Errar essa conta é o erro mais comum e caro de corrigir."
+   "titulo": "Comece pelo Dimensionamento Correto",
+   "corpo": "O dimensionamento correto do sistema de drenagem começa pela vazão de projeto, que depende da intensidade pluviométrica local e do período de retorno escolhido, multiplicada pela área de contribuição da cobertura. Errar essa conta é o erro mais comum e, também, o mais custoso de corrigir após a edificação estar pronta ou em uso."
   },
   {
-   "titulo": "Sequência técnica da NBR 10844",
-   "corpo": "Um bom projeto de águas pluviais, conforme a NBR 10844, exige levantar a intensidade pluviométrica local, calcular a área de contribuição e determinar a vazão de projeto para cada trecho de captação, assegurando a funcionalidade do sistema."
+   "titulo": "Os Passos para um Projeto Eficaz",
+   "corpo": "Para um bom projeto, a NBR 10844 orienta uma sequência técnica rigorosa. É preciso levantar a intensidade pluviométrica local e o período de retorno adequado ao risco da edificação, calcular a área de contribuição de cada água do telhado (somando as parcelas de parede) e determinar a vazão de projeto de cada trecho de captação."
   }
  ],
- "cta_titulo": "Seu sistema de drenagem está em dia?",
- "cta_corpo": "Evite prejuízos, riscos e dores de cabeça com um projeto de drenagem pluvial conforme a NBR 10844. Fale com a GreenGold Engenharia para uma avaliação e solução personalizada.",
- "legenda": "Chuva forte não precisa ser sinônimo de dor de cabeça. Um sistema de drenagem pluvial bem dimensionado, seguindo a NBR 10844, é essencial para a segurança e valorização do seu imóvel. Garanta a proteção da sua edificação com quem entende do assunto. #EngenhariaCivil #DrenagemPluvial #NBR10844 #InstalacoesPrediais #GreenGoldEngenharia #SegurancaPredial #ProjetoDeEngenharia #ConstrucaoCivil"
+ "cta_titulo": "Não deixe a chuva virar dor de cabeça!",
+ "cta_corpo": "Garanta a segurança e a valorização do seu imóvel com um projeto de drenagem pluvial que segue a NBR 10844. Fale com a GreenGold Engenharia para uma solução profissional e com ART no CREA.",
+ "legenda": "A NBR 10844 é a base para um sistema de drenagem pluvial predial eficiente, protegendo sua edificação contra os efeitos das chuvas intensas. Um projeto bem executado evita problemas como inundações, infiltrações e danos estruturais, assegurando a funcionalidade e a durabilidade do seu patrimônio. Invista na engenharia de qualidade para a tranquilidade do seu dia a dia.\n#DrenagemPluvial #EngenhariaCivil #NBR10844 #InstalacoesPrediais #SegurancaPredial #ProjetoDeEngenharia #GreenGoldEngenharia #ConstrucaoCivil"
 }
