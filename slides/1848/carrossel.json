@@ -1,32 +1,32 @@
 {
- "formato": "Passo a Passo",
+ "formato": "Passo a passo",
  "tema_foto": "projeto",
  "capa_kicker": "NBR 16280",
- "capa_titulo": "Atenção: Sua reforma exige plano, ART e engenheiro!",
- "capa_subtitulo": "Evite multas e embargos: saiba o que mudou e como se adequar.",
+ "capa_titulo": "Sua reforma exige plano e engenheiro!",
+ "capa_subtitulo": "Entenda as novas regras para evitar multas e acidentes em sua edificação.",
  "slides": [
   {
    "titulo": "O que é a NBR 16280?",
-   "corpo": "A NBR 16280 da ABNT estabelece o sistema de gestão de reformas em edificações, exigindo um plano documentado, responsável técnico habilitado e ART ou RRT antes de qualquer intervenção. Ela se aplica a unidades autônomas, áreas comuns, edificações comerciais e industriais, garantindo a segurança e o desempenho do prédio."
+   "corpo": "A NBR 16280 é a norma da ABNT que estabelece o sistema de gestão de reformas em edificações. Ela define que toda reforma, antes de começar, precisa de um plano documentado, de um responsável técnico habilitado e do registro formal da responsabilidade por meio da ART (engenheiro) ou RRT (arquiteto). Reforma, no texto da norma, não é só a obra grande, mas qualquer alteração das características originais do imóvel ou de suas partes."
   },
   {
-   "titulo": "Qual reforma precisa de plano e ART?",
-   "corpo": "Qualquer alteração nas características originais do imóvel, como mexer em tubulações de água ou esgoto, ampliar a carga elétrica, remover paredes ou abrir vãos, impermeabilizar áreas ou instalar equipamentos pesados, exige o cumprimento da NBR 16280. Mesmo pequenas mudanças podem afetar a segurança estrutural ou dos sistemas prediais."
+   "titulo": "Quando a NBR 16280 se aplica?",
+   "corpo": "A norma se aplica se a intervenção toca em qualquer sistema que afeta a segurança e o desempenho do prédio, exigindo o processo formal antes do primeiro dia de trabalho. A regra vale para unidades autônomas (apartamentos e salas), para áreas comuns de condomínios e para edificações comerciais e industriais. Em condomínios, o síndico tem o dever legal de exigir a documentação e de recusar o início de obras sem o plano de reforma."
   },
   {
    "titulo": "Os riscos de ignorar a norma",
-   "corpo": "Ignorar a NBR 16280 não é economia; é risco de multas, embargos e responsabilização civil e criminal em caso de acidentes. Falhas como vazamentos por corte indevido de prumada, quedas de disjuntor por sobrecarga ou trincas em paredes estruturais são sintomas comuns de reformas irregulares, comprometendo a segurança de todos."
+   "corpo": "Ignorar essa exigência não é economia: é risco de multa, de embargo e de responsabilização civil e criminal em caso de acidente. Os sintomas de uma reforma feita sem cumprir a norma aparecem cedo, como vazamentos que atingem a unidade de baixo por corte indevido de prumada, quedas de disjuntor por sobrecarga ou trincas em paredes que eram estruturais e foram demolidas."
   },
   {
-   "titulo": "O papel do síndico e do profissional",
-   "corpo": "Em condomínios, o síndico tem o dever legal de exigir a documentação e recusar o início de obras sem o plano de reforma. Esse processo formal, incluindo a ART de um engenheiro ou RRT de um arquiteto, assegura que a intervenção seja segura e esteja em conformidade com as normas técnicas vigentes."
+   "titulo": "O papel do engenheiro e da ART",
+   "corpo": "O núcleo do processo de conformidade é o plano de reforma, elaborado e assinado por profissional habilitado. A Anotação de Responsabilidade Técnica (ART) é o registro formal da responsabilidade por meio do engenheiro (ou RRT do arquiteto). A ausência de plano de reforma e de ART é a não conformidade que, sozinha, autoriza o embargo da obra, impedindo o prosseguimento dos trabalhos."
   },
   {
-   "titulo": "Como cumprir a NBR 16280: o plano de reforma",
-   "corpo": "O cumprimento da NBR 16280 transforma a intenção de reforma em um documento técnico. O processo começa com o levantamento e diagnóstico do imóvel por um engenheiro, seguido pela elaboração de um plano detalhado que descreve escopo, cronograma, materiais e os sistemas afetados, garantindo a segurança da edificação."
+   "titulo": "O plano de reforma passo a passo",
+   "corpo": "Cumprir a NBR 16280 é transformar a intenção de reforma em um documento técnico que qualquer engenheiro consegue ler, executar e fiscalizar. Primeiro, há o levantamento e diagnóstico: o engenheiro visita o imóvel, identifica o que é estrutural, mapeia as prumadas hidráulicas e o quadro elétrico existente e verifica a documentação original. Em seguida, ocorre a elaboração do plano de reforma: documento que descreve o escopo, o cronograma, os materiais, os sistemas afetados e os cuidados de segurança."
   }
  ],
- "cta_titulo": "Sua reforma em conformidade e segura!",
- "cta_corpo": "Garanta a segurança do seu patrimônio e evite problemas legais. A GreenGold Engenharia elabora o plano de reforma e a ART, cuidando de cada detalhe para você.",
- "legenda": "A NBR 16280 é a sua garantia de uma reforma segura e sem dores de cabeça. Desde a troca de um registro até a remoção de uma parede, cumpra a norma e proteja seu imóvel e sua família. Conte com a GreenGold Engenharia para um projeto completo e a ART necessária.\n#NBR16280 #ReformaSegura #EngenhariaCivil #ART #PlanoDeReforma #GreenGoldEngenharia #Condomínio #SegurançaPredial"
+ "cta_titulo": "Reforme com segurança e tranquilidade.",
+ "cta_corpo": "Evite dores de cabeça, multas e acidentes. Conte com a GreenGold Engenharia para um plano de reforma completo e a ART necessária para sua obra. Fale conosco!",
+ "legenda": "Antes de iniciar qualquer reforma em seu imóvel, seja em apartamento ou área comum, é essencial conhecer a NBR 16280. Esta norma garante a segurança da edificação e de seus ocupantes, exigindo um plano detalhado e a Anotação de Responsabilidade Técnica (ART) de um profissional habilitado. Não arrisque sua segurança e seu patrimônio, conte com especialistas! #NBR16280 #ReformaSegura #EngenhariaCivil #ART #PlanoDeReforma #GreenGoldEngenharia #SegurancaPredial #ConstrucaoCivil"
 }
