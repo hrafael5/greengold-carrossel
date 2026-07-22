@@ -1,32 +1,32 @@
 {
- "formato": "Passo a passo",
+ "formato": "mitos_x_verdades",
  "tema_foto": "projeto",
  "capa_kicker": "NBR 16280",
- "capa_titulo": "Sua reforma exige plano e engenheiro!",
- "capa_subtitulo": "Entenda as novas regras para evitar multas e acidentes em sua edificação.",
+ "capa_titulo": "Sua reforma exige plano, engenheiro e ART!",
+ "capa_subtitulo": "Descubra o que você precisa saber antes de iniciar qualquer intervenção no seu imóvel, evitando multas e acidentes.",
  "slides": [
   {
-   "titulo": "O que é a NBR 16280?",
-   "corpo": "A NBR 16280 é a norma da ABNT que estabelece o sistema de gestão de reformas em edificações. Ela define que toda reforma, antes de começar, precisa de um plano documentado, de um responsável técnico habilitado e do registro formal da responsabilidade por meio da ART (engenheiro) ou RRT (arquiteto). Reforma, no texto da norma, não é só a obra grande, mas qualquer alteração das características originais do imóvel ou de suas partes."
+   "titulo": "Reforma não é só obra grande",
+   "corpo": "A NBR 16280 define reforma como qualquer alteração das características originais da edificação ou de suas partes. Mexer em tubulação de água, ampliar carga elétrica, remover paredes ou trocar pisos que aumentem a carga permanente são exemplos de intervenções que exigem plano e ART, conforme a norma da ABNT."
   },
   {
-   "titulo": "Quando a NBR 16280 se aplica?",
-   "corpo": "A norma se aplica se a intervenção toca em qualquer sistema que afeta a segurança e o desempenho do prédio, exigindo o processo formal antes do primeiro dia de trabalho. A regra vale para unidades autônomas (apartamentos e salas), para áreas comuns de condomínios e para edificações comerciais e industriais. Em condomínios, o síndico tem o dever legal de exigir a documentação e de recusar o início de obras sem o plano de reforma."
+   "titulo": "O síndico precisa exigir a documentação",
+   "corpo": "Em condomínios, o síndico tem o dever legal de exigir a documentação e de recusar o início de obras sem o plano de reforma. Essa responsabilidade objetiva transformou a NBR 16280 em rotina de portaria: na prática, sem ART, o material da obra não entra no elevador de serviço."
   },
   {
-   "titulo": "Os riscos de ignorar a norma",
-   "corpo": "Ignorar essa exigência não é economia: é risco de multa, de embargo e de responsabilização civil e criminal em caso de acidente. Os sintomas de uma reforma feita sem cumprir a norma aparecem cedo, como vazamentos que atingem a unidade de baixo por corte indevido de prumada, quedas de disjuntor por sobrecarga ou trincas em paredes que eram estruturais e foram demolidas."
+   "titulo": "Ignorar a norma traz riscos sérios",
+   "corpo": "Não cumprir a NBR 16280 não é economia. É risco de multa, de embargo da obra e de responsabilização civil e criminal em caso de acidente. Vazamentos, quedas de disjuntor por sobrecarga ou trincas em paredes estruturais são sintomas comuns de reformas irregulares."
   },
   {
-   "titulo": "O papel do engenheiro e da ART",
-   "corpo": "O núcleo do processo de conformidade é o plano de reforma, elaborado e assinado por profissional habilitado. A Anotação de Responsabilidade Técnica (ART) é o registro formal da responsabilidade por meio do engenheiro (ou RRT do arquiteto). A ausência de plano de reforma e de ART é a não conformidade que, sozinha, autoriza o embargo da obra, impedindo o prosseguimento dos trabalhos."
+   "titulo": "O que o plano de reforma deve conter",
+   "corpo": "O plano de reforma, elaborado por profissional habilitado, descreve o escopo, cronograma, materiais e os sistemas afetados (hidráulico, elétrico, esgoto, estrutura). Inclui também os cuidados de segurança durante a obra, garantindo que a intenção da reforma seja um documento técnico claro e executável."
   },
   {
-   "titulo": "O plano de reforma passo a passo",
-   "corpo": "Cumprir a NBR 16280 é transformar a intenção de reforma em um documento técnico que qualquer engenheiro consegue ler, executar e fiscalizar. Primeiro, há o levantamento e diagnóstico: o engenheiro visita o imóvel, identifica o que é estrutural, mapeia as prumadas hidráulicas e o quadro elétrico existente e verifica a documentação original. Em seguida, ocorre a elaboração do plano de reforma: documento que descreve o escopo, o cronograma, os materiais, os sistemas afetados e os cuidados de segurança."
+   "titulo": "Erros típicos em reformas sem conformidade",
+   "corpo": "Remoção de parede sem verificar sua função estrutural, ampliação de pontos elétricos sem recalcular a carga ou furos em vigas e lajes sem análise estrutural são não conformidades graves. A ausência de plano de reforma e de ART, por si só, já autoriza o embargo da obra."
   }
  ],
- "cta_titulo": "Reforme com segurança e tranquilidade.",
- "cta_corpo": "Evite dores de cabeça, multas e acidentes. Conte com a GreenGold Engenharia para um plano de reforma completo e a ART necessária para sua obra. Fale conosco!",
- "legenda": "Antes de iniciar qualquer reforma em seu imóvel, seja em apartamento ou área comum, é essencial conhecer a NBR 16280. Esta norma garante a segurança da edificação e de seus ocupantes, exigindo um plano detalhado e a Anotação de Responsabilidade Técnica (ART) de um profissional habilitado. Não arrisque sua segurança e seu patrimônio, conte com especialistas! #NBR16280 #ReformaSegura #EngenhariaCivil #ART #PlanoDeReforma #GreenGoldEngenharia #SegurancaPredial #ConstrucaoCivil"
+ "cta_titulo": "Evite problemas na sua reforma!",
+ "cta_corpo": "A GreenGold Engenharia entrega o projeto e a ART da sua reforma, garantindo segurança e conformidade com a NBR 16280. Fale com nossos especialistas.",
+ "legenda": "Sua reforma precisa de atenção e conformidade! A NBR 16280 é clara: qualquer alteração no seu imóvel exige plano, engenheiro e ART. Não arrisque multas ou acidentes, garanta a segurança e a legalidade da sua obra com a GreenGold Engenharia.\n#NBR16280 #ReformaSegura #ART #EngenhariaCivil #GreenGoldEngenharia #ProjetosPrediais #SegurancaNaObra #Condominio"
 }
