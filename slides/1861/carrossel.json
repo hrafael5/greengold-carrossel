@@ -1,32 +1,32 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "Revisão NBR 16690",
- "capa_titulo": "Projetos Solares: O que muda com a nova norma para evitar riscos?",
- "capa_subtitulo": "A atualização da NBR 16690 visa elevar a segurança das instalações fotovoltaicas, especialmente contra incêndios elétricos, alinhando-se a padrões internacionais e outras normas como a NBR 5410.",
+ "capa_kicker": "NBR 16690",
+ "capa_titulo": "A norma do seu projeto solar está MUDANDO!",
+ "capa_subtitulo": "Descubra o que a revisão da NBR 16690 significa para a segurança e conformidade das instalações fotovoltaicas em edificações.",
  "slides": [
   {
-   "titulo": "O que é a NBR 16690 e por que ela está em revisão?",
-   "corpo": "A NBR 16690 — Instalações elétricas de arranjos fotovoltaicos — Requisitos de projeto — é a norma da ABNT que estabelece as regras mínimas para a parte de corrente contínua (CC) de um sistema solar. Publicada em outubro de 2019, está em revisão para incorporar exigências internacionais, alinhar-se à NBR 5410 e, sobretudo, tratar do risco de incêndio de origem elétrica."
+   "titulo": "Entendendo a NBR 16690",
+   "corpo": "A NBR 16690, publicada em outubro de 2019 após quase sete anos de trabalho técnico, estabelece os requisitos mínimos para o projeto das instalações elétricas de arranjos fotovoltaicos. Ela padroniza a segurança para a parte de corrente contínua (CC) do sistema, incluindo condutores, proteção e aterramento, essencial para sistemas que operam com centenas de volts em telhados de edificações ocupadas."
   },
   {
-   "titulo": "A Origem dos Riscos em Sistemas Fotovoltaicos",
-   "corpo": "Com a explosão da geração distribuída a partir da segunda metade da década de 2010, muitas instalações foram feitas sem padronização ou critérios de segurança nacionais. Esse cenário perigoso, com sistemas operando em centenas de volts no telhado, levou à demanda por uma norma como a NBR 16690."
+   "titulo": "Por Que a Revisão Agora?",
+   "corpo": "A revisão da NBR 16690 busca incorporar exigências internacionais e alinhar-se à atualização da NBR 5410, além de focar em um risco crescente: o incêndio de origem elétrica. O objetivo é acompanhar a evolução do setor e de normas correlatas, garantindo que o documento nacional reflita as melhores práticas para a segurança de projetos fotovoltaicos."
   },
   {
-   "titulo": "Sinais de Alerta de um Sistema Fora de Norma (Parte 1)",
-   "corpo": "A ausência de dispositivo de seccionamento CC acessível para bombeiros e manutenção é um sintoma crítico de não conformidade. Outro indicativo é a falta de dimensionamento ou proteção contra sobrecorrente adequada para os condutores do lado CC do sistema fotovoltaico."
+   "titulo": "Riscos de um Projeto Não Conforme",
+   "corpo": "Um sistema fotovoltaico fora de conformidade pode apresentar ausência de dispositivo de seccionamento CC acessível, condutores sem dimensionamento ou proteção adequada, e falta de projeto de aterramento coordenado com o SPDA da edificação. Tais falhas, muitas vezes invisíveis na instalação, podem manifestar-se meses depois como falhas de isolamento, arcos elétricos ou reprovação em vistorias."
   },
   {
-   "titulo": "Sinais de Alerta de um Sistema Fora de Norma (Parte 2)",
-   "corpo": "A falta de um projeto de aterramento e proteção contra surtos, coordenado com o SPDA da edificação, compromete a segurança. Strings mal dimensionadas, gerando tensões acima do limite dos equipamentos, e a ausência de um projeto elétrico assinado com ART registrada, são falhas graves."
+   "titulo": "Integração com Outras Normas",
+   "corpo": "A conformidade com a NBR 16690 é um processo de engenharia, exigindo que o projeto do lado CC dialogue com diversas normas. A edição em elaboração reforça essa integração, buscando sinergia com a NBR 5410 (instalações elétricas de baixa tensão), a NBR IEC 61643-32 (proteção contra surtos em sistemas fotovoltaicos) e normas em desenvolvimento sobre aterramento e SPDA específicos para geração solar."
   },
   {
-   "titulo": "Como Garantir Conformidade e Segurança",
-   "corpo": "Atender aos requisitos da NBR 16690 é um processo de engenharia que exige integração com outras normas, como a NBR 5410 e a NBR IEC 61643-32. Um levantamento e análise de risco da edificação, telhado e exposição a descargas atmosféricas são fundamentais para definir a proteção necessária."
+   "titulo": "Quem Pode Assinar o Projeto?",
+   "corpo": "Para garantir a segurança e conformidade legal, um projeto fotovoltaico deve ser assinado por um profissional qualificado, com registro de Anotação de Responsabilidade Técnica (ART) no CREA. A falta de um projeto elétrico assinado e ART registrada é um sintoma comum de sistemas instalados sem coordenação de engenharia, gerando passivos técnicos e legais para o proprietário."
   }
  ],
- "cta_titulo": "Garanta a Segurança e Conformidade do seu Projeto Solar!",
- "cta_corpo": "Evite riscos e passivos. Conte com a GreenGold Engenharia para um projeto fotovoltaico dentro das normas, assinado por profissionais com ART no CREA. Fale com nossos especialistas.",
- "legenda": "A NBR 16690 está em revisão e isso impacta diretamente a segurança e a conformidade dos projetos fotovoltaicos. Entender as mudanças é crucial para evitar problemas futuros, como falhas elétricas e incêndios. Invista em um projeto de engenharia de qualidade para sua instalação solar.\n#EngenhariaEletrica #EnergiaSolar #Fotovoltaico #NBR16690 #ABNT #SegurancaEletrica #ProjetosEletricos #GreenGoldEngenharia"
+ "cta_titulo": "Mantenha seu projeto solar em dia!",
+ "cta_corpo": "A GreenGold Engenharia garante que suas instalações fotovoltaicas atendam às mais recentes normas técnicas, incluindo a NBR 16690. Fale com nossos especialistas para um projeto seguro e certificado.",
+ "legenda": "A revisão da NBR 16690 está redefinindo os padrões para instalações fotovoltaicas, impactando projetos em casas, condomínios e indústrias. Garanta que seu sistema solar esteja em conformidade com as novas exigências para evitar riscos e assegurar a longevidade do investimento. Conte com a GreenGold Engenharia para um projeto elétrico e fotovoltaico com ART no CREA, atendendo todas as normas.\n#EngenhariaEletrica #EnergiaSolar #Fotovoltaico #NBR16690 #ProjetoEletrico #InstalacoesPrediais #CREA #GreenGoldEngenharia"
 }
