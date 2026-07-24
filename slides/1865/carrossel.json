@@ -1,32 +1,32 @@
 {
- "formato": "Passo a passo",
+ "formato": "erros",
  "tema_foto": "projeto",
  "capa_kicker": "Nova NBR 17076",
- "capa_titulo": "O QUE MUDA no tratamento de esgoto?",
- "capa_subtitulo": "A ABNT unificou as normas de fossa séptica e sumidouro. Entenda as novas regras para seu projeto!",
+ "capa_titulo": "O Fim da Fossa Séptica e Sumidouro?",
+ "capa_subtitulo": "A NBR 17076 substitui as antigas normas 7229 e 13969. Entenda o que muda no tratamento de esgoto e evite problemas.",
  "slides": [
   {
-   "titulo": "Compreenda a NBR 17076",
-   "corpo": "A NBR 17076 unifica os requisitos para projeto de sistemas de tratamento de esgoto sanitário de menor porte, até 12.000 litros por dia, sem ligação à rede pública. Ela substitui as antigas NBR 7229:1993 (tanque séptico) e NBR 13969:1997 (tratamento complementar e disposição final). Esta consolidação moderniza as práticas de saneamento descentralizado, evitando lacunas técnicas e inconsistências."
+   "titulo": "Unificação para Mais Clareza",
+   "corpo": "A NBR 17076, publicada pela ABNT, consolida os requisitos para projeto de sistemas de tratamento de esgoto sanitário de menor porte, até 12.000 litros/dia. Ela substitui as defasadas NBR 7229 (de 1993, sobre tanques sépticos) e NBR 13969 (de 1997, sobre tratamento complementar e disposição final). Essa unificação resolve lacunas técnicas e garante projetos mais consistentes."
   },
   {
-   "titulo": "Quando a nova norma se aplica",
-   "corpo": "A NBR 17076 é essencial para edificações que geram esgoto sanitário e não possuem rede coletora pública. Isso inclui áreas rurais, condomínios afastados, chácaras, pousadas e pequenas indústrias. É aplicada em sistemas com contribuição diária de até 12.000 litros. Acima desse limite, outras referências para estações de tratamento de maior porte são exigidas."
+   "titulo": "Quem é Afetado pela Nova Regra?",
+   "corpo": "A norma se aplica a edificações que geram esgoto sanitário e não possuem ligação com a rede pública, como em áreas rurais, condomínios afastados, chácaras e pequenas indústrias. Ela disciplina o tratamento local do esgoto antes da infiltração ou descarte. O limite de aplicação é para sistemas com contribuição diária de até 12.000 litros por dia."
   },
   {
-   "titulo": "Riscos de um sistema fora da norma",
-   "corpo": "Sistemas inadequados geram odor persistente, retorno de esgoto em ralos, poças permanentes no solo e contaminação do lençol freático, alterando cor, gosto ou odor da água de poço. Uma \"fossa rudimentar\" (buraco no chão) não trata o esgoto e infiltra material bruto. A ausência de projeto e ART impede a regularização da edificação e a obtenção de licenças, gerando riscos legais, técnicos e financeiros."
+   "titulo": "Condição Essencial para Regularização",
+   "corpo": "Para quem constrói ou reforma fora da malha de esgotamento sanitário, entender a nova NBR 17076 é agora condição essencial para aprovar projetos e obter licenças. A ausência de um projeto adequado e da Anotação de Responsabilidade Técnica (ART) impede a regularização da edificação, gerando riscos legais e entraves burocráticos."
   },
   {
-   "titulo": "Etapas do tratamento conforme a NBR",
-   "corpo": "A NBR 17076 organiza o tratamento em fases claras e sequenciais, que reduzem progressivamente a carga poluente do esgoto. Um projeto adequado não é apenas uma fossa isolada, mas um conjunto de unidades. O documento descreve cada etapa e os critérios de dimensionamento, garantindo que o efluente possa ser disposto com segurança, protegendo o meio ambiente."
+   "titulo": "Sinais de Alerta e Consequências",
+   "corpo": "Um sistema fora de conformidade pode apresentar odor persistente, retorno de esgoto em ralos ou poças no quintal, mesmo sem chuva. Mais grave, pode contaminar o lençol freático, alterando cor, gosto ou odor da água de poço. Fossa 'rudimentar' (buraco no chão) não trata o esgoto e infiltra material bruto, sendo um risco ambiental e sanitário grave."
   },
   {
-   "titulo": "A importância do engenheiro habilitado",
-   "corpo": "Entender a nova norma é condição para aprovar projetos e obter licenças. Somente um engenheiro habilitado, com registro no CREA, pode desenvolver um projeto de esgoto sanitário em conformidade com a NBR 17076. A emissão da Anotação de Responsabilidade Técnica (ART) é fundamental para a segurança e a legalidade do sistema, garantindo a solução correta e evitando problemas."
+   "titulo": "O Projeto Segundo a NBR 17076",
+   "corpo": "A NBR 17076 organiza o tratamento em fases claras e sequenciais, cada uma com função específica, não sendo apenas uma fossa isolada. O projeto adequado é um conjunto de unidades que reduzem progressivamente a carga poluente do esgoto até que o efluente possa ser disposto com segurança, garantindo eficácia e segurança ambiental."
   }
  ],
- "cta_titulo": "Seu projeto de esgoto em conformidade!",
- "cta_corpo": "Evite multas, contaminação e problemas de licenciamento. Fale com a GreenGold Engenharia e garanta um sistema seguro e legalizado, com ART.",
- "legenda": "A nova NBR 17076 unifica as normas de tratamento de esgoto, substituindo a fossa séptica e o sumidouro. Garanta que seu projeto esteja atualizado e em conformidade. Conte com a GreenGold Engenharia para soluções eficientes e com ART no CREA. #EngenhariaCivil #Saneamento #NBR17076 #TratamentoDeEsgoto #GreenGoldEngenharia #ProjetosDeEngenharia #Sustentabilidade #Construcao"
+ "cta_titulo": "Adeque seu projeto à NBR 17076!",
+ "cta_corpo": "A GreenGold Engenharia Multidisciplinar é especialista em projetos de instalações prediais, incluindo sistemas de tratamento de esgoto sanitário. Contamos com engenheiros habilitados e emitimos ART para todos os nossos serviços.",
+ "legenda": "A NBR 17076 chegou para modernizar o tratamento de esgoto descentralizado, substituindo antigas normas e garantindo mais segurança e eficácia. Não deixe seu projeto desatualizado! A GreenGold Engenharia está pronta para te ajudar a adequar seu sistema às novas exigências e garantir a regularização da sua edificação.\n#NBR17076 #TratamentoDeEsgoto #Saneamento #EngenhariaCivil #BIM #ProjetosPrediais #GreenGoldEngenharia #ARTCREA"
 }
