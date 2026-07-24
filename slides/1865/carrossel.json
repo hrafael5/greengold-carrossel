@@ -1,32 +1,32 @@
 {
- "formato": "Erros comuns no tratamento de esgoto",
+ "formato": "passo a passo",
  "tema_foto": "projeto",
  "capa_kicker": "NBR 17076",
- "capa_titulo": "A norma mudou! O que você precisa saber?",
- "capa_subtitulo": "A nova NBR 17076 unifica requisitos para tratamento de esgoto, substituindo NBR 7229 e NBR 13969. Entenda o impacto para seu projeto.",
+ "capa_titulo": "O que muda no tratamento de esgoto?",
+ "capa_subtitulo": "A nova norma unifica requisitos e substitui NBR 7229 e 13969, exigindo atenção para projetos fora da rede pública.",
  "slides": [
   {
-   "titulo": "Legislação Desatualizada",
-   "corpo": "Por mais de duas décadas, o projeto de tratamento individual de esgoto dependia de duas normas separadas: a NBR 7229 (1993) para tanques sépticos e a NBR 13969 (1997) para tratamento complementar. A ausência de revisão gerou lacunas técnicas e margem para interpretações inconsistentes, resultando em projetos defasados e ineficazes."
+   "titulo": "Entenda a nova NBR 17076",
+   "corpo": "A NBR 17076 é a nova norma da ABNT para projeto de sistemas de tratamento de esgoto sanitário de menor porte, sem ligação com a rede pública, com contribuição diária de até 12.000 litros. Ela unifica os requisitos, substituindo as antigas NBR 7229:1993 (tanque séptico) e NBR 13969:1997 (tratamento complementar e disposição final)."
   },
   {
-   "titulo": "Unificação e Modernização",
-   "corpo": "A nova NBR 17076 consolida em um único documento os requisitos para projeto de sistemas de tratamento de esgoto sanitário de menor porte, com contribuição diária de até 12.000 litros. Ela substitui de uma vez as antigas NBR 7229 e NBR 13969, alinhando as práticas de saneamento descentralizado à realidade atual."
+   "titulo": "Modernização e fim das lacunas técnicas",
+   "corpo": "Por mais de duas décadas, projetistas lidavam com NBR 7229 e 13969, normas separadas e defasadas, que geravam lacunas técnicas e projetos inconsistentes. A NBR 17076 resolve isso, consolidando tudo em um documento único, moderno e alinhado às práticas atuais de saneamento descentralizado, garantindo clareza técnica."
   },
   {
-   "titulo": "Aplicação Essencial",
-   "corpo": "A norma se aplica a edificações que geram esgoto sanitário sem ligação à rede pública, comum em áreas rurais, condomínios afastados, chácaras e pequenas indústrias. É fundamental para sistemas com contribuição diária de até 12.000 litros, disciplinando o tratamento local antes da infiltração ou descarte."
+   "titulo": "Quando a norma é aplicada",
+   "corpo": "A norma é essencial para edificações que geram esgoto sanitário e não possuem conexão com a rede pública, como em áreas rurais, condomínios afastados, chácaras, pousadas e escolas de zona rural. O tratamento local, antes de infiltração no solo ou lançamento em corpo receptor, é disciplinado por esta norma."
   },
   {
-   "titulo": "Consequências Graves",
-   "corpo": "Projetos fora da NBR 17076 podem levar a odores persistentes, retorno de esgoto, solo encharcado e contaminação do lençol freático, alterando a água de poços. A ausência de projeto com ART impede a regularização da edificação e a obtenção de licenças, gerando riscos legais, técnicos e financeiros."
+   "titulo": "Riscos da não conformidade",
+   "corpo": "Projetos fora da nova NBR 17076 impedem a aprovação e obtenção de licenças, gerando riscos legais, técnicos e financeiros. Além disso, sistemas inadequados podem causar contaminação do solo e lençol freático, com sintomas como odor persistente, retorno de esgoto e poças permanentes na área de sumidouro."
   },
   {
-   "titulo": "Tratamento em Etapas",
-   "corpo": "Um projeto conforme a NBR 17076 não é apenas uma fossa, mas um conjunto sequencial de unidades que reduzem a carga poluente do esgoto. A norma descreve essas etapas e os critérios de dimensionamento, garantindo que o efluente seja disposto com segurança e eficácia, evitando problemas ambientais."
+   "titulo": "Etapas claras do tratamento",
+   "corpo": "A NBR 17076 organiza o tratamento em fases claras e sequenciais. Um projeto adequado não é apenas uma fossa, mas um conjunto de unidades que reduzem progressivamente a carga poluente do esgoto. Isso garante que o efluente possa ser disposto com segurança, protegendo o meio ambiente e a saúde pública."
   }
  ],
- "cta_titulo": "Seu projeto de esgoto está em dia?",
- "cta_corpo": "A GreenGold Engenharia elabora projetos de tratamento de esgoto conforme a nova NBR 17076, garantindo segurança, conformidade e eficiência. Fale com nossos especialistas.",
- "legenda": "A nova NBR 17076 chegou para transformar o tratamento de esgoto em edificações sem rede pública! Garanta a conformidade do seu projeto com as atualizações e evite problemas futuros. Invista em saneamento de qualidade e proteja o meio ambiente.\n#NBR17076 #SaneamentoBasico #TratamentoDeEsgoto #EngenhariaCivil #GreenGoldEngenharia #ProjetosDeEsgoto #MeioAmbiente #ConformidadeLegal"
+ "cta_titulo": "Não arrisque seu projeto!",
+ "cta_corpo": "Garanta a conformidade do seu sistema de tratamento de esgoto com a nova NBR 17076. Fale com a GreenGold Engenharia e evite problemas com licenças e contaminação.",
+ "legenda": "A NBR 17076 chegou para modernizar o tratamento de esgoto em edificações sem rede pública, substituindo normas antigas e exigindo projetos mais rigorosos. Na GreenGold Engenharia, somos especialistas em instalações prediais e garantimos seu projeto dentro das mais recentes exigências técnicas e legais. Conte com nossa equipe para um saneamento eficiente e seguro.\n#EngenhariaCivil #Saneamento #NBR17076 #TratamentoDeEsgoto #ProjetoDeEsgoto #GreenGoldEngenharia #ARTnoCREA #InstalacoesPrediais"
 }
