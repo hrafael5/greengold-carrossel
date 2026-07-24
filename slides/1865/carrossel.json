@@ -1,32 +1,32 @@
 {
- "formato": "checklist",
+ "formato": "Passo a passo",
  "tema_foto": "projeto",
- "capa_kicker": "NBR 17076",
- "capa_titulo": "A nova norma para tratamento de esgoto",
- "capa_subtitulo": "Substitui de vez a fossa séptica e o sumidouro (NBR 7229 e 13969).",
+ "capa_kicker": "Nova NBR 17076",
+ "capa_titulo": "O QUE MUDA no tratamento de esgoto?",
+ "capa_subtitulo": "A ABNT unificou as normas de fossa séptica e sumidouro. Entenda as novas regras para seu projeto!",
  "slides": [
   {
-   "titulo": "Entenda a NBR 17076",
-   "corpo": "A NBR 17076 é a norma técnica da ABNT que estabelece os requisitos para projeto de sistemas de tratamento de esgoto sanitário de menor porte, sem ligação com rede coletora pública. Ela se aplica a contribuições diárias de até 12.000 litros por dia, sendo crucial para residências, condomínios e pequenas indústrias."
+   "titulo": "Compreenda a NBR 17076",
+   "corpo": "A NBR 17076 unifica os requisitos para projeto de sistemas de tratamento de esgoto sanitário de menor porte, até 12.000 litros por dia, sem ligação à rede pública. Ela substitui as antigas NBR 7229:1993 (tanque séptico) e NBR 13969:1997 (tratamento complementar e disposição final). Esta consolidação moderniza as práticas de saneamento descentralizado, evitando lacunas técnicas e inconsistências."
   },
   {
-   "titulo": "O que a nova norma substitui?",
-   "corpo": "Por mais de duas décadas, projetistas lidavam com a NBR 7229:1993 (tanque séptico) e a NBR 13969:1997 (tratamento complementar). Essas normas defasadas e separadas geravam interpretações distintas e lacunas técnicas, resultando em projetos inconsistentes e riscos ambientais."
+   "titulo": "Quando a nova norma se aplica",
+   "corpo": "A NBR 17076 é essencial para edificações que geram esgoto sanitário e não possuem rede coletora pública. Isso inclui áreas rurais, condomínios afastados, chácaras, pousadas e pequenas indústrias. É aplicada em sistemas com contribuição diária de até 12.000 litros. Acima desse limite, outras referências para estações de tratamento de maior porte são exigidas."
   },
   {
-   "titulo": "Quem é afetado pela NBR 17076?",
-   "corpo": "A norma se aplica sempre que uma edificação gera esgoto sanitário e não pode se conectar à rede pública. Isso inclui áreas rurais, condomínios horizontais afastados, chácaras, sítios, pousadas, escolas em zonas rurais e pequenas indústrias em distritos sem infraestrutura de coleta."
+   "titulo": "Riscos de um sistema fora da norma",
+   "corpo": "Sistemas inadequados geram odor persistente, retorno de esgoto em ralos, poças permanentes no solo e contaminação do lençol freático, alterando cor, gosto ou odor da água de poço. Uma \"fossa rudimentar\" (buraco no chão) não trata o esgoto e infiltra material bruto. A ausência de projeto e ART impede a regularização da edificação e a obtenção de licenças, gerando riscos legais, técnicos e financeiros."
   },
   {
-   "titulo": "Por que a NBR 17076 é essencial?",
-   "corpo": "Entender e aplicar a NBR 17076 é condição para aprovar projetos e obter licenças, garantindo a conformidade legal. A norma visa evitar a contaminação de solo e lençol freático, protegendo o meio ambiente e a saúde pública contra efluentes não tratados adequadamente."
+   "titulo": "Etapas do tratamento conforme a NBR",
+   "corpo": "A NBR 17076 organiza o tratamento em fases claras e sequenciais, que reduzem progressivamente a carga poluente do esgoto. Um projeto adequado não é apenas uma fossa isolada, mas um conjunto de unidades. O documento descreve cada etapa e os critérios de dimensionamento, garantindo que o efluente possa ser disposto com segurança, protegendo o meio ambiente."
   },
   {
-   "titulo": "Sintomas de um sistema irregular",
-   "corpo": "Sinais de não conformidade incluem odor persistente de esgoto, retorno de efluente em ralos, poças permanentes ou solo encharcado sobre a área do sumidouro, e alteração na água de poço. A ausência de projeto e de ART também impede a regularização da edificação, gerando riscos legais e ambientais."
+   "titulo": "A importância do engenheiro habilitado",
+   "corpo": "Entender a nova norma é condição para aprovar projetos e obter licenças. Somente um engenheiro habilitado, com registro no CREA, pode desenvolver um projeto de esgoto sanitário em conformidade com a NBR 17076. A emissão da Anotação de Responsabilidade Técnica (ART) é fundamental para a segurança e a legalidade do sistema, garantindo a solução correta e evitando problemas."
   }
  ],
- "cta_titulo": "Adeque seu sistema de esgoto!",
- "cta_corpo": "Garanta conformidade, segurança ambiental e evite problemas com a nova NBR 17076. Fale com a GreenGold Engenharia para um projeto com ART.",
- "legenda": "A NBR 17076 unifica requisitos para tratamento de esgoto, substituindo normas antigas e trazendo mais segurança e clareza. Sua edificação está em dia com a legislação? Invista em projetos que garantem a saúde ambiental e a regularidade do seu empreendimento. Conte com a GreenGold Engenharia para adequar seu sistema.\n#NBR17076 #EngenhariaSanitaria #TratamentoDeEsgoto #SaneamentoBasico #ABNT #ProjetoDeEsgoto #GreenGoldEngenharia #ARTnoCREA"
+ "cta_titulo": "Seu projeto de esgoto em conformidade!",
+ "cta_corpo": "Evite multas, contaminação e problemas de licenciamento. Fale com a GreenGold Engenharia e garanta um sistema seguro e legalizado, com ART.",
+ "legenda": "A nova NBR 17076 unifica as normas de tratamento de esgoto, substituindo a fossa séptica e o sumidouro. Garanta que seu projeto esteja atualizado e em conformidade. Conte com a GreenGold Engenharia para soluções eficientes e com ART no CREA. #EngenhariaCivil #Saneamento #NBR17076 #TratamentoDeEsgoto #GreenGoldEngenharia #ProjetosDeEngenharia #Sustentabilidade #Construcao"
 }
