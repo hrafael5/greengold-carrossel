@@ -1,37 +1,32 @@
 {
  "formato": "erros",
  "tema_foto": "projeto",
- "capa_kicker": "NBR 16690",
- "capa_titulo": "A norma de projeto solar está em revisão!",
- "capa_subtitulo": "Entenda o que muda nas instalações elétricas fotovoltaicas e evite riscos.",
+ "capa_kicker": "NBR 16690 em revisão",
+ "capa_titulo": "Sua instalação solar pode estar em risco!",
+ "capa_subtitulo": "Entenda os sinais de um projeto fotovoltaico fora de conformidade e evite problemas.",
  "slides": [
   {
-   "titulo": "O que é a NBR 16690?",
-   "corpo": "A NBR 16690, publicada em outubro de 2019, estabelece os requisitos de projeto para instalações elétricas de arranjos fotovoltaicos, focando na parte de corrente contínua (CC). Ela define regras para condutores, dispositivos de proteção, seccionamento, aterramento e proteção contra sobrecorrente no lado dos módulos, garantindo a segurança e padronização das instalações.",
-   "chars_count": 399
+   "titulo": "Seccionamento de segurança ausente",
+   "corpo": "A NBR 16690 exige dispositivos de seccionamento de corrente contínua (CC) acessíveis para bombeiros e manutenção. Sua ausência pode impedir a segurança operacional e o combate a incêndios, representando um grave risco para a edificação."
   },
   {
-   "titulo": "Por que a NBR 16690 está sendo revisada?",
-   "corpo": "O processo de revisão da NBR 16690 visa incorporar exigências internacionais e alinhar-se à NBR 5410 (também em revisão). O principal foco é tratar o risco de incêndios de origem elétrica, que cresceu com a expansão dos sistemas solares. A norma vigente segue válida, mas a atualização acompanha a evolução do setor e outras normas correlatas da ABNT.",
-   "chars_count": 418
+   "titulo": "Condutores e proteções inadequadas",
+   "corpo": "Condutores do lado CC sem dimensionamento correto ou proteção contra sobrecorrente adequada são um sintoma comum de não conformidade. Isso pode levar a superaquecimento, falhas de isolamento e risco de incêndio na instalação fotovoltaica."
   },
   {
-   "titulo": "Sinais de um projeto fora da norma",
-   "corpo": "Um sistema fotovoltaico fora de conformidade pode apresentar ausência de dispositivo de seccionamento CC acessível, condutores sem dimensionamento ou proteção adequada contra sobrecorrente. A falta de projeto de aterramento coordenado com o SPDA da edificação e strings mal dimensionadas, gerando tensões acima do limite, são sintomas comuns de instalações inseguras.",
-   "chars_count": 420
+   "titulo": "Aterramento e SPDA deficientes",
+   "corpo": "A falta de um projeto de aterramento e proteção contra surtos (SPDA) coordenado com o sistema existente da edificação é crítica. A revisão da NBR 16690 busca reforçar essa integração, crucial para a segurança contra descargas atmosféricas."
   },
   {
-   "titulo": "Consequências da não conformidade",
-   "corpo": "A não conformidade com a NBR 16690 raramente é visível na instalação, mas manifesta-se meses depois em falhas de isolamento, arcos elétricos ou reprovação na vistoria da concessionária. Isso gera passivos técnicos, financeiros e legais para o proprietário, além de comprometer a segurança da edificação e de seus ocupantes, transformando um investimento em um problema sério.",
-   "chars_count": 420
+   "titulo": "Strings mal dimensionadas",
+   "corpo": "Strings mal dimensionadas podem gerar tensões acima do limite dos equipamentos, comprometendo a vida útil do sistema e a segurança. A NBR 16690 define os requisitos de projeto para evitar esses problemas técnicos e operacionais."
   },
   {
-   "titulo": "Como garantir a conformidade?",
-   "corpo": "Atender aos requisitos da NBR 16690 é um processo de engenharia, integrando o projeto do lado CC com normas como a NBR 5410 e a NBR IEC 61643-32. É crucial realizar levantamento e análise de risco da edificação, telhado e cargas. A conformidade exige um projeto elétrico assinado por profissional habilitado, com ART registrada, para assegurar a segurança e funcionalidade.",
-   "chars_count": 420
+   "titulo": "Projeto sem responsabilidade técnica",
+   "corpo": "Instalações executadas sem um projeto elétrico assinado por engenheiro e sem a devida Anotação de Responsabilidade Técnica (ART) no CREA são um sério problema. A conformidade com a NBR 16690 exige essa formalidade para garantir a segurança."
   }
  ],
- "cta_titulo": "Seu projeto fotovoltaico está seguro?",
- "cta_corpo": "A revisão da NBR 16690 reforça a necessidade de projetos elétricos e fotovoltaicos bem elaborados. Evite riscos e garanta a conformidade do seu sistema. Fale com a GreenGold Engenharia para um diagnóstico completo e um projeto que atenda às mais recentes exigências técnicas.",
- "legenda": "A segurança das instalações fotovoltaicas é fundamental e a NBR 16690 é sua maior aliada. Com a revisão da norma, é essencial estar atento às atualizações para garantir projetos elétricos eficientes e, acima de tudo, seguros. Invista em engenharia de qualidade para seu sistema solar.\n#EngenhariaEletrica #EnergiaSolar #Fotovoltaico #NBR16690 #ProjetoEletrico #Sustentabilidade #SegurancaEletrica #GreenGoldEngenharia"
+ "cta_titulo": "Sua instalação está segura?",
+ "cta_corpo": "A GreenGold Engenharia elabora projetos elétricos e fotovoltaicos em conformidade com as normas, incluindo a NBR 16690, garantindo segurança e eficiência para seu patrimônio. Fale com nossos especialistas.",
+ "legenda": "A NBR 16690 está em revisão e o futuro das instalações fotovoltaicas exige atenção. Garanta que seu projeto esteja em conformidade com as normas mais recentes, evitando riscos técnicos, legais e financeiros para seu imóvel. Conte com a GreenGold Engenharia para um projeto seguro e eficiente.\n#EngenhariaEletrica #EnergiaSolar #Fotovoltaico #NBR16690 #ProjetoEletrico #GreenGoldEngenharia #InstalacoesPrediais #SegurancaEletrica"
 }
