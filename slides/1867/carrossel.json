@@ -1,0 +1,32 @@
+{
+ "formato": "checklist",
+ "tema_foto": "tecnico",
+ "capa_kicker": "NBR 17291",
+ "capa_titulo": "Inspeção de Reservatórios: A norma mudou!",
+ "capa_subtitulo": "Novos critérios objetivos e responsabilidade técnica mais explícita para estruturas hidráulicas em concreto.",
+ "slides": [
+  {
+   "titulo": "Entenda a Nova NBR 17291",
+   "corpo": "A NBR 17291, publicada em 16 de junho de 2026, é a primeira norma brasileira dedicada exclusivamente à inspeção de estruturas hidráulicas em concreto. Ela padroniza a avaliação do estado de conservação, segurança e durabilidade de peças que retêm, conduzem ou armazenam água ou efluentes. Antes dela, o país não possuía um procedimento técnico único para essa avaliação."
+  },
+  {
+   "titulo": "Estruturas Cobertas pela Norma",
+   "corpo": "A norma abrange uma vasta gama de estruturas hidráulicas em concreto, incluindo reservatórios elevados de condomínios, cisternas enterradas, caixas d'água potável e reservatórios de detenção de águas pluviais. Também são cobertas caixas de passagem, poços de visita de esgoto, canais e galerias de drenagem urbana. Essas peças, em contato permanente com a água, sofrem com a combinação de pressão, cloro, esgoto e variação de temperatura, o que ataca o concreto e a armadura ao longo dos anos."
+  },
+  {
+   "titulo": "Critérios Objetivos para a Inspeção",
+   "corpo": "A NBR 17291 resolve a ausência de um método padronizado para inspeções. Antes, cada empresa avaliava de forma subjetiva, sem critérios claros sobre o que era uma fissura tolerável ou o risco da corrosão da armadura. Agora, a norma organiza tudo em critérios objetivos, reduzindo a subjetividade do laudo técnico e fornecendo uma base sólida para decisões de manutenção ou recuperação das estruturas."
+  },
+  {
+   "titulo": "Identifique a Necessidade de Inspeção",
+   "corpo": "Sinais visíveis indicam a urgência de uma inspeção formal, que muitas vezes são ignorados até virarem emergência. Fissuras ou trincas nas paredes, manchas de umidade, eflorescência (pó branco), armadura de aço exposta e enferrujada são alertas. Queda de nível sem consumo correspondente, água turva ou reservatórios de detenção que transbordam também sugerem problemas graves que exigem atenção."
+  },
+  {
+   "titulo": "O Processo da Inspeção Técnica",
+   "corpo": "A inspeção, conforme a NBR 17291, não é improvisada. Ela segue uma sequência técnica que começa com o levantamento documental (projeto, histórico de manutenções), seguido de inspeção visual detalhada com registro fotográfico. Inclui ensaios complementares quando necessário (profundidade de carbonatação, resistência do concreto) e a classificação das anomalias por grau de risco. Tudo culmina em um laudo técnico assinado por engenheiro."
+  }
+ ],
+ "cta_titulo": "Sua estrutura hidráulica está em dia?",
+ "cta_corpo": "A GreenGold Engenharia é especialista em inspeção e laudos técnicos conforme a NBR 17291. Entre em contato e assegure a conformidade e durabilidade de seus reservatórios e estruturas em concreto.",
+ "legenda": "A NBR 17291 traz clareza e segurança para a inspeção de estruturas hidráulicas em concreto. Não negligencie a saúde do seu patrimônio, siga as novas diretrizes para evitar riscos e garantir a durabilidade. Conte com a GreenGold Engenharia para laudos técnicos precisos e em conformidade.\n#NBR17291 #EngenhariaCivil #InspeçãoPredial #EstruturasHidraulicas #ConcretoArmado #ManutençãoPreventiva #SegurançaEstrutural #GreenGoldEngenharia"
+}
